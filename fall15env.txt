@@ -1,0 +1,51 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10310	EVSS	601	01	M	3.000	Economic Theory for Policy Analysis	TR	04:00 pm-05:15 pm	20	8	James Wesley Burnett (P)	08/25-12/16	ECTR 103	 
+10311	EVSS	602	01	M	3.000	Public Policy	T	05:00 pm-07:45 pm	10	0	Matthew C Nowlin (P)	08/25-12/16	MYBK 111	 
+10312	EVSS	605	01	M	3.000	Environmental Law and Regulatory Policy	MW	04:00 pm-05:15 pm	20	11	Lindeke S Mills (P)	08/25-12/16	MYBK 322	 
+10313	EVSS	610	01	M	3.000	Environmental Biology	TR	03:05 pm-04:20 pm	20	11	Courtney J Murren (P)	08/25-12/16	BELL 321	 
+13777	EVSS	627	01	G	4.000	Marine Tetrapod Biology	T	01:30 pm-04:30 pm	6	2	Andrew M Shedlock (P)	08/25-12/16	GMLM 202	 
+13778	EVSS	627L	01	G	0.000	Marine Tetrapod Biology	R	01:30 pm-04:30 pm	6	2	Andrew M Shedlock (P)	08/25-12/16	GMLM 202	 
+11984	EVSS	629	01	H	3.000	Conservation Biology	MWF	08:30 am-09:20 am	5	4	Dougald Archibald McCallum (P)	08/25-12/16	HWWE 307	 
+11480	EVSS	631	01	M	4.000	Pollution in the Environment	MWF	12:00 pm-12:50 pm	14	12	Vijay M Vulava (P)	08/25-12/16	SSMB 253	 
+12439	EVSS	631L	01	M	0.000	Pollution in the Environment Lab	W	02:00 pm-05:00 pm	14	12	Vijay M Vulava (P)	08/25-12/16	SSMB 241	 
+11898	EVSS	632	01	M	3.000	Social Science Methods in Environmental Studies	W	05:00 pm-07:45 pm	15	1	Annette M Watson (P)	08/25-12/16	MYBK 208	 
+10316	EVSS	646	01	M	2.000	Graduate Core Seminar	T	05:30 pm-07:10 pm	16	4	Barbara Austin Beckingham (P), Pamela Susan Lovelace	08/25-12/16	SSMB 215	 
+10317	EVSS	649	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	8	1	Khalid A Ali (P)	08/25-12/16	SSMB 255	 
+10318	EVSS	649	02	M	4.000	Geographic Information Systems	M	05:15 pm-08:15 pm	8	5	Norman S Levine (P)	08/25-12/16	SSMB 255	 
+10319	EVSS	649L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	8	1	Khalid A Ali (P)	08/25-12/16	SSMB 255	 
+10320	EVSS	649L	02	M	0.000	Geographic Information Systems	W	05:15 pm-08:15 pm	8	5	Norman S Levine (P)	08/25-12/16	SSMB 255	 
+14034	EVSS	690	01	M	3.000	Blueways-Greenways: Developing Examples as Models for Other Communities	 	TBA	0	-1	Norman S Levine (P)	08/25-12/16	TBA	 
+14084	EVSS	690	02	M	6.000	Student Garden at Dixie Plantation Expansion Project	 	TBA	0	-1	Tracy L Burkett (P)	08/25-12/16	TBA	 
+14248	EVSS	690	03	M	3.000	An Evolution of Lowcountry Local First's Growing New Farmers Program	 	TBA	0	-1	Jo Ann G Ewalt (P)	08/25-12/16	TBA	 
+13743	EVSS	691	01	M	6.000	Determining Human Impact on Least Tern Breeding Colonies Along a Gradient of Disturbance	 	TBA	0	-1	Timothy J Callahan (P)	08/25-12/16	TBA	 
+13821	EVSS	691	02	M	6.000	An Advocacy Coalition Framework Analysis of the Development of Offshore Wind Energy in SC	 	TBA	0	-1	Matthew C Nowlin (P)	08/25-12/16	TBA	 
+13854	EVSS	691	03	M	3.000	Watershed Hydrolic Analysis at Varying Scales: Turkey Creek, Huger, SC	 	TBA	0	-1	Timothy J Callahan (P)	08/25-12/16	TBA	 
+14031	EVSS	691	04	M	6.000	Evaluating the Impacts of Coastal Development on the Sinuosity and Water Quality of Tidal Creeks	 	TBA	0	-1	Timothy J Callahan (P)	08/25-12/16	TBA	 
+14069	EVSS	691	05	M	6.000	Effects of Soil Mulch Additions and Branching Order on Fine Root Decomposition in a Pine Forest	 	TBA	0	-1	Seth G Pritchard (P)	08/25-12/16	TBA	 
+14218	EVSS	691	06	M	3.000	Mesoscale Modeling of Benthic Communities	 	TBA	0	-1	Peter John Etnoyer (P)	08/25-12/16	TBA	 
+14259	EVSS	691	07	M	6.000	Settlement Chemistry of the Tassel Barnacle a Commensal of Dolphins	 	TBA	0	-1	Barbara Austin Beckingham (P)	08/25-12/16	TBA	 
+14301	EVSS	691	08	M	3.000	Analysis of Individual Choices by Traditional Medicinal Practioners in Ghana	 	TBA	0	-1	Annette M Watson (P)	08/25-12/16	TBA	 
+14579	EVSS	691	09	M	6.000	Potential for Business Development Through Urban Agriculture in Chas, SC	 	TBA	0	-1	Victoria M Vazquez (P)	08/25-12/16	TBA	 
+14589	EVSS	691	10	M	3.000	PFAA and Mercury in SC Alligators/Hunter Consumption Survey	 	TBA	0	-1	Pamela Susan Lovelace (P)	08/25-12/16	TBA	 
+14045	EVSS	693	01	M	1.000	Monitoring the Effect of Watershed Development and Climate in Coral Reefs in the USVI	 	TBA	0	-1	Khalid A Ali (P)	08/25-12/16	TBA	 
+14157	EVSS	693	02	M	3.000	Image Processing and Analysis Using Programming Language	 	TBA	0	-1	Norman S Levine (P)	08/25-12/16	TBA	 
+14188	EVSS	693	03	M	1.000	Hydrological Flow Modeling of Dixie Plantation using GIS	 	TBA	0	-1	Timothy J Callahan (P)	08/25-12/16	TBA	 
+14540	EVSS	693	04	M	3.000	Hazard Mitigation Planning	 	TBA	0	-1	Matthew C Nowlin (P)	08/25-12/16	TBA	 
+14590	EVSS	693	05	M	3.000	NNOCCI Study Circle	 	TBA	0	-1	Timothy J Callahan (P)	08/25-12/16	TBA	 
+10321	EVSS	695	01	M	3.000	ST: Wildlife Law	MW	02:00 pm-03:15 pm	20	16	Lindeke S Mills (P)	08/25-12/16	BELL 415	 
+14268	EVSS	695	02	M	3.000	ST: Applied GIS-Data Management, Visualization and Automation	TR	01:40 pm-02:55 pm	4	0	Norman S Levine (P)	08/25-12/16	SSMB 230	 
+12691	EVSS	724	01	G	4.000	Ichthyology	T	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/25-12/16	GMLM 101	 
+12692	EVSS	724L	01	G	0.000	Ichthyology Lab	R	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/25-12/16	GMLM 101	 
+13569	EVSS	746	01	G	3.000	Aquatic Toxicology	TR	06:30 pm-08:00 pm	12	9	Marie Elizabeth DeLorenzo (P)	08/25-12/16	GMLM 209	 
+13989	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/25-12/16	TBA	 
+14153	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Dianne I Greenfield (P)	08/25-12/16	TBA	 
+14217	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Kevin P Keenan (P)	08/25-12/16	TBA	 
+14322	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	P Brian Fisher (P)	08/25-12/16	TBA	 
+14584	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/25-12/16	TBA	 
+14601	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Tanya L Darden (P)	08/25-12/16	TBA	 
+11387	ENVT	200	01	M	3.000	Introduction to Environmental Studies	TR	01:40 pm-02:55 pm	27	4	Seth G Pritchard (P), Todd Jared LeVasseur	08/25-12/16	BELL 316	 
+11775	ENVT	200	02	M	3.000	Introduction to Environmental Studies	TR	12:15 pm-01:30 pm	27	-1	Todd Jared LeVasseur (P), Ian C Rumsey	08/25-12/16	RSS 251	 
+13712	ENVT	352	01	M	3.000	ST: Religion, Environmentalism, & the Natural World	MWF	11:00 am-11:50 am	18	6	Todd Jared LeVasseur (P)	08/25-12/16	ECTR 219	Special Topics
+14186	ENVT	355	01	M	2.000	Environmental Studies Field Internship	 	TBA	0	-1	Todd Jared LeVasseur (P)	08/25-12/16	TBA	 
+14235	ENVT	355	02	M	1.000	Projects Management in a Sustainability Office	 	TBA	0	-1	Todd Jared LeVasseur (P)	08/25-12/16	TBA	 
+14474	ENVT	355	04	M	3.000	Environmental Studies Field Internship	 	TBA	0	-1	Todd Jared LeVasseur (P)	08/25-12/16	TBA

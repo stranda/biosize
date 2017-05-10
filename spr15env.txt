@@ -1,0 +1,64 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+20555	EVSS	607	01	M	3.000	Administrative Law	TR	01:40 pm-02:55 pm	15	13	Lindeke S Mills (P)	01/12-05/06	MYBK 105	 
+22599	EVSS	624	01	G	4.000	Biometry	TR	09:00 am-10:15 am	6	1	Allan Edgar Strand (P)	01/12-05/06	GMLM 101	 
+22600	EVSS	624L	01	G	0.000	Biometry	T	10:30 am-01:29 pm	3	0	Allan Edgar Strand (P)	01/12-05/06	GMLM 101	 
+22601	EVSS	624L	02	G	0.000	Biometry	R	10:30 am-01:29 pm	3	1	Allan Edgar Strand (P)	01/12-05/06	GMLM 101	 
+20556	EVSS	630	01	M	3.000	Natural Resources Law and Policy	TR	04:00 pm-05:15 pm	15	11	Lindeke S Mills (P)	01/12-05/06	MYBK 105	 
+21544	EVSS	638	01	M	4.000	Introduction to Hydrogeology	MW	12:00 pm-01:15 pm	5	3	Timothy J Callahan (P)	01/12-05/06	SSMB 253	 
+21545	EVSS	638L	01	M	0.000	Introduction to Hydrogeology	M	01:45 pm-04:45 pm	5	3	Timothy J Callahan (P)	01/12-05/06	SSMB 253	 
+21874	EVSS	640	01	M	3.000	Earth System Science	MW	03:25 pm-04:40 pm	15	9	Barbara Austin Beckingham (P)	01/12-05/06	SSMB 245	 
+21542	EVSS	642	01	M	4.000	Fundamentals of Remote Sensing	M	12:00 pm-03:00 pm	6	0	David John Chadwick (P)	01/12-05/06	SSMB 255	 
+21543	EVSS	642L	01	M	0.000	Fundamentals of Remote Sensing Lab	W	12:00 pm-03:00 pm	6	0	David John Chadwick (P)	01/12-05/06	SSMB 255	 
+20557	EVSS	646	01	M	2.000	Graduate Core Seminar	T	05:30 pm-07:10 pm	15	5	Pamela Susan Lovelace (P), Leslie Burdett Hart	01/12-05/06	SSMB 138	 
+20558	EVSS	649	01	M	4.000	Geographic Information Systems	T	05:00 pm-08:00 pm	10	1	Norman S Levine (P)	01/12-05/06	SSMB 255	 
+20559	EVSS	649L	01	M	0.000	Geographic Information Systems	R	05:00 pm-08:00 pm	10	1	Norman S Levine (P)	01/12-05/06	SSMB 255	 
+23710	EVSS	650	01	M	3.000	Energy Production and Resources Management	MW	04:00 pm-05:15 pm	15	10	Narayanan Kuthirummal (P)	01/12-05/06	LONG 219	 
+20560	EVSS	659	01	M	3.000	Environmental Statistics	MW	05:30 pm-06:45 pm	20	2	Martin L Jones (P)	01/12-05/06	MYBK 108	 
+23896	EVSS	669	01	M	4.000	Advanced GIS: Environmental and Hazards Modeling	T	01:00 pm-04:00 pm	13	2	Norman S Levine (P)	01/12-05/06	SSMB 255	 
+23897	EVSS	669L	01	M	0.000	Advanced GIS: Environmental and Hazards Modeling Lab	R	01:01 pm-04:00 pm	13	2	Norman S Levine (P)	01/12-05/06	SSMB 255	 
+24054	EVSS	690	01	M	3.000	Measuring the Impact of Restored Shoreline from a Student-Driven Restoration Program in SC	 	TBA	0	-1	Lindeke S Mills (P)	01/12-05/06	TBA	 
+24180	EVSS	690	02	M	6.000	The Pilot Fish Habitat Characterization Program	 	TBA	0	-1	Gorka A Sancho (P)	01/12-05/06	TBA	 
+24250	EVSS	690	03	M	3.000	Corridor Planning Internship BCDCOG	 	TBA	0	-1	Kevin P Keenan (P)	01/12-05/06	TBA	 
+24295	EVSS	690	04	M	3.000	Designing a Community-Based Participatory Solid Waste Management Program for Urban Rivers	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24421	EVSS	690	05	M	3.000	Blueways-Greenways: Developing Examples as Models for Other Communities	 	TBA	0	-1	Norman S Levine (P)	01/12-05/06	TBA	 
+24484	EVSS	690	06	M	5.000	Development and Assessment of Environmental Education Professional Development	 	TBA	0	-1	Cynthia R Hall (P)	01/12-05/06	TBA	 
+24242	EVSS	691	01	M	6.000	Comparing Plasticity to Water Availability of Root Architectural Phenotypes	 	TBA	0	-1	Courtney J Murren (P)	01/12-05/06	TBA	 
+24282	EVSS	691	02	M	6.000	The Status of an Introduced Species (Phrynosoma cornutum) on Barrier Islands in SC, USA	 	TBA	0	-1	Eric J McElroy (P)	01/12-05/06	TBA	 
+24330	EVSS	691	03	M	6.000	Water Quality of Rooftop Harvested Rainwater	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24345	EVSS	691	04	M	3.000	Range Determination to Cynoscion arenarius and Characterizaion of Cynoscion Spp. Hybridization	 	TBA	0	-1	Tanya L Darden (P)	01/12-05/06	TBA	 
+24352	EVSS	691	05	M	6.000	Hurricane Monitoring	 	TBA	0	-1	Bernhard L Lindner (P)	01/12-05/06	TBA	 
+24382	EVSS	691	06	M	3.000	Measuring the Social Value of Ecosystem Services in the Mission-Arnasas NERR	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/12-05/06	TBA	 
+24389	EVSS	691	07	M	3.000	Evaluating A Nonformal Marine Education Program	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24442	EVSS	691	08	M	6.000	An Analysis of Sediment Remediation Outreach in the Great Lakes Region	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24529	EVSS	691	10	M	3.000	Understanding Perceptions of Climate Change in South Carolina's Coastal Counties	 	TBA	0	-1	Matthew C Nowlin (P)	01/12-05/06	TBA	 
+24615	EVSS	691	11	M	5.000	Monitoring the Effect of Watershed Development and Climate in Coral Reefs in the USVI	 	TBA	0	-1	Khalid A Ali (P)	01/12-05/06	TBA	 
+24628	EVSS	691	12	M	3.000	Watershed Hydrologic Analysis at Varying Scales	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24786	EVSS	691	13	M	6.000	Evaluating Collaborative Natural Resource Managment in the ACE Basin	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/12-05/06	TBA	 
+24831	EVSS	691	14	M	6.000	Distribution of a Vector of the Seatrout Parasite in South Carolina Estuaries	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/12-05/06	TBA	 
+24301	EVSS	693	01	M	3.000	Environmental Economics and Goverment Responses to Market Failure	 	TBA	0	-1	James Wesley Burnett (P)	01/12-05/06	TBA	 
+24388	EVSS	693	02	M	3.000	Certified Interpretive Guide Training	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24465	EVSS	693	03	M	3.000	Plant Physiology	 	TBA	0	-1	Seth G Pritchard (P)	01/12-05/06	TBA	 
+24476	EVSS	693	04	M	3.000	Certified Interpretive Guide Training	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24544	EVSS	693	05	M	2.000	Wind Energy in the US	 	TBA	0	-1	Matthew C Nowlin (P)	01/12-05/06	TBA	 
+24545	EVSS	693	06	M	3.000	Conservation Issues in Zambia: Community-Based Conservation, Wildlife Disease and Aquaculture	 	TBA	0	-1	Victoria M Vazquez (P)	01/12-05/06	TBA	 
+24609	EVSS	693	07	M	3.000	Evaluation of a Community-Based Coastal Resource Management Tool	 	TBA	0	-1	Tracy L Burkett (P)	01/12-05/06	TBA	 
+24610	EVSS	693	08	M	3.000	Coral Reef Monitoring and Management in Developing Countries	 	TBA	0	-1	Tracy L Burkett (P)	01/12-05/06	TBA	 
+24612	EVSS	693	09	M	2.000	Inlet Geomorphology Research	 	TBA	0	-1	Leslie R Sautter (P)	01/12-05/06	TBA	 
+21869	EVSS	695	01	M	3.000	ST: Ecopreneurship	TR	01:40 pm-02:55 pm	10	4	David J Hansen (P)	01/12-05/06	MYBK 117	 
+22505	EVSS	695	02	M	3.000	ST: Economies, Cultures and Environmental Governance	R	02:00 pm-04:45 pm	15	11	Claude Victor Van Sant (P)	01/12-05/06	SSMB 200	 
+24308	EVSS	695	03	M	3.000	ST: Applied Quantitative Methods	W	06:30 pm-09:29 pm	8	4	Daniel J McGlinn (P)	01/12-05/06	HWWE 307	 
+24027	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Wayne E. McFee (P)	01/12-05/06	TBA	 
+24112	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24323	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Janet L Key (P)	01/12-05/06	TBA	 
+24372	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/12-05/06	TBA	 
+24385	EVSS	900	05	M	2.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/12-05/06	TBA	 
+24551	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/12-05/06	TBA	 
+24573	EVSS	900	07	M	3.000	Continuous Enrollment	 	TBA	0	-1	P Brian Fisher (P)	01/12-05/06	TBA	 
+24787	EVSS	900	08	M	1.000	Continuous Enrollment	 	TBA	0	-1	Melissa Hughes (P)	01/12-05/06	TBA	 
+21108	ENVT	200	01	M	3.000	Introduction to Environmental Studies	MW	02:00 pm-03:15 pm	26	0	Todd Jared LeVasseur (P), Ian C Rumsey	01/12-05/06	RSS 249	 
+21835	ENVT	200	02	M	3.000	Introduction to Environmental Studies	MW	03:25 pm-04:40 pm	26	0	Todd Jared LeVasseur (P), Seth G Pritchard	01/12-05/06	RSS 249	 
+24617	ENVT	355	01	M	1.000	Building Sustainability Culture	 	TBA	0	-1	Seth G Pritchard (P)	01/12-05/06	TBA	 
+24618	ENVT	355	02	M	3.000	Aquaculture Conservation Certification Intern	 	TBA	0	-1	Seth G Pritchard (P)	01/12-05/06	TBA	 
+24619	ENVT	355	03	M	2.000	C of C Bike Share Intern	 	TBA	0	-1	Seth G Pritchard (P)	01/12-05/06	TBA	 
+21338	ENVT	395	01	M	1.000	Air Pollution Emissions from Livestock Production	T	11:00 am-11:50 am	20	1	Ian C Rumsey (P)	01/12-05/06	MYBK 222
+

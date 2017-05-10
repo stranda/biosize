@@ -1,0 +1,56 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+13833	EVSS	506	01	H	3.000	Conservation Biology	MWF	10:30 am-11:20 am	12	10	Dougald Archibald McCallum (P)	08/23-12/14	HWWE 211	 
+13838	EVSS	541	01	M	4.000	Pollution in the Environment	MWF	12:00 pm-12:50 pm	12	5	Vijay M Vulava (P)	08/23-12/14	SSMB 253	 
+13839	EVSS	541L	01	M	0.000	Pollution in Environment Lab	M	02:00 pm-05:00 pm	12	5	Vijay M Vulava (P)	08/23-12/14	SSMB 241	 
+13821	EVSS	544	01	M	4.000	Plant Ecology	MW	01:00 pm-02:15 pm	8	7	Courtney J Murren (P)	08/23-12/14	SSMB 200	 
+13823	EVSS	544L	01	M	0.000	Plant Ecology	W	02:25 pm-05:25 pm	8	7	Courtney J Murren (P)	08/23-12/14	SSMB 200	 
+13846	EVSS	549	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	9	3	Norman S Levine (P)	08/23-12/14	SSMB 255	 
+13848	EVSS	549L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	9	3	Norman S Levine (P)	08/23-12/14	SSMB 255	 
+10287	EVSS	601	01	M	3.000	Econ Theory For Policy Analysi	TR	04:00 pm-05:15 pm	20	11	James Wesley Burnett (P)	08/23-12/14	ECTR 101	 
+10288	EVSS	602	01	M	3.000	Public Policy	M	05:30 pm-08:15 pm	10	-10	Matthew C Nowlin (P)	08/23-12/14	ECTR 111	 
+10289	EVSS	605	01	M	3.000	Environ. Law/Regulatory Policy	MW	04:00 pm-05:15 pm	15	11	Lindeke S Mills (P)	08/23-12/14	ECTR 114	 
+13456	EVSS	606	01	M	3.000	Wildlife Law	MW	02:00 pm-03:15 pm	20	16	Lindeke S Mills (P)	08/23-12/14	RSS 105	 
+10290	EVSS	610	01	M	3.000	Environmental Biology	TR	03:05 pm-04:20 pm	20	4	Courtney J Murren (P)	08/23-12/14	RSS 102	 
+13980	EVSS	622	01	G	4.000	Ecology of Marine Organisms	MW	08:30 am-10:00 am	4	3	Craig J Plante (P)	08/23-12/14	GMLM 202	 
+13982	EVSS	622L	02	G	0.000	Ecology of Marine Organisms	W	02:00 pm-05:00 pm	2	1	Craig J Plante (P)	08/23-12/14	GMLM 101	 
+14009	EVSS	632	01	O	3.000	Soc Sci Methods in Env Studies	 	ONL	15	6	William R Veal (P), Annette M Watson	08/23-12/14	ONLINE	 
+10291	EVSS	646	01	M	2.000	Graduate Core Seminar	W	05:30 pm-07:10 pm	16	1	Pamela Susan Lovelace (P)	08/23-12/14	SSMB 138	 
+14038	EVSS	690	01	M	6.000	East Cooper Connected Land Conservation Plan	 	TBA	0	-1	Norman S Levine (P)	08/23-12/14	TBA	 
+14245	EVSS	690	02	M	3.000	Support for Establishment of a Center for Coastal Environmental and Human Health	 	TBA	0	-1	Paul Alan Sandifer (P)	08/23-12/14	TBA	 
+13822	EVSS	691	01	M	3.000	Hydrological Assessments of Tidal Creeks	 	TBA	0	-1	Timothy J Callahan (P)	08/23-12/14	TBA	 
+13844	EVSS	691	02	M	3.000	Effects of Beach Renourishment on Benthis Microalgae at Tybee Island, GA	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+13929	EVSS	691	03	M	3.000	Field Spectroscopy as a Tool for Enhancing Water Quality Monitoring in Ace Basin, SC	 	TBA	0	-1	Khalid A Ali (P)	08/23-12/14	TBA	 
+14003	EVSS	691	04	M	3.000	Expanding Knowledge Base on Sightings, Trends, Threats, and Environmental Influences on FL Manatee	 	TBA	0	-1	Norman S Levine (P)	08/23-12/14	TBA	 
+14039	EVSS	691	05	M	3.000	Top-Down and Bottom-Up Controls of Phytoplankton Assemblages in Two SC Estuaries	 	TBA	0	-1	Dianne I Greenfield (P)	08/23-12/14	TBA	 
+14070	EVSS	691	06	M	3.000	Assessing the Effect of Climate Variability on the SC Recreational and Commercial Blue Crab Fishery	 	TBA	0	-1	Timothy J Callahan (P)	08/23-12/14	TBA	 
+14144	EVSS	691	07	M	6.000	Physiological Impacts of the Biomedical Bleeding Process on the Atlantic Horseshoe Crab in SC	 	TBA	0	-1	Amy Elise Fowler (P)	08/23-12/14	TBA	 
+14201	EVSS	691	08	M	3.000	Toxicity Comparison of the Shoreline Cleaners in Two Life Stages of Grass Shrimp	 	TBA	0	-1	Marie Elizabeth DeLorenzo (P)	08/23-12/14	TBA	 
+14210	EVSS	691	09	M	3.000	A Multiple Method Approach to Evaluate Landward Migration of Seawater Intrusion in the FL Aquifer	 	TBA	0	-1	Timothy J Callahan (P)	08/23-12/14	TBA	 
+14212	EVSS	691	10	M	3.000	Evaluating the Effectiveness of a Recycling Program Initiative for Shucked Oyster Shells in Beaufort	 	TBA	0	-1	Kendra B Stewart (P)	08/23-12/14	TBA	 
+13796	EVSS	693	01	M	2.000	Development of Bathymetric Mapping Course	 	TBA	0	-1	Leslie R Sautter (P)	08/23-12/14	TBA	 
+14093	EVSS	693	02	M	1.000	Ensuring the Sustainability of Community-Based Projects	 	TBA	0	-1	Elizabeth Vernon Bell (P)	08/23-12/14	TBA	 
+14238	EVSS	693	03	M	1.000	An Environmentally Based Assessment of Guard Cell Mutations	 	TBA	0	-1	Courtney J Murren (P)	08/23-12/14	TBA	 
+10296	EVSS	695	01	M	3.000	ST: Ecopreneurship	TR	01:40 pm-02:55 pm	15	13	David J Hansen (P)	08/23-12/14	BCTR 212	 
+13005	EVSS	695	02	M	3.000	ST: Cultures, Economies, Env Gov	T	05:30 pm-08:15 pm	15	2	Annette M Watson (P)	08/23-12/14	MYBK 316	 
+12071	EVSS	724	01	G	4.000	Ichthyology	T	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/23-12/14	GMLM 101	 
+12072	EVSS	724L	01	G	0.000	Ichthyology Lab	R	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/23-12/14	GMLM 101	 
+12428	EVSS	746	01	G	3.000	Aquatic Toxicology	TR	06:30 pm-08:00 pm	5	2	Marie Elizabeth DeLorenzo (P)	08/23-12/14	GMLM 101	 
+13895	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Courtney J Murren (P)	08/23-12/14	TBA	 
+13991	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	08/23-12/14	TBA	 
+14061	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Pamela Susan Lovelace (P)	08/23-12/14	TBA	 
+14062	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	James Wesley Burnett (P)	08/23-12/14	TBA	 
+14096	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Marie Elizabeth DeLorenzo (P)	08/23-12/14	TBA	 
+14202	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Denise M. Sanger (P)	08/23-12/14	TBA	 
+14436	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/23-12/14	TBA	 
+11283	ENVT	200	01	M	3.000	Intro Enviro. & Sust. Studies	TR	12:15 pm-01:30 pm	28	1	Ian C Rumsey (P), Jennifer Michelle Saunders	08/23-12/14	RSS 101	 
+11612	ENVT	200	02	M	3.000	Intro Enviro. & Sust. Studies	TR	01:40 pm-02:55 pm	28	2	Barbara Austin Beckingham (P), Nicole Denise Seibert	08/23-12/14	RSS 101	 
+12536	ENVT	352	01	M	3.000	ST: The Spirit of Sustainability	MWF	11:00 am-11:50 am	20	0	Todd Jared LeVasseur (P)	08/23-12/14	RSS 106	Special Topics
+13543	ENVT	352	02	M	3.000	ST: Psychology of Social Change	TR	09:25 am-10:40 am	15	4	Jennifer Lyn Wright (P)	08/23-12/14	RSS 252	Special Topics
+13767	ENVT	355	01	M	1.000	Environmental Studies College of Charleston Grounds Department Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+13842	ENVT	355	02	M	3.000	Environmental Stud Field Int	 	TBA	0	-1	Todd Jared LeVasseur (P)	08/23-12/14	TBA	 
+14148	ENVT	355	03	M	2.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14208	ENVT	355	04	M	3.000	Coastal Conservation League Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14235	ENVT	355	05	M	1.000	CofC Grounds Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14209	ENVT	355	06	M	2.000	Zero Waste Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14408	ENVT	355	07	M	2.000	CofC Grounds Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14418	ENVT	355	08	M	1.000	CofC Grounds Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA

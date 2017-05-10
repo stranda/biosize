@@ -1,0 +1,79 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+20989	EVSS	601	01	M	3.000	Econ Theory For Policy Analysi	M	05:30 pm-08:15 pm	14	3	Richard A Bilas (P)	01/09-05/02	RSS 249	 
+20990	EVSS	602	01	M	3.000	Public Policy	TR	01:40 pm-02:55 pm	14	3	Lindeke S Mills (P)	01/09-05/02	MYBK 105	 
+22422	EVSS	602	02	M	3.000	Public Policy	W	05:30 pm-08:15 pm	5	2	Jo Ann G Ewalt (P)	01/09-05/02	ECTR 108	 
+20991	EVSS	607	01	M	3.000	Administrative Law	MW	04:00 pm-05:15 pm	15	11	Lindeke S Mills (P)	01/09-05/02	BELL 403	 
+20992	EVSS	624	01	G	4.000	Biometry	TR	09:00 am-10:25 am	5	-3	Allan Edgar Strand (P)	01/09-05/02	GMLM 101	 
+20993	EVSS	624L	01	G	0.000	Biometry	T	10:30 am-01:30 pm	5	-3	Allan Edgar Strand (P)	01/09-05/02	GMLM 101	 
+20995	EVSS	630	01	M	3.000	Natural Resources Law And Poli	TR	04:00 pm-05:15 pm	15	11	Lindeke S Mills (P)	01/09-05/02	MYBK 223	 
+24244	EVSS	632	01	M	3.000	Soc Sci Methods in Env Studies	R	05:30 pm-08:30 pm	20	1	Annette M Watson (P)	01/09-05/02	ECTR 115	 
+24192	EVSS	638	01	M	4.000	Introductory Hydrogeology	TR	10:50 am-12:05 pm	8	6	Timothy J Callahan (P)	01/09-05/02	SSMB 239	 
+24193	EVSS	638L	01	M	0.000	Introductory Hydrogeology	R	02:00 pm-05:00 pm	4	2	Timothy J Callahan (P)	01/09-05/02	RHSC 341	 
+24190	EVSS	642	01	M	4.000	Geological App Of Remote Sensi	W	02:00 pm-05:00 pm	6	5	David John Chadwick (P)	01/09-05/02	SSMB 239	 
+24191	EVSS	642L	01	M	0.000	Geological App of Remote Sens	F	01:00 pm-04:00 pm	6	5	David John Chadwick (P)	01/09-05/02	SSMB 239	 
+21000	EVSS	646	01	M	2.000	Graduate Core Seminar	T	05:30 pm-07:20 pm	14	4	Pamela Susan Lovelace (P), Timothy J Callahan	01/09-05/02	SSMB 138	 
+21001	EVSS	649	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	12	6	Khalid A Ali (P)	01/09-05/02	SSMB 241	 
+21002	EVSS	649L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	12	7	Khalid A Ali (P)	01/09-05/02	SSMB 241	 
+21003	EVSS	650	01	M	3.000	Energy Prod & Resource Mngt	MW	04:00 pm-05:15 pm	15	8	Narayanan Kuthirummal (P)	01/09-05/02	RHSC 125	 
+25293	EVSS	657	01	M	3.000	Satellite Meteorology	TR	09:25 am-10:40 am	36	36	TBA	01/09-05/02	RHSC 108	 
+21004	EVSS	659	01	M	3.000	Environmental Statistics	W	05:30 pm-08:15 pm	20	5	Martin L Jones (P)	01/09-05/02	ECTR 109	 
+24759	EVSS	690	01	M	3.000-6.000	IN: Invest of Common Bottlenos	 	TBA	0	-1	Wayne E. McFee (P)	01/09-05/02	TBA	 
+24765	EVSS	690	02	M	3.000-6.000	IN: Demonstating Sust Agric	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24841	EVSS	690	03	M	3.000-6.000	IN: Residential Stormwater Pon	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24901	EVSS	690	04	M	3.000-6.000	IN: Protecting OK's Biodiv.	 	TBA	0	-1	Maria A Whitehead (P)	01/09-05/02	TBA	 
+24903	EVSS	690	05	M	3.000-6.000	IN: Commodity Chain Analysis	 	TBA	0	-1	Annette M Watson (P)	01/09-05/02	TBA	 
+25290	EVSS	690	06	M	3.000-6.000	IN: Demo and Hab of Diamond.	 	TBA	0	-1	David William Owens (P)	01/09-05/02	TBA	 
+24370	EVSS	691	01	M	3.000-6.000	MST: Monit and Fate of Org Sun	 	TBA	0	-1	Edward Frank Wirth (P)	01/09-05/02	TBA	 
+24476	EVSS	691	02	M	3.000-6.000	MST: Anal of Char of Foraging	 	TBA	0	-1	Melissa Kennedy Bimbi (P)	01/09-05/02	TBA	 
+24562	EVSS	691	03	M	3.000-6.000	MST: How do People Perc Scient	 	TBA	0	-1	Annette M Watson (P)	01/09-05/02	TBA	 
+24745	EVSS	691	04	M	3.000-6.000	MST: HAb Selec of Juv Swallow	 	TBA	0	-1	Maria A Whitehead (P)	01/09-05/02	TBA	 
+24758	EVSS	691	05	M	3.000-6.000	MST: Dev Part GIS Methods	 	TBA	0	-1	Annette M Watson (P)	01/09-05/02	TBA	 
+24761	EVSS	691	06	M	3.000-6.000	MST: Comparative Impact of	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/09-05/02	TBA	 
+24766	EVSS	691	07	M	3.000-6.000	MST: Pop Struct of Spot	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24769	EVSS	691	08	M	3.000-6.000	MST: Seed Dispersal and Pop De	 	TBA	0	-1	Allan Edgar Strand (P)	01/09-05/02	TBA	 
+24814	EVSS	691	09	M	3.000-6.000	MST: Prop of Marine Date	 	TBA	0	-1	Michael S Harris (P)	01/09-05/02	TBA	 
+24816	EVSS	691	10	M	3.000-6.000	MST: Effect of Mgmt on Harvest	 	TBA	0	-1	John Thomas Carmichael (P)	01/09-05/02	TBA	 
+24858	EVSS	691	11	M	3.000-6.000	MST: Char the Hydrology and	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24860	EVSS	691	12	M	3.000-6.000	MST: Socioeconomic & Ecosystem	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/09-05/02	TBA	 
+24861	EVSS	691	13	M	3.000-6.000	MST: Societal Responses	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/09-05/02	TBA	 
+24902	EVSS	691	14	M	3.000-6.000	MST: Biograph Assess of Eco	 	TBA	0	-1	Joel Michael Gramling (P)	01/09-05/02	TBA	 
+24935	EVSS	691	15	M	3.000-6.000	MST: Understanding Conserv.	 	TBA	0	-1	Edwin Whitfield McMillan (P)	01/09-05/02	TBA	 
+25008	EVSS	691	16	M	3.000-6.000	MST: Rev of Wetland Determinat	 	TBA	0	-1	Daniel L. Tufford (P)	01/09-05/02	TBA	 
+25115	EVSS	691	17	M	3.000-6.000	MST: Shaping Perceptions	 	TBA	0	-1	P Brian Fisher (P)	01/09-05/02	TBA	 
+25162	EVSS	691	19	M	3.000-6.000	MST: Age & Growth of Bonnet	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24752	EVSS	693	01	M	1.000-4.000	IS: Coastal Mapping and Visual	 	TBA	0	-1	Michael S Harris (P)	01/09-05/02	TBA	 
+24898	EVSS	693	02	M	1.000-4.000	IS: Alt Economies	 	TBA	0	-1	Annette M Watson (P)	01/09-05/02	TBA	 
+24904	EVSS	693	03	M	1.000-4.000	IS: 3D Visual of Habitat	 	TBA	0	-1	Michael S Harris (P)	01/09-05/02	TBA	 
+24195	EVSS	695	01	M	4.000	ADVANCED GIS	T	02:00 pm-05:00 pm	12	-2	Norman S Levine (P)	01/09-05/02	SSMB 239	 
+24247	EVSS	695	02	M	3.000	ST: Ecopreneurship	MW	02:00 pm-03:15 pm	10	7	David J Hansen (P)	01/09-05/02	TCFE T133	 
+24248	EVSS	695	03	M	3.000	ST: Interpreting Science	MW	06:00 pm-07:15 pm	15	5	Edwin Whitfield McMillan (P)	01/09-05/02	RHSC 228	 
+24196	EVSS	695L	01	M	0.000	Special Topics in Env Stu Lab	R	02:00 pm-05:00 pm	12	-1	Norman S Levine (P)	01/09-05/02	SSMB 239	 
+21010	EVSS	726	01	G	3.000	Fisheries Science	TR	05:00 pm-06:30 pm	5	3	Marcel J Reichert (P)	01/09-05/02	GMLA 113	 
+24474	EVSS	900	01	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Wayne E. McFee (P)	01/09-05/02	TBA	 
+24744	EVSS	900	02	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Joel Michael Gramling (P)	01/09-05/02	TBA	 
+24820	EVSS	900	03	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/09-05/02	TBA	 
+24906	EVSS	900	04	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24909	EVSS	900	05	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24911	EVSS	900	06	M	1.000-9.000	Continuous Enrollment	 	TBA	0	0	Timothy J Callahan (P)	01/09-05/02	TBA	 
+24912	EVSS	900	07	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	P Brian Fisher (P)	01/09-05/02	TBA	 
+24939	EVSS	900	08	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24940	EVSS	900	09	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/02	TBA	 
+25007	EVSS	900	10	M	1.000-9.000	Continuous Enrollment	 	TBA	0	-1	Eric J McElroy (P)	01/09-05/02	TBA	 
+22021	ENVT	200	01	M	3.000	Intro to Environmental Studies	TR	10:50 am-12:05 pm	30	-2	Tracy L Burkett (P), Benton Neil Taylor	01/09-05/02	MYBK 100	 
+23216	ENVT	350	01	M	3.000	Pub. Understanding/Hurricanes	TBA	0	0	TBA	01/09-05/02	TBA	 
+24581	ENVT	350	02	M	1.000-4.000	Coral Disease Detection	 	TBA	0	-1	Andrew M Shedlock (P)	01/09-05/02	TBA	 
+24585	ENVT	350	03	M	1.000-4.000	Native Plants for Green Roof Applications	 	TBA	0	-1	Seth G Pritchard (P)	01/09-05/02	TBA	 
+23488	ENVT	355	01	M	3.000	McCrady's Micro-Green Project	TBA	0	0	TBA	01/09-05/02	TBA	 
+23532	ENVT	355	02	M	3.000	South Carolina Aquarium Intern	TBA	0	0	TBA	01/09-05/02	TBA	 
+24579	ENVT	355	03	M	1.000-3.000	LLF Sustainable Agriculture	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24727	ENVT	355	04	M	1.000-3.000	Coastal Conservation League	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24834	ENVT	355	05	M	1.000	Crop-up Charleston	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24843	ENVT	355	06	M	3.000	Sustainable Pest Management: Bat House Placement	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24845	ENVT	355	07	M	1.000	Renewable Energy Internship	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24846	ENVT	355	08	M	3.000	S.C. Aquarium Internship	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+24999	ENVT	355	09	M	3.000	Low Country Local First: Farm	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+25092	ENVT	355	10	M	1.000	Habitat for Humanity	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+25093	ENVT	355	11	M	3.000	Office of Sustainability	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+25094	ENVT	355	12	M	1.000	Coastal Conservation League	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/02	TBA	 
+25095	ENVT	355	13	M	1.000	Charleston Co. Planning	 	TBA	0	-1	Deborah M Auriffeille (P)	01/09-05/02	TBA	 
+22578	ENVT	395	01	M	1.000	Environmental Studies Seminar	W	04:00 pm-05:00 pm	20	8	Benton Neil Taylor (P)	01/09-05/02	MYBK 207

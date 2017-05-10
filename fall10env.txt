@@ -1,0 +1,29 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10494	EVSS	601	1	M	3.000	Economic Theory for Policy Analysis	MW	04:00 pm-05:15 pm	14	-1	Raymond J Rhodes (P), Calvin Blackwell	08/24-12/15	BCTR 214	 
+10495	EVSS	602	1	M	3.000	Public Policy	TR	01:40 pm-02:55 pm	15	1	Lindeke S Mills (P)	08/24-12/15	ECTR 115	 
+10497	EVSS	605	1	M	3.000	Environmental Law and Regulatory Policy	MW	04:00 pm-05:15 pm	15	6	Lindeke S Mills (P)	08/24-12/15	MYBK 105	 
+10499	EVSS	610	1	M	3.000	Environmental Biology	TR	03:05 pm-04:20 pm	15	0	Courtney J Murren (P)	08/24-12/15	MYBK 208	 
+10500	EVSS	626	1	M	3.000	Environmental Immunology	TR	12:00 pm-01:30 pm	5	2	Karen Gray Burnett (P)	08/24-12/15	GMLM 202	 
+10501	EVSS	627	1	M	4.000	Marine Tetrapod Biology	T	01:30 pm-04:30 pm	6	1	David William Owens (P)	08/24-12/15	GMLM 202	 
+10502	EVSS	627L	1	M	0.000	Marine Tetrapod Biology	R	01:30 pm-04:30 pm	6	1	David William Owens (P)	08/24-12/15	GMLM 202	 
+10503	EVSS	628	1	M	4.000	Plant Ecology	MWF	01:00 pm-01:50 pm	10	10	Courtney J Murren (P)	08/24-12/15	RHSC 218	 
+10504	EVSS	628L	1	M	0.000	Plant Ecology	W	02:00 pm-05:00 pm	10	10	Courtney J Murren (P)	08/24-12/15	RHSC 204	 
+10505	EVSS	633	1	L	3.000	Urban Planning	W	06:00 pm-08:45 pm	5	2	Kevin P Keenan (P)	08/24-12/15	NORT 104	 
+10506	EVSS	640	1	M	3.000	Earth System Science	MW	05:30 pm-06:45 pm	14	1	Steven C Jaume' (P)	08/24-12/15	RHSC 344	 
+12830	EVSS	641	1	M	4.000	Aqueous Geochemistry	MWF	12:00 pm-12:50 pm	10	8	Vijay M Vulava (P)	08/24-12/15	RHSC 344	 
+12831	EVSS	641L	1	M	0.000	Aqueous Geochemistry	W	01:00 pm-04:00 pm	10	9	Vijay M Vulava (P)	08/24-12/15	RHSC 344	 
+10509	EVSS	646	1	M	1.000	Graduate Core Seminar	T	07:00 pm-07:50 pm	15	1	Pamela Susan Lovelace (P)	08/24-12/15	MYBK 110	 
+10510	EVSS	649	1	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	12	5	Norman S Levine (P)	08/24-12/15	NSCB 239	 
+10511	EVSS	649	2	M	4.000	Geographic Information Systems	M	02:00 pm-05:00 pm	12	7	Norman S Levine (P)	08/24-12/15	NSCB 239	 
+10512	EVSS	649L	1	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	12	5	Norman S Levine (P)	08/24-12/15	NSCB 239	 
+10513	EVSS	649L	2	M	0.000	Geographic Information Systems	W	02:00 pm-05:00 pm	12	7	Norman S Levine (P)	08/24-12/15	NSCB 239	 
+10514	EVSS	680	1	M	4.000	Case Studies in Environmental Issues	T	04:30 pm-08:00 pm	0	-12	P Brian Fisher (P)	08/24-12/15	MYBK 105	 
+10515	EVSS	695	1	M	3.000	Wildlife Law	MW	02:30 pm-03:45 pm	15	2	Lindeke S Mills (P)	08/24-12/15	RSS 101	 
+10516	EVSS	695	2	M	3.000	Politics of Environmental Science	R	05:00 pm-08:00 pm	15	7	Annette M Watson (P)	08/24-12/15	MYBK 110	 
+10517	EVSS	695	3	M	3.000	Ecopreneurship	MW	02:00 pm-03:15 pm	10	7	David J Hansen (P)	08/24-12/15	ECTR 212	 
+12634	EVSS	695	4	M	3.000	Light Pollution	TR	04:00 pm-05:15 pm	10	8	Terry R Richardson (P)	08/24-12/15	RHSC 125	 
+12635	EVSS	695	5	L	3.000	ST: Principle of Urban Form	M	06:00 pm-08:45 pm	10	5	Layne Mitchell West (P)	08/24-12/15	NORT 135	 
+13006	EVSS	695	6	M	3.000	Special Topics: Water Resources	TR	12:15 pm-01:30 pm	5	0	Timothy J Callahan (P)	08/24-12/15	RHSC 344	 
+10518	EVSS	724	1	M	4.000	Ichthyology	T	08:00 am-11:00 am	5	0	Antony Scott Harold (P)	08/24-12/15	GMLM 101	 
+10519	EVSS	724L	1	M	0.000	Ichthyology	R	08:00 am-11:00 am	5	0	Antony Scott Harold (P)	08/24-12/15	GMLM 101	 
+10520	EVSS	746	1	M	3.000	Aquatic Toxicology	M	05:30 pm-08:30 pm	5	1	Margaret Mae Peden-Adams (P)	08/24-12/15	GMLM 202

@@ -1,0 +1,71 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+20619	EVSS	602	01	M	3.000	Public Policy	M	05:30 pm-08:15 pm	15	3	Matthew C Nowlin (P)	01/08-05/02	RSS 251	 
+20620	EVSS	607	01	M	3.000	Administrative Law	TR	01:40 pm-02:55 pm	15	13	Lindeke S Mills (P)	01/08-05/02	MYBK 105	 
+24108	EVSS	624	01	G	4.000	Biometry	TR	09:00 am-10:25 am	5	1	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+24109	EVSS	624L	01	G	0.000	Biometry	T	10:30 am-01:30 pm	3	1	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+24110	EVSS	624L	02	G	0.000	Biometry	R	10:30 am-01:30 pm	2	0	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+20621	EVSS	630	01	M	3.000	Natural Resources Law And Poli	TR	04:00 pm-05:15 pm	15	-1	Lindeke S Mills (P)	01/08-05/02	MYBK 105	 
+21833	EVSS	632	01	M	3.000	Soc Sci Methods in Env Studies	W	05:30 pm-08:15 pm	15	0	Annette M Watson (P)	01/08-05/02	RSS 251	 
+21809	EVSS	638	01	M	4.000	Introductory Hydrogeology	W	12:00 pm-03:00 pm	5	3	Timothy J Callahan (P)	01/08-05/02	SSMB 253	 
+21810	EVSS	638L	01	M	0.000	Introductory Hydrogeology	F	12:00 pm-03:00 pm	5	3	Timothy J Callahan (P)	01/08-05/02	SSMB 261	 
+22372	EVSS	640	01	M	3.000	Earth System Science	MW	02:00 pm-03:15 pm	15	-1	Barbara Austin Beckingham (P)	01/08-05/02	SSMB 200	 
+21807	EVSS	642	01	M	4.000	Geological App Of Remote Sensi	M	12:00 pm-02:00 pm	6	6	David John Chadwick (P)	01/08-05/02	SSMB 255	 
+21808	EVSS	642L	01	M	0.000	Geological App of Remote Sens	W	12:00 pm-04:00 pm	6	6	David John Chadwick (P)	01/08-05/02	SSMB 255	 
+20622	EVSS	646	01	M	2.000	Graduate Core Seminar	T	05:30 pm-07:10 pm	15	3	Pamela Susan Lovelace (P)	01/08-05/02	SSMB 138	 
+20623	EVSS	649	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	10	2	Khalid A Ali (P)	01/08-05/02	SSMB 253	 
+20624	EVSS	649L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	10	2	Khalid A Ali (P)	01/08-05/02	SSMB 253	 
+20626	EVSS	659	01	M	3.000	Environmental Statistics	MW	04:00 pm-05:15 pm	20	0	Martin L Jones (P)	01/08-05/02	MYBK 113	 
+23915	EVSS	690	01	M	3.000	INT: Promoting Env Literacy	 	TBA	0	-1	John S Peters (P)	01/08-05/02	TBA	 
+24459	EVSS	690	02	M	3.000	INT: A Model to Create a Consistent Message Throughout the SE US through Educational Lessons	 	TBA	0	-1	Eric J McElroy (P)	01/08-05/02	TBA	 
+24495	EVSS	690	03	M	6.000	INT: Barriers and Resources	 	TBA	0	-1	Janet L Key (P)	01/08-05/02	TBA	 
+24530	EVSS	690	04	M	6.000	IS: GIS-based Decision	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24639	EVSS	690	05	M	3.000	INT: Coastal Resrouces & Fisheries Mgmt Office, BayBay, Leyte, Phillipines	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24640	EVSS	690	06	M	3.000	INT: Middle School Env Ed	 	TBA	0	-1	Elizabeth Vernon Bell (P)	01/08-05/02	TBA	 
+24654	EVSS	690	07	M	3.000	INT: Sustainability Science	 	TBA	0	0	P Brian Fisher (P)	01/08-05/02	TBA	 
+24655	EVSS	690	08	M	6.000	INT: Public-Private Ptnrships	 	TBA	0	-1	Kendra B Stewart (P)	01/08-05/02	TBA	 
+24657	EVSS	690	09	M	6.000	INT: Water Quality Program	 	TBA	0	-1	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24922	EVSS	690	10	M	3.000	INT: A Model to Create a Consistent Message Throughout the SE US through Educational Lessons	 	TBA	0	-1	Eric J McElroy (P)	01/08-05/02	TBA	 
+24938	EVSS	690	11	M	6.000	A Participatory Approach to Preparing for Sea Level Rise in Beaufort County, SC	 	TBA	0	0	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24216	EVSS	691	01	M	6.000	MST: Effects of Rapid Dev	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24367	EVSS	691	02	M	6.000	MST: Soil Science	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/08-05/02	TBA	 
+24376	EVSS	691	03	M	6.000	MST: Values in Lowcountry	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24503	EVSS	691	04	M	6.000	MST: Water Quality Assessment of Tidal Waters in Upper Inlet Creek, Mt. Pleasant, SC	 	TBA	0	-1	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24524	EVSS	691	05	M	6.000	MST: Pygmy Sperm Whale	 	TBA	0	-1	Wayne E. McFee (P)	01/08-05/02	TBA	 
+24534	EVSS	691	06	M	6.000	MST: Nitrogen Forms	 	TBA	0	-1	Dianne I Greenfield (P)	01/08-05/02	TBA	 
+24638	EVSS	691	07	M	3.000	MST: Carbon Footprint of Dining Services at CofC	 	TBA	0	-1	P Brian Fisher (P)	01/08-05/02	TBA	 
+24656	EVSS	691	08	M	6.000	MST: Ecohydrology	 	TBA	0	-1	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24658	EVSS	691	09	M	6.000	MST: Marine Spatial Planning	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24928	EVSS	691	10	M	3.000	Genetic Morphological and Chem	 	TBA	0	-1	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24361	EVSS	693	01	M	4.000	IS: Ornithology	 	TBA	0	-1	Dougald Archibald McCallum (P)	01/08-05/02	TBA	 
+24498	EVSS	693	02	M	3.000	IS: Soc Sci for Proj Eval	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/08-05/02	TBA	 
+24501	EVSS	693	03	M	3.000	IS: Community Based Env Ed	 	TBA	0	-1	Elizabeth Vernon Bell (P)	01/08-05/02	TBA	 
+24502	EVSS	693	04	M	1.000	IS: Applied GIS	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24527	EVSS	693	05	M	3.000	IS: Applied GIS: Python	 	TBA	0	-2	Norman S Levine (P)	01/08-05/02	TBA	 
+24770	EVSS	693	06	M	3.000	IS: SC TNC Restoration	 	TBA	0	-1	Joy Meredith Brown (P)	01/08-05/02	TBA	 
+24848	EVSS	693	07	M	2.000	IS: Bathymetric Analysis of NE Seamounts vs Rio de Janeiro Seamounts	 	TBA	0	-1	Leslie R Sautter (P), Mitchell W Colgan	01/08-05/02	TBA	 
+24870	EVSS	693	08	M	2.000	IS: Remote Sensing	 	TBA	0	-1	Khalid A Ali (P)	01/08-05/02	TBA	 
+24935	EVSS	693	09	G	3.000	IS: Seasonal Var of Parasites	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24940	EVSS	693	10	M	3.000	Sustainability Science	 	TBA	0	-1	P Brian Fisher (P)	01/08-05/02	TBA	 
+21811	EVSS	695	01	M	4.000	ST: Advanced GIS	T	02:00 pm-05:00 pm	10	6	Norman S Levine (P)	01/08-05/02	SSMB 255	 
+22356	EVSS	695	02	M	3.000	Special Topics In Eviron Studi	TR	01:40 pm-02:55 pm	10	10	David J Hansen (P)	01/08-05/02	MYBK 101	 
+24008	EVSS	695	03	M	3.000	ST: Water Use Law	R	05:00 pm-07:45 pm	10	10	Melinda A Lucka Kelley (P)	01/08-05/02	RSS 248	 
+21812	EVSS	695L	01	M	0.000	Special Topics in Env Stu Lab	R	02:00 pm-05:00 pm	10	6	Norman S Levine (P)	01/08-05/02	SSMB 255	 
+20627	EVSS	726	01	G	3.000	Fisheries Science	TR	05:00 pm-06:30 pm	5	1	Marcel J Reichert (P)	01/08-05/02	GMLA 113	 
+24210	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-2	Khalid A Ali (P)	01/08-05/02	TBA	 
+24345	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-3	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24365	EVSS	900	03	M	3.000	Continuous Enrollment	 	TBA	0	-1	Michael S Harris (P)	01/08-05/02	TBA	 
+24366	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-3	Norman S Levine (P)	01/08-05/02	TBA	 
+24386	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Steven C Jaume' (P)	01/08-05/02	TBA	 
+24636	EVSS	900	06	M	3.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24637	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	P Brian Fisher (P)	01/08-05/02	TBA	 
+24652	EVSS	900	08	M	1.000	Continuous Enrollment	 	TBA	0	-2	Annette M Watson (P)	01/08-05/02	TBA	 
+21220	ENVT	200	01	M	3.000	Intro to Environmental Studies	TR	09:25 am-10:40 am	19	0	Seth G Pritchard (P), Jesse A Baker	01/08-05/02	MYBK 222	 
+22289	ENVT	200	02	M	3.000	Intro to Environmental Studies	MW	02:00 pm-03:15 pm	19	1	Todd Jared LeVasseur (P), Dorian R McMillan	01/08-05/02	MYBK 105	 
+24832	ENVT	350	01	M	3.000	Sustainable Aquaponics System	 	TBA	0	-1	Seth G Pritchard (P)	01/08-05/02	TBA	 
+24883	ENVT	350	02	M	4.000	Sustainable Agriculture	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/08-05/02	TBA	 
+23695	ENVT	352	01	M	3.000	ST: Utopian Communities	TR	04:30 pm-05:45 pm	10	1	Todd Jared LeVasseur (P)	01/08-05/02	RSS 251	 
+24338	ENVT	355	01	M	3.000	The Green Heart Project Marketing and Communications Internship	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/08-05/02	TBA	 
+24814	ENVT	355	02	M	3.000	Green Business Challenge Internship	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/08-05/02	TBA	 
+24831	ENVT	355	03	M	3.000	Sustainable Move-Out	 	TBA	0	-6	Todd Jared LeVasseur (P)	01/08-05/02	TBA	 
+24911	ENVT	355	04	M	3.000	Environmental Education and Outreach Internship	 	TBA	0	-1	Victoria M Vazquez (P)	01/08-05/02	TBA	 
+21503	ENVT	395	01	M	1.000	Radical Environmentalism	W	12:00 pm-12:50 pm	15	1	Todd Jared LeVasseur (P)	01/08-05/02	ECTR 102

@@ -1,0 +1,62 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10336	EVSS	601	01	M	3.000	Economic Theory for Policy Analysis	TR	05:30 pm-06:45 pm	20	6	James Wesley Burnett (P)	08/19-12/10	ECTR 103	 
+10337	EVSS	602	01	M	3.000	Public Policy	M	05:30 pm-08:15 pm	12	0	Matthew C Nowlin (P)	08/19-12/10	MYBK 111	 
+10338	EVSS	605	01	M	3.000	Environmental Law and Regulatory Policy	MW	04:00 pm-05:15 pm	20	14	Lindeke S Mills (P)	08/19-12/10	MYBK 207	 
+10339	EVSS	610	01	M	3.000	Environmental Biology	TR	03:05 pm-04:20 pm	20	12	Courtney J Murren (P)	08/19-12/10	MYBK 105	 
+10340	EVSS	627	01	G	4.000	Marine Tetrapod Biology	T	01:30 pm-04:30 pm	6	5	David William Owens (P)	08/19-12/10	GMLM 202	 
+10341	EVSS	627L	01	G	0.000	Marine Tetrapod Biology	R	01:30 pm-04:30 pm	6	5	David William Owens (P)	08/19-12/10	GMLM 202	 
+12549	EVSS	629	01	H	3.000	Conservation Biology	MWF	08:30 am-09:20 am	5	3	Dougald Archibald McCallum (P)	08/19-12/10	HWWE 307	 
+11619	EVSS	631	01	M	4.000	Pollution in the Environment	MWF	12:00 pm-12:50 pm	15	4	Barbara Austin Beckingham (P)	08/19-12/10	SSMB 253	 
+13658	EVSS	631L	01	M	0.000	Pollution in the Environment Lab	W	02:00 pm-05:00 pm	8	-3	Barbara Austin Beckingham (P)	08/19-12/10	SSMB 241	 
+12246	EVSS	632	01	M	3.000	Social Science Methods in Environmental Studies	T	05:30 pm-08:15 pm	15	1	Pamela Susan Lovelace (P)	08/19-12/10	MYBK 107	 
+12248	EVSS	639	01	M	3.000	Wetlands and Watersheds	TR	12:15 pm-01:30 pm	8	2	Timothy J Callahan (P)	08/19-12/10	SSMB 253	 
+10342	EVSS	646	01	M	2.000	Graduate Core Seminar	W	05:30 pm-07:10 pm	16	5	Timothy J Callahan (P), Leslie Burdett Hart	08/19-12/10	SSMB 138	 
+10343	EVSS	649	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	8	2	Khalid A Ali (P)	08/19-12/10	SSMB 255	 
+10344	EVSS	649	02	M	4.000	Geographic Information Systems	M	04:00 pm-07:00 pm	8	2	Norman S Levine (P)	08/19-12/10	SSMB 255	 
+10345	EVSS	649L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	8	2	Khalid A Ali (P)	08/19-12/10	SSMB 255	 
+10346	EVSS	649L	02	M	0.000	Geographic Information Systems	W	04:00 pm-07:00 pm	8	2	Norman S Levine (P)	08/19-12/10	SSMB 255	 
+12290	EVSS	659	01	M	3.000	Environmental Statistics	MW	05:30 pm-06:45 pm	20	12	Martin L Jones (P)	08/19-12/10	MYBK 116	 
+14022	EVSS	690	01	M	3.000	INT: Coastal Res Mgmt Phil	 	TBA	0	0	Tracy L Burkett (P)	08/19-12/10	TBA	 
+14037	EVSS	690	02	M	6.000	Internship	 	TBA	0	-1	Pamela Susan Lovelace (P)	08/19-12/10	TBA	 
+14038	EVSS	690	03	M	6.000	Internship	 	TBA	0	0	Vijay M Vulava (P)	08/19-12/10	TBA	 
+14094	EVSS	690	04	M	6.000	Southeast Atlantic Restoration Methods: A Comparative Study	 	TBA	0	0	Khalid A Ali (P)	08/19-12/10	TBA	 
+14212	EVSS	690	06	M	6.000	A Participatory Approach to Preparing for Sea Level Rise in Beaufort County, SC	 	TBA	0	-1	Elizabeth Kerrigan Fly (P)	08/19-12/10	TBA	 
+14218	EVSS	690	07	M	3.000	Corridor Planning Internship BCDCOG	 	TBA	0	-1	Kevin P Keenan (P)	08/19-12/10	TBA	 
+14232	EVSS	690	08	M	3.000	Internship Research	 	TBA	0	-1	Vijay M Vulava (P)	08/19-12/10	TBA	 
+14561	EVSS	690	09	M	3.000	Impacts of Coastal Resource Management: A Case Study in Baybay, Leyte	 	TBA	0	-1	Melissa Hughes (P)	08/19-12/10	TBA	 
+13843	EVSS	691	01	M	3.000	Thesis	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14152	EVSS	691	02	M	6.000	Water Budget of a Surficial Aquifer in the Atlantic Coastal Plain: ACE Basin	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14234	EVSS	691	03	M	3.000	Range Determination of Cynoscion Arenarius and Characterization of Cynoscion Spp. Hybridization	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14235	EVSS	691	04	M	3.000	Measuring the Social Value of Ecosystem Services in the Mission Arnasas NERR	 	TBA	0	-1	Pamela Susan Lovelace (P)	08/19-12/10	TBA	 
+13844	EVSS	693	01	M	3.000	IS: Coastal Issues&Processes	 	TBA	0	-1	Michael S Harris (P)	08/19-12/10	TBA	 
+14052	EVSS	693	02	M	3.000	Independent Study	 	TBA	0	-1	Eric J McElroy (P)	08/19-12/10	TBA	 
+14054	EVSS	693	03	M	3.000	Independent Study	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14058	EVSS	693	04	M	3.000	Independent Study	 	TBA	0	-1	David William Owens (P)	08/19-12/10	TBA	 
+14109	EVSS	693	05	M	3.000	Independent Study	 	TBA	0	-1	Norman S Levine (P)	08/19-12/10	TBA	 
+14151	EVSS	693	06	M	3.000	Green Business Challenge Internship with City of Charleston Sustainability Department	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14156	EVSS	693	07	M	3.000	Current Topics, Analytical Techniques and Experimental Approaches in the Field of Soil Science	 	TBA	0	-1	Allan Edgar Strand (P)	08/19-12/10	TBA	 
+14239	EVSS	693	08	M	3.000	Python Programming and ArcGIS Application Development	 	TBA	0	-1	Norman S Levine (P)	08/19-12/10	TBA	 
+14306	EVSS	693	09	M	3.000	Environmental Isotopes Lab - Research and Education	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14317	EVSS	693	10	M	3.000	The Effects of a Newly-Established MPA on Commercially Targeted Snapper-Grouper Species	 	TBA	0	-1	Leslie R Sautter (P)	08/19-12/10	TBA	 
+14461	EVSS	693	11	M	3.000	Participatory Approaches to Community-Based Project Design and Development	 	TBA	0	-1	Elizabeth Vernon Bell (P)	08/19-12/10	TBA	 
+14500	EVSS	693	12	M	1.000	Ecology: Plasticity in the Environment	 	TBA	0	-1	Courtney J Murren (P)	08/19-12/10	TBA	 
+14521	EVSS	693	13	M	3.000	Coastal Resource Management in the Philippines	 	TBA	0	-1	Tracy L Burkett (P)	08/19-12/10	TBA	 
+14534	EVSS	693	14	M	3.000	Exploring Artemisia Annua and Effects of Traditional Medicine in Ghana	 	TBA	0	-1	John H Rashford (P)	08/19-12/10	TBA	 
+10347	EVSS	695	01	M	3.000	ST: Wildlife Law	MW	02:00 pm-03:15 pm	20	15	Lindeke S Mills (P)	08/19-12/10	MYBK 105	 
+13963	EVSS	724	01	G	4.000	Ichthyology	T	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/19-12/10	GMLM 101	 
+13964	EVSS	724L	01	G	0.000	Ichthyology	R	08:00 am-11:00 am	5	4	Antony Scott Harold (P)	08/19-12/10	GMLM 101	 
+14018	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	0	Annette M Watson (P)	08/19-12/10	TBA	 
+14097	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Dianne I Greenfield (P)	08/19-12/10	TBA	 
+14153	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14154	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	P Brian Fisher (P)	08/19-12/10	TBA	 
+14168	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Khalid A Ali (P)	08/19-12/10	TBA	 
+14211	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/19-12/10	TBA	 
+14213	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14233	EVSS	900	08	M	3.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14365	EVSS	900	09	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	08/19-12/10	TBA	 
+14522	EVSS	900	10	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	08/19-12/10	TBA	 
+11500	ENVT	200	01	M	3.000	Introduction to Environmental Studies	MW	02:00 pm-03:15 pm	26	1	Todd Jared LeVasseur (P), Seth G Pritchard	08/19-12/10	RSS 101	 
+11982	ENVT	200	02	M	3.000	Introduction to Environmental Studies	TR	01:40 pm-02:55 pm	26	1	Todd Jared LeVasseur (P), Dorian R McMillan	08/19-12/10	MYBK 115	 
+14304	ENVT	355	01	M	3.000	Environmental Studies Field Internship	 	TBA	0	-2	Seth G Pritchard (P)	08/19-12/10	TBA	 
+14305	ENVT	355	02	M	1.000	Environmental Studies Field Internship	 	TBA	0	-1	Seth G Pritchard (P)	08/19-12/10	TBA	 
+14384	ENVT	355	03	M	1.000	La Ferme du Collet Eco-community	 	TBA	0	-1	Tracy L Burkett (P)	08/19-10/07	TBA

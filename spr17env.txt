@@ -1,0 +1,11 @@
+CRN 	Subj 	Crse 	Sec 	Cmp 	Cred 	Title 	Days 	Time 	Cap 	Rem 	Instructor 	Date (MM/DD) 	Location 	Attribute
+21479 	ENVT 	200 	01 	M 	3.000 	Intro Enviro. & Sust. Studies 	TR 	12:15 pm-01:30 pm 	28 	0 	Seth G Pritchard (P), Caroline B Foster 	01/11-05/05 	BELL 312 	 
+20953 	ENVT 	200 	02 	M 	3.000 	Intro Enviro. & Sust. Studies 	TR 	01:40 pm-02:55 pm 	28 	2 	Barbara Austin Beckingham (P), Nicole Denise Seibert 	01/11-05/05 	SSMB 215 	 
+23660 	ENVT 	200 	03 	M 	3.000 	Intro Enviro. & Sust. Studies 	TR 	10:50 am-12:05 pm 	28 	3 	Jennifer Michelle Saunders (P), Ashley Lynn Lavender 	01/11-05/05 	BELL 403 	 
+24307 	ENVT 	350 	01 	M 	1.000 	Ploidy comparisons of Gracilaria vermiculophylla 	  	TBA 	0 	-1 	Erik Sotka (P) 	01/11-05/05 	TBA 	 
+24420 	ENVT 	350 	02 	M 	2.000 	Fisheries Science 	  	TBA 	0 	-1 	Marcel J Reichert (P) 	01/11-05/05 	TBA 	 
+24583 	ENVT 	350 	03 	M 	3.000 	Hurricanes of Charleston 	  	TBA 	0 	-1 	Bernhard L Lindner (P) 	01/11-05/05 	TBA 	 
+22385 	ENVT 	352 	01 	M 	3.000 	ST: Race, Gender and Environment 	TR 	12:15 pm-01:30 pm 	10 	0 	Kristi Jo Brian (P) 	01/11-05/05 	LCTR B08 	Special Topics
+24316 	ENVT 	355 	01 	M 	2.000 	Sustainable Transportation 	  	TBA 	0 	-1 	Allison Marie Welch (P) 	01/11-05/05 	TBA 	 
+24440 	ENVT 	355 	02 	M 	3.000 	Environmental Stud Field Int 	  	TBA 	0 	-1 	Allison Marie Welch (P) 	01/11-05/05 	TBA 	 
+23770 	ENVT 	395 	02 	M 	1.000 	Environmental Studies Seminar 	MW 	09:00 am-09:50 am 	12 	2 	Barry L Stiefel (P) 	01/11-03/02 	SCFA 307 	 

@@ -1,0 +1,285 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+20136	BIOL	101	01	M	4.000	Concepts/Apps in Biology I	MWF	11:00 am-11:50 am	77	3	Heather Nicole Pritchard (P)	01/08-05/02	RHSC 121	 
+20137	BIOL	101	02	M	4.000	Concepts/Apps in Biology I	TR	08:00 am-09:15 am	77	12	Margaret Elizabeth Grant Burton (P)	01/08-05/02	RHSC 121	 
+20138	BIOL	101	03	M	4.000	Concepts/Apps in Biology I	TR	05:30 pm-06:45 pm	38	4	Walter Marshall Blair (P)	01/08-05/02	RHSC 121	 
+20143	BIOL	101L	05	M	0.000	Concepts/Apps in Biology I Lab	M	01:31 pm-04:29 pm	24	1	Brian G Scholtens (P), Michelle M Jordan	01/08-05/02	LCTR 339	 
+20141	BIOL	101L	07	M	0.000	Concepts/Apps in Biology I Lab	M	04:30 pm-07:30 pm	24	1	Brian G Scholtens (P), Janessy Frometa	01/08-05/02	LCTR 339	 
+22315	BIOL	101L	09	M	0.000	Concepts/Apps in Biology I Lab	M	07:31 pm-10:30 pm	24	3	Brian G Scholtens (P), Michelle M Jordan	01/08-05/02	LCTR 339	 
+20144	BIOL	101L	15	M	0.000	Concepts/Apps in Biology I Lab	T	01:31 pm-04:30 pm	24	3	Brian G Scholtens (P), Mark Parker Lehtonen	01/08-05/02	LCTR 339	 
+22316	BIOL	101L	17	M	0.000	Concepts/Apps in Biology I Lab	T	04:31 pm-07:30 pm	24	2	Brian G Scholtens (P), Mark Parker Lehtonen	01/08-05/02	LCTR 339	 
+20145	BIOL	101L	25	M	0.000	Concepts/Apps in Biology I Lab	W	01:31 pm-04:31 pm	24	1	Brian G Scholtens (P), Janessy Frometa	01/08-05/02	LCTR 339	 
+20142	BIOL	101L	27	M	0.000	Concepts/Apps in Biology I Lab	W	04:30 pm-07:30 pm	24	3	Brian G Scholtens (P), Janessy Frometa	01/08-05/02	LCTR 339	 
+24280	BIOL	101L	35	M	0.000	Concepts/Apps in Biology I Lab	R	01:31 pm-04:29 pm	24	5	Brian G Scholtens (P), Mark Parker Lehtonen	01/08-05/02	LCTR 339	 
+20146	BIOL	102	01	M	4.000	Concepts/Apps in Biology II	MWF	09:00 am-09:50 am	77	1	Miranda Lynette McManus (P)	01/08-05/02	RHSC 121	 
+20147	BIOL	102	02	M	4.000	Concepts/Apps in Biology II	MWF	01:00 pm-01:50 pm	77	-1	Miranda Lynette McManus (P)	01/08-05/02	RHSC 121	 
+20148	BIOL	102	03	M	4.000	Concepts/Apps in Biology II	MW	05:30 pm-06:45 pm	77	30	Michael Douglas Arendt (P)	01/08-05/02	RHSC 123	 
+20149	BIOL	102	04	M	4.000	Concepts/Apps in Biology II	TR	08:00 am-09:15 am	77	28	Kathleen Elizabeth Janech (P)	01/08-05/02	RHSC 123	 
+20150	BIOL	102	05	M	4.000	Concepts/Apps in Biology II	TR	10:50 am-12:05 pm	77	2	Kathleen Elizabeth Janech (P)	01/08-05/02	RHSC 123	 
+20154	BIOL	102L	03	M	0.000	Concepts/Apps in Biol II Lab	M	10:30 am-01:30 pm	24	1	Brian G Scholtens (P), Hope Wertz	01/08-05/02	LCTR 341	 
+20155	BIOL	102L	05	M	0.000	Concepts/Apps in Biol II Lab	M	01:31 pm-04:29 pm	24	1	Brian G Scholtens (P), Hayley Mills DeHart	01/08-05/02	LCTR 341	 
+20156	BIOL	102L	07	M	0.000	Concepts/Apps in Biol II Lab	M	04:30 pm-07:30 pm	0	0	Brian G Scholtens (P)	01/08-05/02	LCTR 341	 
+20157	BIOL	102L	09	M	0.000	Concepts/Apps in Biol II Lab	M	07:31 pm-10:30 pm	24	2	Brian G Scholtens (P), Courtney Ann Heuring	01/08-05/02	LCTR 341	 
+20158	BIOL	102L	11	M	0.000	Concepts/Apps in Biol II Lab	T	07:30 am-10:30 am	24	9	Brian G Scholtens (P), Lauren Hernandez-Rubio Senn	01/08-05/02	LCTR 341	 
+20159	BIOL	102L	13	M	0.000	Concepts/Apps in Biol II Lab	T	10:31 am-01:30 pm	24	1	Brian G Scholtens (P), Lauren Hernandez-Rubio Senn	01/08-05/02	LCTR 341	 
+20160	BIOL	102L	15	M	0.000	Concepts/Apps in Biol II Lab	T	01:31 pm-04:30 pm	24	3	Brian G Scholtens (P), Lauren Hernandez-Rubio Senn	01/08-05/02	LCTR 341	 
+20161	BIOL	102L	17	M	0.000	Concepts/Apps in Biol II Lab	T	04:31 pm-07:30 pm	24	1	Brian G Scholtens (P), Hannah Bouchillon	01/08-05/02	LCTR 341	 
+22318	BIOL	102L	19	M	0.000	Concepts/Apps in Biol II Lab	T	07:31 pm-10:30 pm	24	3	Brian G Scholtens (P), Hannah Bouchillon	01/08-05/02	LCTR 341	 
+20162	BIOL	102L	23	M	0.000	Concepts/Apps in Biol II Lab	W	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), Courtney Ann Heuring	01/08-05/02	LCTR 341	 
+20163	BIOL	102L	25	M	0.000	Concepts/Apps in Biol II Lab	W	01:31 pm-04:30 pm	24	0	Brian G Scholtens (P), Taylor A. Shick	01/08-05/02	LCTR 341	 
+20164	BIOL	102L	27	M	0.000	Concepts/Apps in Biol II Lab	W	04:31 pm-07:30 pm	24	0	Brian G Scholtens (P), Taylor A. Shick	01/08-05/02	LCTR 341	 
+22319	BIOL	102L	29	M	0.000	Concepts/Apps in Biol II Lab	W	07:31 pm-10:30 pm	24	3	Brian G Scholtens (P), Taylor A. Shick	01/08-05/02	LCTR 341	 
+20165	BIOL	102L	33	M	0.000	Concepts/Apps in Biol II Lab	R	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), Hope Wertz	01/08-05/02	LCTR 341	 
+22320	BIOL	102L	35	M	0.000	Concepts/Apps in Biol II Lab	R	01:31 pm-04:30 pm	24	1	Brian G Scholtens (P), Hope Wertz	01/08-05/02	LCTR 341	 
+24281	BIOL	102L	43	M	0.000	Concepts/Apps in Biol II Lab	F	10:30 am-01:29 pm	24	15	Brian G Scholtens (P), Hayley Mills DeHart	01/08-05/02	LCTR 341	 
+22321	BIOL	102L	45	M	0.000	Concepts/Apps in Biol II Lab	F	01:30 pm-04:30 pm	24	15	Brian G Scholtens (P), Hayley Mills DeHart	01/08-05/02	LCTR 341	 
+20166	BIOL	111	01	M	3.000	Intro Cell Molec Biology	MWF	02:00 pm-02:50 pm	80	12	Heather Nicole Pritchard (P)	01/08-05/02	RHSC 121	 
+20167	BIOL	111	02	M	3.000	Intro Cell Molec Biology	TR	05:30 pm-06:45 pm	40	7	Nora Beth Blair (P)	01/08-05/02	RHSC 123	 
+21813	BIOL	111	03	M	3.000	Intro Cell Molec Biology	TR	12:15 pm-01:30 pm	80	-1	Erin Richard (P)	01/08-05/02	SSMB 129	 
+20168	BIOL	111L	05	M	1.000	Intro to Cell and Mol Biol Lab	M	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Janelle Johnson	01/08-05/02	RHSC 318	 
+20169	BIOL	111L	07	M	1.000	Intro to Cell and Mol Biol Lab	M	04:31 pm-07:30 pm	24	1	Brian G Scholtens (P), Janelle Johnson	01/08-05/02	RHSC 318	 
+22322	BIOL	111L	09	M	1.000	Intro to Cell and Mol Biol Lab	M	07:31 pm-10:30 pm	24	3	Brian G Scholtens (P), Janelle Johnson	01/08-05/02	RHSC 318	 
+20170	BIOL	111L	15	M	1.000	Intro to Cell and Mol Biol Lab	T	01:31 pm-04:29 pm	24	1	Brian G Scholtens (P), Renaud Geslain	01/08-05/02	RHSC 318	 
+22323	BIOL	111L	17	M	1.000	Intro to Cell and Mol Biol Lab	T	04:31 pm-07:30 pm	24	2	Brian G Scholtens (P), Wiley Nicholas Sinkus	01/08-05/02	RHSC 318	 
+20171	BIOL	111L	25	M	1.000	Intro to Cell and Mol Biol Lab	W	01:30 pm-04:30 pm	24	1	Brian G Scholtens (P), Wiley Nicholas Sinkus	01/08-05/02	RHSC 318	 
+22324	BIOL	111L	27	M	1.000	Intro to Cell and Mol Biol Lab	W	04:31 pm-07:30 pm	24	3	Brian G Scholtens (P), Wiley Nicholas Sinkus	01/08-05/02	RHSC 318	 
+22325	BIOL	111L	35	M	1.000	Intro to Cell and Mol Biol Lab	R	01:31 pm-04:30 pm	24	1	Brian G Scholtens (P), Drew Jerome Lee Duckett	01/08-05/02	RHSC 318	 
+20172	BIOL	112	01	M	3.000	Evolution, Form, and Function	MWF	08:00 am-08:50 am	80	30	Andrew J Clark (P)	01/08-05/02	RHSC 121	 
+20173	BIOL	112	02	M	3.000	Evol, Form & Func Of Organisms	MWF	10:00 am-10:50 am	80	1	Andrew J Clark (P)	01/08-05/02	RHSC 121	 
+20174	BIOL	112	03	M	3.000	Evol, Form & Func Of Organisms	MWF	10:00 am-10:50 am	80	17	Jean B Everett (P)	01/08-05/02	MYBK 100	 
+20175	BIOL	112	04	M	3.000	Evol, Form & Func Of Organisms	TR	03:05 pm-04:20 pm	24	0	Melissa Hughes (P)	01/08-05/02	SSMB 129	 
+20177	BIOL	112	06	M	3.000	LC 3: Life, The Universe, and Writing about Everything	TR	03:05 pm-04:20 pm	20	1	Melissa Hughes (P)	01/08-05/02	SSMB 129	Learning Community 3
+23353	BIOL	112	08	M	3.000	Evol, Form & Func Of Organisms	TR	03:05 pm-04:20 pm	24	1	Melissa Hughes (P)	01/08-05/02	SSMB 129	 
+21821	BIOL	112	09	M	3.000	Evol, Form & Func Of Organisms	TR	01:40 pm-02:55 pm	40	3	Margaret Elizabeth Grant Burton (P)	01/08-05/02	SSMB 138	 
+21814	BIOL	112	10	M	3.000	Evol, Form and Func of Organis	TR	09:25 am-10:40 am	80	-3	Deborah A Bidwell (P)	01/08-05/02	RHSC 121	 
+22355	BIOL	112	11	M	3.000	Evol, Form & Func Of Organisms	TBA	0	0	TBA	01/08-05/02	TBA	 
+23354	BIOL	112	15	M	3.000	Evol, Form & Func Of Organisms	TR	03:05 pm-04:20 pm	0	0	Melissa Hughes (P)	01/08-05/02	SSMB 129	 
+22326	BIOL	112	17	M	3.000	Evol, Form & Func Of Organisms	TR	03:05 pm-04:20 pm	24	2	Melissa Hughes (P)	01/08-05/02	SSMB 129	 
+22331	BIOL	112	19	M	3.000	Evol, Form & Func Of Organisms	MWF	01:00 pm-01:50 pm	40	-4	Deborah A Bidwell (P)	01/08-05/02	RHSC 218	 
+22332	BIOL	112	25	M	3.000	Evol, Form & Func Of Organisms	TBA	0	0	TBA	01/08-05/02	TBA	 
+20176	BIOL	112	29	M	3.000	Evol, Form & Func Of Organisms	MW	05:30 pm-06:45 pm	40	15	William A Roumillat (P)	01/08-05/02	SSMB 138	 
+21822	BIOL	112	43	M	3.000	Evol, Form & Func Of Organisms	TR	03:05 pm-04:20 pm	24	13	Melissa Hughes (P)	01/08-05/02	SSMB 129	 
+23346	BIOL	112L	03	M	1.000	Evol, Form, Func Organisms Lab	M	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), Ann Wassick	01/08-05/02	LCTR 340	 
+20178	BIOL	112L	04	M	1.000	Evol, Form, Func Organisms Lab	M	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Alec J Turner	01/08-05/02	LCTR 342	 
+22334	BIOL	112L	06	M	1.000	LC 3: Life, The Universe, and Writing about Everything	M	01:31 pm-04:30 pm	20	1	Brian G Scholtens (P), Alec J Turner	01/08-05/02	LCTR 342	Learning Community 3
+23713	BIOL	112L	08	M	1.000	Evol, Form, Func Organisms Lab	M	07:30 pm-10:30 pm	24	0	Brian G Scholtens (P), Robert Mehnert Edman	01/08-05/02	LCTR 340	 
+20183	BIOL	112L	11	M	1.000	Evol, Form, Func Organisms Lab	T	07:30 am-10:30 am	24	1	Brian G Scholtens (P), Jessica Sarah Snyder	01/08-05/02	LCTR 340	 
+20184	BIOL	112L	13	M	1.000	Evol, Form, Func Organisms Lab	T	10:31 am-01:30 pm	24	1	Brian G Scholtens (P), Elizabeth Anne Vinyard	01/08-05/02	LCTR 340	 
+24265	BIOL	112L	14	M	1.000	Evol, Form, Func Organisms Lab	T	10:31 am-01:30 pm	24	2	Brian G Scholtens (P), Robin Lynn Frede	01/08-05/02	LCTR 342	 
+20185	BIOL	112L	15	M	1.000	Evol, Form, Func Organisms Lab	T	01:31 pm-04:30 pm	24	0	Brian G Scholtens (P), Claire E Stegman	01/08-05/02	LCTR 340	 
+22335	BIOL	112L	16	M	1.000	Evol, Form, Func Organisms Lab	T	01:31 pm-04:30 pm	24	0	Brian G Scholtens (P), Robin Lynn Frede	01/08-05/02	LCTR 342	 
+20186	BIOL	112L	17	M	1.000	Evol, Form, Func Organisms Lab	T	04:31 pm-07:30 pm	24	2	Brian G Scholtens (P), Whitney L Heuring	01/08-05/02	LCTR 340	 
+22336	BIOL	112L	19	M	1.000	Evol, Form, Func Organisms Lab	T	07:31 pm-10:30 pm	24	1	Brian G Scholtens (P), Claire E Stegman	01/08-05/02	LCTR 340	 
+20187	BIOL	112L	23	M	1.000	Evol, Form, Func Organisms Lab	W	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Jessica Sarah Snyder	01/08-05/02	LCTR 340	 
+20188	BIOL	112L	25	M	1.000	Evol, Form, Func Organisms Lab	W	01:31 pm-04:30 pm	24	0	Brian G Scholtens (P), Jessica Sarah Snyder	01/08-05/02	LCTR 340	 
+22337	BIOL	112L	26	M	1.000	Evol, Form, Func Organisms Lab	W	01:30 pm-04:30 pm	24	4	Brian G Scholtens (P), Rebecca Joy Balazs	01/08-05/02	LCTR 342	 
+20189	BIOL	112L	27	M	1.000	Evol, Form, Func Organisms Lab	W	04:31 pm-07:30 pm	24	0	Brian G Scholtens (P), Robin Lynn Frede	01/08-05/02	LCTR 340	 
+22338	BIOL	112L	29	M	1.000	Evol, Form, Func Organisms Lab	W	07:31 pm-10:30 pm	0	0	Brian G Scholtens (P)	01/08-05/02	LCTR 340	 
+20190	BIOL	112L	33	M	1.000	Evol, Form, Func Organisms Lab	R	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Christopher Mealey	01/08-05/02	LCTR 340	 
+22339	BIOL	112L	35	M	1.000	Evol, Form, Func Organisms Lab	R	01:31 pm-04:30 pm	24	2	Brian G Scholtens (P), Elizabeth Anne Vinyard	01/08-05/02	LCTR 340	 
+22340	BIOL	112L	36	M	1.000	Evol, Form, Func Organisms Lab	R	01:30 pm-04:30 pm	24	-1	Brian G Scholtens (P), Claire E Stegman	01/08-05/02	LCTR 342	 
+20181	BIOL	112L	43	M	1.000	Evol, Form, Func Organisms Lab	F	10:30 am-01:30 pm	24	14	Brian G Scholtens (P), Whitney L Heuring	01/08-05/02	LCTR 340	 
+23852	BIOL	112L	44	M	1.000	Evol, Form, Func Organisms Lab	F	10:30 am-01:30 pm	24	16	Brian G Scholtens (P), Christopher Mealey	01/08-05/02	LCTR 342	 
+22341	BIOL	112L	45	M	1.000	Evol, Form, Func Organisms Lab	F	01:31 pm-04:30 pm	24	4	Brian G Scholtens (P), Christopher Mealey	01/08-05/02	LCTR 340	 
+22342	BIOL	112L	46	M	1.000	Evol, Form, Func Organisms Lab	F	01:31 pm-04:30 pm	24	4	Brian G Scholtens (P), Rebecca Joy Balazs	01/08-05/02	LCTR 342	 
+20191	BIOL	201	01	M	4.000	Human Physiology	MWF	10:00 am-10:50 am	144	3	Jason T Vance (P)	01/08-05/02	PHYM 101	 
+20192	BIOL	201L	01	M	0.000	Human Physiology Lab	T	08:00 am-10:59 am	24	0	Eric J McElroy (P)	01/08-05/02	RHSC 223	 
+20193	BIOL	201L	02	M	0.000	Human Physiology Lab	T	11:00 am-01:59 pm	24	2	Eric J McElroy (P)	01/08-05/02	RHSC 223	 
+20194	BIOL	201L	03	M	0.000	Human Physiology Lab	T	02:00 pm-04:59 pm	24	0	Eric J McElroy (P)	01/08-05/02	RHSC 223	 
+20195	BIOL	201L	04	M	0.000	Human Physiology Lab	F	11:00 am-01:59 pm	24	0	Norma Juliana Salcedo (P)	01/08-05/02	RHSC 223	 
+20196	BIOL	201L	05	M	0.000	Human Physiology Lab	F	02:00 pm-04:59 pm	24	1	Norma Juliana Salcedo (P)	01/08-05/02	RHSC 223	 
+24204	BIOL	201L	06	M	0.000	Human Physiology Lab	M	06:00 pm-09:00 pm	24	0	Margaret Elizabeth Grant Burton (P)	01/08-05/02	RHSC 223	 
+20197	BIOL	202	01	M	4.000	Human Anatomy	TR	08:00 am-09:15 am	144	28	Peyre G Pringle (P)	01/08-05/02	SSMB 129	 
+20198	BIOL	202L	01	M	0.000	Human Anatomy Lab	M	11:00 am-01:55 pm	23	5	Peyre G Pringle (P)	01/08-05/02	RHSC 227	 
+20199	BIOL	202L	02	M	0.000	Human Anatomy Lab	M	02:00 pm-04:55 pm	23	3	Jane Price Ellis (P)	01/08-05/02	RHSC 227	 
+20200	BIOL	202L	03	M	0.000	Human Anatomy Lab	T	11:00 am-01:55 pm	23	5	Jane Price Ellis (P)	01/08-05/02	RHSC 227	 
+20201	BIOL	202L	04	M	0.000	Human Anatomy Lab	T	02:00 pm-04:55 pm	24	4	Jane Price Ellis (P)	01/08-05/02	RHSC 227	 
+20202	BIOL	202L	05	M	0.000	Human Anatomy Lab	W	11:00 am-01:55 pm	22	7	Jane Price Ellis (P)	01/08-05/02	RHSC 227	 
+24201	BIOL	202L	06	M	0.000	Human Anatomy Lab	W	02:00 pm-04:55 pm	23	-1	Jane Price Ellis (P)	01/08-05/02	RHSC 227	 
+20203	BIOL	204	01	M	3.000	Man and the Environment	MWF	09:00 am-09:50 am	24	5	David R Wiseman (P)	01/08-05/02	RHSC 204	 
+20204	BIOL	211	01	M	4.000	Biodiversity,Ecology,Conserv B	MWF	11:00 am-11:50 am	20	3	Courtney J Murren (P)	01/08-05/02	RHSC 218	 
+20206	BIOL	211	02	M	4.000	Biodiversity,Ecology,Conserv B	MWF	09:00 am-09:50 am	20	1	Dougald Archibald McCallum (P)	01/08-05/02	SSMB 138	 
+20207	BIOL	211	03	M	4.000	Biodiversity,Ecology,Conserv B	MW	05:30 pm-06:45 pm	20	1	Nora Beth Blair (P)	01/08-05/02	RHSC 218	 
+20205	BIOL	211	04	M	4.000	Biodiversity,Ecology,Conserv B	MWF	11:00 am-11:50 am	20	2	Courtney J Murren (P)	01/08-05/02	RHSC 218	 
+20208	BIOL	211	05	M	4.000	Biodiversity,Ecology,Conserv B	TR	08:00 am-09:15 am	20	6	Erik Sotka (P)	01/08-05/02	RHSC 218	 
+21893	BIOL	211	06	M	4.000	Biodiversity,Ecology,Conserv B	TR	08:00 am-09:15 am	20	7	Erik Sotka (P)	01/08-05/02	RHSC 218	 
+20209	BIOL	211D	01	M	0.000	Biodiv, Ecol, Cons Biol Discus	M	02:00 pm-05:00 pm	20	3	Courtney J Murren (P)	01/08-05/02	RHSC 301	 
+20211	BIOL	211D	02	M	0.000	Biodiv, Ecol, Cons Biol Discus	W	11:00 am-01:55 pm	20	1	Dougald Archibald McCallum (P)	01/08-05/02	RHSC 301	 
+20212	BIOL	211D	03	M	0.000	Biodiv, Ecol, Cons Biol Discus	W	07:00 pm-10:00 pm	20	1	Nora Beth Blair (P)	01/08-05/02	RHSC 301	 
+20210	BIOL	211D	04	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	02:00 pm-05:00 pm	20	2	Courtney J Murren (P)	01/08-05/02	RHSC 301	 
+20213	BIOL	211D	05	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	09:30 am-12:30 pm	20	6	Erik Sotka (P)	01/08-05/02	RHSC 301	 
+21894	BIOL	211D	06	M	0.000	Biodiv, Ecol, Cons Biol Discus	R	09:30 am-12:30 pm	20	7	Erik Sotka (P)	01/08-05/02	RHSC 301	 
+22402	BIOL	300	01	M	4.000	Botany	MWF	08:00 am-08:50 am	24	12	David R Wiseman (P)	01/08-05/02	RHSC 204	 
+20214	BIOL	300L	01	M	0.000	Botany Lab	T	02:00 pm-05:00 pm	24	12	David R Wiseman (P)	01/08-05/02	RHSC 204	 
+20215	BIOL	301	01	M	4.000	Plant Taxonomy	MWF	01:00 pm-01:50 pm	24	10	Jean B Everett (P)	01/08-05/02	RHSC 204	 
+20216	BIOL	301L	01	M	0.000	Plant Taxonomy Lab	M	02:00 pm-05:00 pm	24	10	Jean B Everett (P)	01/08-05/02	RHSC 204	 
+20217	BIOL	305	01	M	3.000	Genetics	MWF	09:00 am-09:50 am	50	1	Christine A Byrum (P)	01/08-05/02	RHSC 123	 
+20218	BIOL	305	02	M	3.000	Genetics	MWF	10:00 am-10:50 am	55	2	Christine A Byrum (P)	01/08-05/02	RHSC 123	 
+20219	BIOL	305	03	M	3.000	Genetics	MWF	11:00 am-11:50 am	55	2	Christine A Byrum (P)	01/08-05/02	RHSC 123	 
+20220	BIOL	305	04	M	3.000	Genetics	MWF	10:00 am-10:50 am	40	2	Miranda Lynette McManus (P)	01/08-05/02	RHSC 239	 
+20221	BIOL	305L	01	M	1.000	Genetics Lab	W	02:00 pm-05:00 pm	12	5	Robert T Dillon (P)	01/08-05/02	RHSC 200	 
+20222	BIOL	305L	02	M	1.000	Genetics Lab	R	01:40 pm-04:40 pm	12	7	Robert T Dillon (P)	01/08-05/02	RHSC 200	 
+24196	BIOL	305L	03	M	1.000	Genetics Lab	T	05:30 pm-08:30 pm	15	3	Bharathi Viswanathan (P)	01/08-05/02	RHSC 200	 
+20225	BIOL	310	01	M	4.000	General Microbiology	TR	09:25 am-10:40 am	78	10	Susan J Morrison (P)	01/08-05/02	RHSC 123	 
+20226	BIOL	310L	01	M	0.000	General Microbiology Lab	M	10:00 am-01:00 pm	15	7	Tracy Heather Coliano Hirsch (P), Susan J Morrison	01/08-05/02	RHSC 201	 
+20227	BIOL	310L	02	M	0.000	General Microbiology Lab	M	02:00 pm-05:00 pm	15	-2	Tracy Heather Coliano Hirsch (P), Susan J Morrison	01/08-05/02	RHSC 201	 
+20228	BIOL	310L	03	M	0.000	General Microbiology Lab	W	10:00 am-01:00 pm	15	1	Tracy Heather Coliano Hirsch (P), Susan J Morrison	01/08-05/02	RHSC 201	 
+20229	BIOL	310L	04	M	0.000	General Microbiology Lab	W	02:00 pm-05:00 pm	15	2	Tracy Heather Coliano Hirsch (P), Susan J Morrison	01/08-05/02	RHSC 201	 
+23709	BIOL	310L	05	M	0.000	General Microbiology Lab	M	05:30 pm-08:30 pm	15	-1	Tracy Heather Coliano Hirsch (P), Susan J Morrison	01/08-05/02	RHSC 201	 
+20230	BIOL	312	01	M	3.000	Molecular Biology	TR	10:50 am-12:05 pm	80	17	Agnes J Southgate (P)	01/08-05/02	SSMB 129	 
+20231	BIOL	312L	01	M	1.000	Molecular Biology Laboratory	M	02:00 pm-05:00 pm	12	2	Erin Richard (P)	01/08-05/02	RHSC 222	 
+23893	BIOL	312L	02	M	1.000	Molecular Biology Laboratory	M	10:00 am-01:00 pm	12	-1	Erin Richard (P)	01/08-05/02	RHSC 222	 
+20233	BIOL	312L	03	M	1.000	Molecular Biology Laboratory	W	02:00 pm-05:00 pm	12	0	Renaud Geslain (P)	01/08-05/02	RHSC 222	 
+21374	BIOL	312L	05	M	1.000	Molecular Biology Laboratory	R	02:00 pm-05:00 pm	12	1	Renaud Geslain (P)	01/08-05/02	RHSC 222	 
+20235	BIOL	313	01	M	3.000	Cell Biology	MWF	09:00 am-09:50 am	48	1	Mark D Lazzaro (P)	01/08-05/02	RHSC 218	 
+20236	BIOL	313L	01	M	1.000	Cell Biology Laboratory	M	01:00 pm-04:00 pm	16	3	Mark D Lazzaro (P)	01/08-05/02	RHSC 302	 
+20237	BIOL	313L	02	M	1.000	Cell Biology Laboratory	W	01:00 pm-04:00 pm	16	0	Mark D Lazzaro (P)	01/08-05/02	RHSC 302	 
+20238	BIOL	313L	03	M	1.000	Cell Biology Laboratory	F	01:00 pm-04:00 pm	16	4	Mark D Lazzaro (P)	01/08-05/02	RHSC 302	 
+23826	BIOL	314	01	M	3.000	Immunology	TR	09:25 am-10:40 am	15	0	Anastasia Maria Zimmerman (P)	01/08-05/02	RSS 248	 
+23827	BIOL	314	02	M	3.000	Immunology	TR	12:15 pm-01:30 pm	15	-3	Anastasia Maria Zimmerman (P)	01/08-05/02	RSS 248	 
+20239	BIOL	320	01	M	4.000	Histology	TR	12:15 pm-01:30 pm	36	2	Isaure De Buron-Connors (P)	01/08-05/02	RHSC 239	 
+20240	BIOL	320L	01	M	0.000	Histology Lab	R	02:00 pm-05:00 pm	18	0	Isaure De Buron-Connors (P)	01/08-05/02	RHSC 203	 
+20241	BIOL	320L	02	M	0.000	Histology Lab	R	05:45 pm-08:45 pm	18	1	Isaure De Buron-Connors (P)	01/08-05/02	RHSC 203	 
+20242	BIOL	321	01	M	4.000	Gen and Comp Physiology	TR	10:50 am-12:05 pm	40	14	Louis E Burnett (P)	01/08-05/02	SSMB 138	 
+ 	 	 	 	 	 	 	TR	10:50 am-12:05 pm	 	 	Louis E Burnett (P)	01/08-05/02	SSMB 138	 
+20243	BIOL	321L	01	M	0.000	Gen and Comp Physiology Lab	W	02:00 pm-05:00 pm	20	9	Louis E Burnett (P)	01/08-05/02	RHSC 223	 
+21375	BIOL	321L	02	M	0.000	Gen and Comp Physiology Lab	R	01:40 pm-04:40 pm	20	5	Louis E Burnett (P)	01/08-05/02	RHSC 223	 
+21817	BIOL	322	01	M	4.000	Developmental Biology	MWF	10:00 am-10:50 am	42	4	Richard J Southgate (P)	01/08-05/02	RHSC 218	 
+21818	BIOL	322L	01	M	0.000	Developmental Biology Lab	M	02:00 pm-05:00 pm	14	-2	Richard J Southgate (P)	01/08-05/02	RHSC 203	 
+21819	BIOL	322L	02	M	0.000	Developmental Biology Lab	T	10:00 am-12:59 pm	14	8	Richard J Southgate (P)	01/08-05/02	RHSC 203	 
+21820	BIOL	322L	03	M	0.000	Developmental Biology Lab	T	02:00 pm-05:00 pm	14	-2	Richard J Southgate (P)	01/08-05/02	RHSC 203	 
+22406	BIOL	333	01	M	4.000	Ornithology	TR	10:50 am-12:05 pm	24	1	Dougald Archibald McCallum (P)	01/08-05/02	RHSC 112	 
+22407	BIOL	333L	01	M	0.000	Ornithology Lab	R	07:00 am-10:30 am	12	1	Dougald Archibald McCallum (P)	01/08-05/02	RHSC 228	 
+24122	BIOL	333L	02	M	0.000	Ornithology Lab	T	07:00 am-10:30 am	12	0	Dougald Archibald McCallum (P)	01/08-05/02	RHSC 228	 
+20246	BIOL	334	01	M	4.000	Herpetology	TR	12:15 pm-01:29 pm	18	2	Allison Marie Welch (P)	01/08-05/02	RHSC 218	 
+20247	BIOL	334L	01	M	0.000	Herpetology Lab	T	01:30 pm-05:29 pm	18	2	Allison Marie Welch (P)	01/08-05/02	RHSC 228	 
+20249	BIOL	335	01	G	4.000	Biology Of Fishes	M	02:00 pm-05:00 pm	20	1	Norma Juliana Salcedo (P)	01/08-05/02	GMLM 101	 
+20250	BIOL	335L	01	G	0.000	Biology of Fishes Lab	R	02:00 pm-05:00 pm	20	1	Norma Juliana Salcedo (P)	01/08-05/02	GMLM 101	 
+20251	BIOL	337	01	M	4.000	Biology of Invertebrates	TR	09:25 am-10:40 am	32	3	Robert David Podolsky (P)	01/08-05/02	RHSC 239	 
+20252	BIOL	337L	01	G	0.000	Biology of Invertebrates Lab	F	10:00 am-12:59 pm	15	1	Robert David Podolsky (P)	01/08-05/02	GMLM 101	 
+20253	BIOL	337L	02	G	0.000	Biology of Invertebrates Lab	F	01:00 pm-03:59 pm	15	0	Robert David Podolsky (P)	01/08-05/02	GMLM 101	 
+20255	BIOL	341	01	M	4.000	General Ecology	TR	10:50 am-12:05 pm	15	-1	Phillip Dustan (P)	01/08-05/02	RHSC 239	 
+20256	BIOL	341L	01	M	0.000	General Ecology Lab	W	02:00 pm-06:00 pm	15	0	Phillip Dustan (P)	01/08-05/02	RHSC 228	 
+20258	BIOL	342	01	M	4.000	Oceanography	TR	10:50 am-12:05 pm	24	0	Gorka A Sancho (P)	01/08-05/02	RHSC 218	 
+20259	BIOL	342L	01	G	0.000	Oceanography Lab	M	02:00 pm-04:59 pm	12	1	Gorka A Sancho (P)	01/08-05/02	GMLA 113	 
+21376	BIOL	342L	02	G	0.000	Oceanography Lab	T	02:00 pm-04:59 pm	12	-1	Gorka A Sancho (P)	01/08-05/02	GMLA 113	 
+20260	BIOL	350	01	M	3.000	Evolution	TR	09:25 am-10:40 am	40	19	Agnes J Southgate (P)	01/08-05/02	RHSC 112	 
+23352	BIOL	351	01	M	3.000	Principles of Neurobiology	TR	09:25 am-10:40 am	20	5	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	RHSC 218	 
+23828	BIOL	352	01	M	3.000	Neurobiology and Behavior	TR	01:40 pm-02:55 pm	25	12	Mark W Hurd (P)	01/08-05/02	RHSC 218	 
+22411	BIOL	353	01	M	3.000	Hormones and Behavior	TR	09:25 am-10:40 am	15	0	Michael Gerard Ruscio (P)	01/08-05/02	RSS 104	 
+23823	BIOL	354	01	M	4.000	Techniques in Neuroscience	MW	09:00 am-09:50 am	0	-8	Jeffrey D Triblehorn (P)	01/08-05/02	RHSC 301	 
+23824	BIOL	354L	01	M	0.000	Techniques in Neuroscience Lab	W	01:15 pm-05:45 pm	0	-8	Jeffrey D Triblehorn (P)	01/08-05/02	RHSC 300	 
+24253	BIOL	397	01	M	0.000	Behavior and Neurobiology Lab Experience	 	TBA	0	-1	Melissa Hughes (P)	01/08-05/02	TBA	 
+24542	BIOL	397	02	M	0.000	Autonomy LAtency in the Snapping Shrimp, A. Angulosus	 	TBA	0	0	Christopher A Korey (P)	01/08-05/02	TBA	 
+24794	BIOL	397	03	M	0.000	Birdsong bioacoustics	 	TBA	0	-1	Melissa Hughes (P)	01/08-05/02	TBA	 
+24268	BIOL	399	01	M	3.000	The Role of NKx2-5 in Heart Development	 	TBA	0	-1	Agnes J Southgate (P)	01/08-05/02	TBA	 
+24378	BIOL	399	02	M	3.000	Sea Turtle Nest Microbiology	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24379	BIOL	399	03	M	3.000	Mutational Position Effects of Allelic T-DNA Insertions on Root Variation in Arabidopsis Thaliana	 	TBA	0	0	Courtney J Murren (P)	01/08-05/02	TBA	 
+24573	BIOL	399	04	M	3.000	Characterization of Complee	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24723	BIOL	399	05	M	1.000	An Exploration of the Ethical and Social Implications of Genetic Testing	 	TBA	0	-1	Christopher A Korey (P)	01/08-05/02	TBA	 
+24750	BIOL	399	06	M	3.000	Cardiovascular Development in a Mouse Model	 	TBA	0	-1	Eric J McElroy (P)	01/08-05/02	TBA	 
+24830	BIOL	399	07	M	3.000	Ontogeny of Jaws and Dentition in the Naked Goby	 	TBA	0	-1	Antony Scott Harold (P)	01/08-05/02	TBA	 
+24788	BIOL	399	08	M	2.000	Use of Sentrinel Fish to Monitor PArasitic Infection	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24843	BIOL	399	09	M	3.000	Mammalian Dentition	 	TBA	0	-1	Willem Jacob Hillenius (P)	01/08-05/02	TBA	 
+24863	BIOL	399	10	M	3.000	Understanding the Life Cycle and Reproductive Behavior of a Local Pycnogonid	 	TBA	0	-1	Robert David Podolsky (P)	01/08-05/02	TBA	 
+20262	BIOL	447	01	M	3.000	Seminar in Neuroscience	M	02:00 pm-05:00 pm	10	-3	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	RHSC 239	 
+23934	BIOL	448	01	M	3.000	Wind Velocity Encoding by Cercal System Sensory Neurons of Insects	 	TBA	0	-1	Jeffrey D Triblehorn (P)	01/08-05/02	TBA	 
+23951	BIOL	448	02	M	3.000	Effects of Topiramate on Drinking and Ethanol Concentrations in the Brain	 	TBA	0	-1	Jeffrey D Triblehorn (P)	01/08-05/02	TBA	 
+23955	BIOL	448	03	M	3.000	Zebrafish Locomotor activity following exposure to combined caffeine and ethanol	 	TBA	0	-1	Mark W Hurd (P)	01/08-05/02	TBA	 
+23963	BIOL	448	04	M	3.000	Impact of Stress on Dopamine Pathways	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23966	BIOL	448	05	M	3.000	Neuroimaging Research	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23967	BIOL	448	06	M	3.000	Improving Cognition in Dysbindin-1 Knockout Mice, a Genetic Model of Schizophrenia	 	TBA	0	-1	Mark W Hurd (P)	01/08-05/02	TBA	 
+23973	BIOL	448	07	M	3.000	Circadian Rhythms in Zebrafish following exposure to caffeine and stimulated actiivty	 	TBA	0	-1	Mark W Hurd (P)	01/08-05/02	TBA	 
+24431	BIOL	448	08	M	3.000	GAP 43 Expression and Chronic Ethanol Exposure	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23992	BIOL	448	09	M	3.000	Computerized Gait Assessment as a Tool in Concussion Studies	 	TBA	0	-1	John S Peters (P)	01/08-05/02	TBA	 
+24052	BIOL	448	10	M	3.000	Exploring Adaptive Gain Theory Through Economic Demand	 	TBA	0	-1	Mark W Hurd (P)	01/08-05/02	TBA	 
+24063	BIOL	448	11	M	3.000	Effect of MAO-I on Neuroprotection in a Parkinson's Model	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24544	BIOL	448	12	M	3.000	Ethanol-Seeking Behavior Directed through Orexinergic Neurons in the Lateral Hypothalamus	 	TBA	0	-1	Jeffrey D Triblehorn (P)	01/08-05/02	TBA	 
+24858	BIOL	448	13	M	6.000	The Effect of Chronic Pain on Behavioral Fear Conditioning	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23715	BIOL	449	01	M	3.000	Biology of Coral Reefs	TR	04:35 pm-05:50 pm	16	5	Phillip Dustan (P)	01/08-05/02	RHSC 239	 
+24190	BIOL	450	01	M	2.000	Exploration of the Biomedical Potential of Transfer RNA	 	TBA	0	-1	Renaud Geslain (P)	01/08-05/02	TBA	 
+24191	BIOL	450	02	M	3.000	Set up and optimization of a human tRNA microarray platform	 	TBA	0	-1	Renaud Geslain (P)	01/08-05/02	TBA	 
+24335	BIOL	450	03	M	3.000	Diet and Genetic Effects on Frog Calling Effort	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24344	BIOL	450	04	M	3.000	Spring Bee Penology at Dixie Plantation Site along Stono Tributary	 	TBA	0	-2	Brian G Scholtens (P)	01/08-05/02	TBA	 
+24409	BIOL	450	05	M	2.000	fMRI Analysis of Human Vision	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24543	BIOL	450	06	M	3.000	Rodent Model of Alcohol Self-Administration	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24607	BIOL	450	07	M	1.000	Monitoring of Oxygen during Surgery	 	TBA	0	-1	Linda Ramball Jones (P)	01/08-05/02	TBA	 
+24716	BIOL	450	08	M	3.000	Mutational Position Effects of Allelic T-DNA Insertions on Root Variation in Arabidopsis Thaliana	 	TBA	0	-1	Courtney J Murren (P)	01/08-05/02	TBA	 
+24784	BIOL	450	09	M	3.000	ERG Recordings of Insect Visual Responses	 	TBA	0	-1	Jeffrey D Triblehorn (P)	01/08-05/02	TBA	 
+24785	BIOL	450	10	M	3.000	Effects of Antimicrobial Exposures on grass shrimp, Palaemonetes pugio, and associated Vibrio bacter	 	TBA	0	-1	Marie Elizabeth DeLorenzo (P)	01/08-05/02	TBA	 
+24786	BIOL	450	11	M	3.000	NeuroImaging Techniques	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24792	BIOL	450	12	M	4.000	Human - Animal Interactions	 	TBA	0	-1	Melissa Hughes (P)	01/08-05/02	TBA	 
+24798	BIOL	450	13	M	2.000	Systolic Blood Pressure Lowering on Development of new Microbleeds	 	TBA	0	-1	Jeffrey D Triblehorn (P)	01/08-05/02	TBA	 
+24802	BIOL	450	14	M	3.000	Amphibian Response to Pollution	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24803	BIOL	450	15	M	4.000	Evaluating The Role of Relavent Afferant Projections to the Rostromedical Tegmental Nucleus in Behav	 	TBA	0	-1	Courtney J Murren (P)	01/08-05/02	TBA	 
+24807	BIOL	450	16	M	3.000	Plasticity of Dopaminergic Pathways in the Rat Brain	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24812	BIOL	450	17	M	3.000	Spring Emergance Phylogeny of Syrphid and Bombyliid flies at a Dixie Plantation Field Site	 	TBA	0	-1	Brian G Scholtens (P)	01/08-05/02	TBA	 
+24822	BIOL	450	18	M	3.000	Mechanisms Behind Cardiac Morphogenesis II	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+24835	BIOL	450	19	M	3.000	Human-Animal Interactions in Verterinary Practice	 	TBA	0	-1	Melissa Hughes (P)	01/08-05/02	TBA	 
+24836	BIOL	450	20	M	2.000	Developmental Cardiovascular Research	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+24572	BIOL	451	01	M	3.000	The Myxozoan Kudoa Inornata Parasite in the Spotted Seatrout	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24724	BIOL	451	02	M	3.000	The Myxozoan Kudoa Inornata Parasite in the Spotted SeaTrout	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24783	BIOL	451	03	M	3.000	Experimental Infection of Copepods Intermediate Host of Anguillicoloides Crassus	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+24793	BIOL	451	04	M	3.000	Sea Urchin Development Biology	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+24934	BIOL	451	05	M	3.000	Spatial and Temporal Distribution of IPO 718 and IPO 9 in Lytechinus Variegatus	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+23722	BIOL	453	01	M	3.000	ST: Advanced Genetics & Epigenetics	TR	09:25 am-10:40 am	0	0	Agnes J Southgate (P)	01/08-05/02	SSMB 138	 
+22417	BIOL	453	02	M	3.000	ST: Vertebrate Genome Biology	TR	12:15 pm-01:30 pm	8	4	Andrew M Shedlock (P)	01/08-05/02	SSMB 100	 
+22418	BIOL	453L	02	M	1.000	ST: Vertebrate Genome Biology Laboratory	R	05:30 pm-07:30 pm	8	4	Andrew M Shedlock (P)	01/08-05/02	SSMB 255	 
+23929	BIOL	499	01	M	3.000	Prediction, Annotation and Evolutionary Synthesis of Vertebrate Genomic Repeat Dynamics Using Hidden	 	TBA	0	-1	Andrew M Shedlock (P)	01/08-05/02	TBA	 
+23930	BIOL	499	02	M	3.000	Elasticity of PEVK Domains	 	TBA	0	-1	Agnes J Southgate (P)	01/08-05/02	TBA	 
+23946	BIOL	499	03	M	3.000	Invertebrate Biological Rhythms	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23949	BIOL	499	04	M	3.000	Mitochondrial Photobiomodulation	 	TBA	0	-1	Mark D Lazzaro (P)	01/08-05/02	TBA	 
+23961	BIOL	499	05	M	3.000	Synthesis of a Dual - Action Triazole Antibiotic	 	TBA	0	-1	Susan J Morrison (P)	01/08-05/02	TBA	 
+23974	BIOL	499	06	M	3.000	The Effects of Single and Five Dose Administrations of Fenbendazole of Fecal Parasite Egg counts an	 	TBA	0	-1	Isaure De Buron-Connors (P)	01/08-05/02	TBA	 
+23978	BIOL	499	07	M	3.000	Oscilation of Circadian Genes in Nematostella Vectenisis	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	01/08-05/02	TBA	 
+23981	BIOL	499	08	M	3.000	The Myoproteome of Manduca Sexta	 	TBA	0	-1	Agnes J Southgate (P)	01/08-05/02	TBA	 
+23982	BIOL	499	09	M	3.000	Variation in Troponin 7 isoforms in Bees	 	TBA	0	-1	Agnes J Southgate (P)	01/08-05/02	TBA	 
+23983	BIOL	499	10	M	3.000	Patient-specific Induced Pluripotent Stem Cells for Geographic Atrophy	 	TBA	0	-1	Linda Ramball Jones (P)	01/08-05/02	TBA	 
+23994	BIOL	499	11	M	3.000	Nuclear Transport Proteins and Embryonic Development	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+23995	BIOL	499	12	M	3.000	Ecotoxicology Independent Study: The Effect of Antimicrobials on Grass Shrimp, Palaemonetes pugio, a	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+23996	BIOL	499	13	M	3.000	TLR4 UCP2 Pathway	 	TBA	0	-1	Christine A Byrum (P)	01/08-05/02	TBA	 
+24000	BIOL	499	14	M	3.000	The Efficacy of Oxidative Stress Treatments on Head and Neck Squamous Cell Carcinoma	 	TBA	0	-1	Linda Ramball Jones (P)	01/08-05/02	TBA	 
+24026	BIOL	499	15	M	3.000	Down-REgulation of CD127 Expression and its effect on T cell persistence during ACT	 	TBA	0	-1	Agnes J Southgate (P)	01/08-05/02	TBA	 
+24035	BIOL	499	16	M	3.000	Chronic Toxicity of Pharmaceutical Degradants to Tadpoles	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24055	BIOL	499	17	M	3.000	Local Adaptation of the Salt Plant Spartina alterniflora	 	TBA	0	-1	Erik Sotka (P)	01/08-05/02	TBA	 
+24430	BIOL	499	18	M	3.000	Laser Treatment of Post-Surgical Inflamation	 	TBA	0	-1	Linda Ramball Jones (P)	01/08-05/02	TBA	 
+24496	BIOL	499	19	M	3.000	Analysis of Ovarian Cancer Agressiveness in Caucasian and African Women (MUSC)	 	TBA	0	-1	Renaud Geslain (P)	01/08-05/02	TBA	 
+24717	BIOL	499	20	M	3.000	Assessment of the Transition Program: Integrating Pediatric and Adult Clinical Care at the MUSC Fibr	 	TBA	0	-1	Renaud Geslain (P)	01/08-05/02	TBA	 
+24824	BIOL	499	21	M	3.000	Evolution and Intelligent Design in the Classroom	 	TBA	0	-1	John S Peters (P)	01/08-05/02	TBA	 
+23956	BIOL	502	01	M	3.000	ST: Vertebrate Genome Biology	TR	12:15 pm-01:30 pm	8	5	Andrew M Shedlock (P)	01/08-05/02	SSMB 100	 
+22595	BIOL	502	02	G	1.000	ST: in Marine Biology: Landmark Literature in Molecular Evolution	T	05:00 pm-06:30 pm	12	9	Gavin Naylor (P)	01/08-05/02	GMLM 202	 
+22934	BIOL	502	03	O	1.000	ST: in Marine Biology: Field Experience in Biology of Coral Reefs	 	TBA	0	-6	Phillip Dustan (P)	01/08-05/02	OFFC 80390	 
+24362	BIOL	502	04	G	3.000	ST: Marine Algal and Microbial Biology	W	06:00 pm-09:00 pm	12	5	Dianne I Greenfield (P)	01/08-05/02	GMLM 202	 
+23957	BIOL	502L	01	M	1.000	ST: Vertebrate Genome Biology Laboratory	R	05:30 pm-07:30 pm	8	5	Andrew M Shedlock (P)	01/08-05/02	SSMB 255	 
+22425	BIOL	601	01	G	4.000	Ecology Of Marine Organisms	MW	08:30 am-10:29 am	16	3	Craig J Plante (P)	01/08-05/02	GMLM 202	 
+22426	BIOL	601L	01	G	0.000	Ecology of Marine Org Lab	M	02:00 pm-05:00 pm	8	0	Craig J Plante (P)	01/08-05/02	GMLM 202	 
+22427	BIOL	601L	02	G	0.000	Ecology of Marine Org Lab	T	02:00 pm-05:00 pm	8	3	Craig J Plante (P)	01/08-05/02	GMLM 101	 
+23349	BIOL	611	01	G	4.000	Biometry	TR	09:00 am-10:25 am	16	-2	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+23350	BIOL	611L	01	G	0.000	Biometry	T	10:30 am-01:30 pm	7	-2	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+23351	BIOL	611L	02	G	0.000	Biometry	R	10:30 am-01:30 pm	9	0	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+24202	BIOL	619	01	M	3.000	Biology Of Coral Reefs	T	03:00 pm-06:00 pm	0	0	Phillip Dustan (P)	01/08-05/02	RHSC 239	 
+20263	BIOL	621	01	G	1.000	Seminar	R	06:30 pm-08:00 pm	16	0	Craig J Plante (P)	01/08-05/02	GMLM 202	 
+21560	BIOL	630	01	G	4.000	Marine Invertebrate Zoology	W	08:30 am-11:30 am	15	7	Erik Sotka (P)	01/08-05/02	GMLM 101	 
+21561	BIOL	630L	01	G	0.000	Marine Invertebrate Zoology	W	02:00 pm-05:00 pm	15	8	Erik Sotka (P)	01/08-05/02	GMLM 101	 
+20264	BIOL	643	01	G	3.000	Fisheries Science	TR	05:00 pm-06:30 pm	6	3	Marcel J Reichert (P)	01/08-05/02	GMLA 113	 
+20265	BIOL	650	01	G	1.000	Seminar: Conservation Genetics & Genomics	W	11:30 am-01:00 pm	12	8	Andrew M Shedlock (P)	01/08-05/02	GMLM 106	 
+22419	BIOL	650	02	G	1.000	Marine Policy & Conservation	M	05:15 pm-06:45 pm	12	2	Marcel J Reichert (P)	01/08-05/02	MRRI 145	 
+24228	BIOL	700	01	M	1.000	MST: Identify Red Drum Eggs	 	TBA	0	-1	Dianne I Greenfield (P)	01/08-05/02	TBA	 
+24260	BIOL	700	02	M	2.000	MST: Ecology of Gracilaria	 	TBA	0	-1	Erik Sotka (P)	01/08-05/02	TBA	 
+24287	BIOL	700	03	M	1.000	MST: Genetic Populations Structure and Life History of Black Drum	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24295	BIOL	700	04	M	2.000	MST: V campbellii & Hypoxia	 	TBA	0	-1	Louis E Burnett (P)	01/08-05/02	TBA	 
+24296	BIOL	700	05	M	1.000	MST: Hypoxia Cell Signaling	 	TBA	0	-1	Karen Gray Burnett (P)	01/08-05/02	TBA	 
+24305	BIOL	700	06	M	1.000	MST: Evolution of the Skeleton in Chondrichthyan Fishes	 	TBA	0	-1	Gavin Naylor (P)	01/08-05/02	TBA	 
+24355	BIOL	700	07	G	2.000	MST: Phylogeny of Seaweed	 	TBA	0	-1	Erik Sotka (P)	01/08-05/02	TBA	 
+24397	BIOL	700	08	M	1.000	MST: Phytoplankton	 	TBA	0	-1	Dianne I Greenfield (P)	01/08-05/02	TBA	 
+24460	BIOL	700	09	G	2.000	MST: North Atlantic Wreckfish	 	TBA	0	-1	Marcel J Reichert (P)	01/08-05/02	TBA	 
+24525	BIOL	700	10	M	1.000	MST: Crepuscular Turnover	 	TBA	0	-1	Marcel J Reichert (P)	01/08-05/02	TBA	 
+24537	BIOL	700	11	M	1.000	MST: Mercury Bioaccumulation	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24259	BIOL	900	01	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Erik Sotka (P)	01/08-05/02	TBA	 
+24261	BIOL	900	02	M	1.000	Continuous Research Enrollment	 	TBA	0	-2	Craig J Plante (P)	01/08-05/02	TBA	 
+24288	BIOL	900	03	M	2.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24313	BIOL	900	04	M	2.000	Continuous Research Enrollment	 	TBA	0	-1	Karen Gray Burnett (P)	01/08-05/02	TBA	 
+24356	BIOL	900	05	G	1.000	Continuous Research Enrollment	 	TBA	0	-1	Gorka A Sancho (P)	01/08-05/02	TBA	 
+24398	BIOL	900	06	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Dianne I Greenfield (P)	01/08-05/02	TBA	 
+24449	BIOL	900	07	G	3.000	Continuous Research Enrollment	 	TBA	0	-1	Peter John Etnoyer (P)	01/08-05/02	TBA	 
+24500	BIOL	900	08	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24505	BIOL	900	09	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 

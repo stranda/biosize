@@ -1,0 +1,90 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+23537	EVSS	601	01	M	3.000	Economic Theory for Policy Analysis	M	05:30 pm-08:15 pm	30	16	Richard A Bilas (P)	01/09-05/03	BCTR 212	 
+20696	EVSS	602	01	M	3.000	Public Policy	TR	01:40 pm-02:55 pm	14	4	Lindeke S Mills (P)	01/09-05/03	RSS 249	 
+20697	EVSS	607	01	M	3.000	Administrative Law	MW	04:00 pm-05:15 pm	8	5	Lindeke S Mills (P)	01/09-05/03	MYBK 103	 
+20700	EVSS	630	01	M	3.000	Natural Resources Law and Policy	TR	04:00 pm-05:15 pm	15	4	Lindeke S Mills (P)	01/09-05/03	RSS 249	 
+22308	EVSS	632	01	M	3.000	Social Science Methods in Environmental Studies	W	05:30 pm-08:15 pm	18	-4	Annette M Watson (P)	01/09-05/03	MYBK 220	 
+22265	EVSS	638	01	M	4.000	Introduction to Hydrogeology	W	11:00 am-02:00 pm	8	3	Timothy J Callahan (P)	01/09-05/03	SSMB 239	 
+22266	EVSS	638L	01	M	0.000	Introduction to Hydrogeology	F	11:00 am-02:00 pm	8	3	Timothy J Callahan (P)	01/09-05/03	RHSC 341	 
+23679	EVSS	640	01	M	3.000	Earth System Science	MWF	09:00 am-09:50 am	20	17	Vijay M Vulava (P)	01/09-05/03	RHSC 344	 
+22263	EVSS	642	01	M	4.000	Geological Applications of Remote Sensing	M	12:00 pm-02:00 pm	6	4	David John Chadwick (P)	01/09-05/03	SSMB 241	 
+22264	EVSS	642L	01	M	0.000	Geological Applications of Remote Sensing	W	12:00 pm-04:00 pm	6	4	David John Chadwick (P)	01/09-05/03	SSMB 241	 
+20701	EVSS	646	01	M	2.000	Graduate Core Seminar	T	05:30 pm-07:20 pm	15	1	Timothy J Callahan (P), Pamela Susan Lovelace	01/09-05/03	SSMB 140	 
+ 	 	 	 	 	 	 	T	05:30 pm-07:20 pm	 	 	Timothy J Callahan (P), Pamela Susan Lovelace	01/09-05/03	SSMB 140	 
+20702	EVSS	649	01	M	4.000	Geographic Information Systems	T	02:00 pm-05:00 pm	8	3	Khalid A Ali (P)	01/09-05/03	SSMB 241	 
+20703	EVSS	649L	01	M	0.000	Geographic Information Systems	R	02:00 pm-05:00 pm	8	3	Khalid A Ali (P)	01/09-05/03	SSMB 241	 
+20704	EVSS	650	01	M	3.000	Energy Production and Resources Management	MW	04:00 pm-05:15 pm	15	9	James E Neff (P)	01/09-05/03	RHSC 125	 
+20705	EVSS	659	01	M	3.000	Environmental Statistics	TR	07:30 pm-08:45 pm	25	-1	Martin L Jones (P)	01/09-05/03	MYBK 219	 
+24137	EVSS	690	01	M	3.000	Assessment and Implementation of a Successful Predictive Erosion and Migration Model	 	TBA	0	-1	Michael S Harris (P)	01/09-05/03	TBA	 
+24344	EVSS	690	02	M	6.000	COSA Feasibility Study of the Use of Polystyrene Trays and Composiable Trays with Traditional Solid	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24345	EVSS	690	03	M	6.000	Stormwater Outreach Initiative for the Tri-County Area (Berkeley, Charleston & Dorchester) Online Ed	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24350	EVSS	690	04	M	6.000	Low Impact Development for Homeowners Associations	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+23941	EVSS	691	01	M	3.000	FROM GOLF COURSE TO SALTMARSH	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/09-05/03	TBA	 
+24042	EVSS	691	02	M	3.000	Assessment of Beach Access Paths on Dune Vegetation and Implications for Dune Paths Planning & Mgmt	 	TBA	0	-1	Courtney J Murren (P)	01/09-05/03	TBA	 
+24164	EVSS	691	03	M	3.000	Social Valuation of Ecosystem Services in the ACE Basin South Carolina	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/09-05/03	TBA	 
+24211	EVSS	691	04	M	6.000	(A) Moral Dilemma: Conservation in the Holy City and Perception of the Environment by Charleston Rel	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24252	EVSS	691	05	M	3.000	SC-CHI: A GIS/Geomorphology-based Coastal Hazards Index for Southern South Carolina Counties	 	TBA	0	0	Norman S Levine (P)	01/09-05/03	TBA	 
+24328	EVSS	691	06	M	3.000	Climate Change and Bemisia tabaci: Impacts of Increased Temperature & Carbon Dioxide on Life History	 	TBA	0	-1	Alvin Maurice Simmons (P)	01/09-05/03	TBA	 
+24402	EVSS	691	07	M	3.000	Age and Growth of the Bonnethead Shark	 	TBA	0	-1	Joshua Kenton Loefer (P)	01/09-05/03	TBA	 
+24433	EVSS	691	08	M	6.000	Using the Charleston, SC Earthquake of 1886 to Develop New Models for Estimating Future Earthquake D	 	TBA	0	-1	Steven C Jaume' (P)	01/09-05/03	TBA	 
+24473	EVSS	691	09	M	6.000	Thesis: A Study of Photo-Identification Methods & Analyses with Georgia Dolphin Project 2011 Survey	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24474	EVSS	691	10	M	3.000	IS: Larval Life History and Phytogeography of the Tassel Barnacle	 	TBA	0	-1	John D Zardus (P)	01/09-05/03	TBA	 
+24500	EVSS	691	11	M	3.000	SC-CHI: A GIS/Geomorphology-based Coastal Hazards Index for Southern South Carolina Counties	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24504	EVSS	691	12	M	3.000	Genetic, Morphological, and Chemical Analysisof the Variability of a Collection of Heirloom Collards	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24506	EVSS	691	13	M	3.000	Identifying Spatial Features Contributing to Sense of Place n Residents: Awendaw, SC	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24511	EVSS	691	14	M	6.000	GNOME Modeling of K. Breviceps Strandings	 	TBA	0	-1	Wayne E. McFee (P)	01/09-05/03	TBA	 
+24578	EVSS	691	15	M	6.000	MST: Development of a Methodology for Mapping Spatial Extent of Intertidal Oysters	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24038	EVSS	693	01	M	1.000	Soil Hydrology and its Applications	 	TBA	0	0	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24039	EVSS	693	02	M	1.000	Soil Ecology Topics, Issues, and Applications	 	TBA	0	-1	Seth G Pritchard (P)	01/09-05/03	TBA	 
+24073	EVSS	693	03	M	3.000	Coastal Seafloor Mapping and Visualization	 	TBA	0	-2	Leslie R Sautter (P)	01/09-05/03	TBA	 
+24136	EVSS	693	04	M	3.000	Resilience Theory of Social-Ecological Systems	 	TBA	0	-2	Annette M Watson (P)	01/09-05/03	TBA	 
+24208	EVSS	693	05	M	1.000	The Importance of Tidal Creeks as Nursery Habitats	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24275	EVSS	693	06	M	1.000	Developing and Implementing an Avian Monitoring Plan at Dixie Plantation	 	TBA	0	-1	Melissa Hughes (P)	01/09-05/03	TBA	 
+24336	EVSS	693	07	M	1.000	Study of Potential Uses of Stable Isotopes When Analyzing Marine Mammal Teeth	 	TBA	0	0	Wayne E. McFee (P)	01/09-05/03	TBA	 
+24338	EVSS	693	08	M	3.000	Independent Study for Social Science Methods	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24343	EVSS	693	09	M	3.000	Social Science Methods	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24346	EVSS	693	10	M	2.000	Stomach Content Analysis of Atlantic Bottlenose Dolphins along the Coast of SC, USA	 	TBA	0	-1	Wayne E. McFee (P)	01/09-05/03	TBA	 
+24347	EVSS	693	11	M	3.000	Natural Hazards Management and Mitigation: Focus on South Carolina Issues	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24397	EVSS	693	12	M	1.000	Resilience Theory of Social Ecological System	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24434	EVSS	693	13	M	3.000	Natural Hazards Managment and Mitigation: focus on South Carolina issues	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24472	EVSS	693	14	M	3.000	IS: A Study of Photo-Identification Methods & Analyses with the Georgia Dolphin Project 2011 Survey	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24477	EVSS	693	15	M	3.000	IS: Advanced Social Science Methods	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24487	EVSS	693	16	M	2.000	IS: Advanced GIS- Automation and Modelbuilding using Python	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24491	EVSS	693	17	M	2.000	IS: Using NGOs as a Market Dri	 	TBA	0	-1	Richard A Bilas (P)	01/09-05/03	TBA	 
+24502	EVSS	693	18	M	2.000	Using Non-Governmental Organizations as a Market Driven Approach for Environmental Quality Improveme	 	TBA	0	-1	Richard A Bilas (P)	01/09-05/03	TBA	 
+24503	EVSS	693	19	M	2.000	Using NGOs as a Market Driven Approach for Environmental Quality Improvements	 	TBA	0	-1	Richard A Bilas (P)	01/09-05/03	TBA	 
+22267	EVSS	695	01	M	4.000	ADVANCED GIS	T	02:00 pm-05:00 pm	12	4	Norman S Levine (P)	01/09-05/03	SSMB 239	 
+23663	EVSS	695	02	M	3.000	ST: Ecopreneurship	MW	02:00 pm-03:15 pm	10	5	David J Hansen (P)	01/09-05/03	TCFE T133	 
+23730	EVSS	695	03	M	3.000	ST: Vertebrate Genome Biology	TR	12:15 pm-01:30 pm	4	3	Andrew M Shedlock (P), Paul E Anderson	01/09-05/03	SSMB 140	 
+24068	EVSS	695	04	M	3.000	Developing and Implementing an Avian Monitoring Plan	 	TBA	1	1	Melissa Hughes (P)	01/09-05/03	RHSC	 
+24423	EVSS	695	06	M	3.000	Special Topics Course	 	TBA	0	0	Timothy J Callahan (P)	01/09-05/03	TBA	 
+22268	EVSS	695L	01	M	0.000	Special Topics in Env Stu Lab	R	02:00 pm-05:00 pm	12	4	Norman S Levine (P)	01/09-05/03	SSMB 239	 
+23731	EVSS	695L	03	M	1.000	ST: Vertebrate Genome Lab	R	05:30 pm-07:30 pm	1	0	Andrew M Shedlock (P), Paul E Anderson	01/09-05/03	SSMB 239	 
+20706	EVSS	726	01	G	3.000	Fisheries Science	TR	05:00 pm-06:30 pm	5	2	Marcel J Reichert (P)	01/09-05/03	GMLA 113	 
+24132	EVSS	900	01	M	3.000	Continuous Research Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24133	EVSS	900	02	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Allan Edgar Strand (P)	01/09-05/03	TBA	 
+24337	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-2	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24341	EVSS	900	04	M	1.000	Continuous Research Enrollment	 	TBA	0	0	Melissa Kennedy Bimbi (P)	01/09-05/03	TBA	 
+24348	EVSS	900	05	M	3.000	Continuous Research Enrollment	 	TBA	0	-1	Edward Frank Wirth (P)	01/09-05/03	TBA	 
+24358	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24424	EVSS	900	09	M	1.000	Continuous Enrollment	 	TBA	0	0	TBA	01/09-05/03	TBA	 
+24441	EVSS	900	10	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24508	EVSS	900	11	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Timothy J Callahan (P)	01/09-05/03	TBA	 
+24636	EVSS	900	12	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	01/09-05/03	TBA	 
+24357	EVSS	900	6	M	1.000	Continuous Enrollment	 	TBA	0	-1	Maria A Whitehead (P)	01/09-05/03	TBA	 
+24405	EVSS	900	7	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/09-05/03	TBA	 
+24419	EVSS	900	8	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Louis E Burnett (P)	01/09-05/03	TBA	 
+24429	EVSS	900	9	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Maria A Whitehead (P)	01/09-05/03	TBA	 
+21371	ENVT	200	01	M	3.000	Introduction to Environmental Studies	TR	08:00 am-09:15 am	25	2	Seth G Pritchard (P), Todd Jared LeVasseur	01/09-05/03	RHSC 239	 
+23589	ENVT	200	02	M	3.000	Introduction to Environmental Studies	TR	10:50 am-12:05 pm	25	0	Todd Jared LeVasseur (P), Dorian R McMillan	01/09-05/03	RHSC 218	 
+24538	ENVT	350	01	M	1.000	Independent Study in Environmental Science and Studies	 	TBA	0	-1	Ralph Charles Muldrow (P)	01/09-05/03	TBA	 
+24601	ENVT	350	02	M	2.000	Demonstrating Sustainable Agriculture	 	TBA	0	-1	Tracy L Burkett (P)	01/09-05/03	TBA	 
+24609	ENVT	350	03	M	3.000	Climate Science Denial	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24615	ENVT	350	04	M	3.000	Sustainable Agriculture Progra	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24534	ENVT	355	01	M	1.000	Eat Local Intern	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24537	ENVT	355	02	M	2.000	Office of Sustainability Intern	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24608	ENVT	355	03	M	3.000	Fair Labor Issues Project	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24594	ENVT	355	04	M	3.000	Sustainable Agriculture Program Director	 	TBA	0	0	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24610	ENVT	355	05	M	3.000	City of Charleston Dept of Envt Education/Recreation	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+24629	ENVT	355	06	M	3.000	Intern Coorindator	 	TBA	0	-1	Todd Jared LeVasseur (P)	01/09-05/03	TBA	 
+21690	ENVT	395	01	M	1.000	Food Security	W	03:00 pm-03:50 pm	25	11	Todd Jared LeVasseur (P)	01/09-05/03	RHSC 239

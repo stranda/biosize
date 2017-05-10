@@ -1,0 +1,150 @@
+---
+title: "course-size-biology"
+author: "strand"
+date: "January 3, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(results = T)
+
+source("read-data.R")
+library (ggplot2)
+library(lattice)
+library(dplyr)
+```
+
+Semesters included in analysis
+```{r}
+print(sort(unique(secdat$semester)))
+```
+
+
+```{r}
+
+with(secundergraduate[secundergraduate$classification=="R",],hist(enrolled,main="Distribution of section sizes in UG Biology for Roster Faculty"))
+
+with(secundergraduate,hist(enrolled,main="Distribution of section sizes in Biology for all instructors"))
+
+with(dat,hist(enrolled,main="Distribution of section sizes in Biology for all instructors,\nall levels (G and UG)"))
+
+with(secgraduate,hist(enrolled,main="Distribution of section sizes in Biology for\n roster faculty grad classes"))
+```
+
+
+```{r, fig.height=10,fig.width=8}
+
+tmp = secundergraduate %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%summarise(enrolled=mean(enrolled))%>%arrange(-enrolled)
+tmp$Instructor=reorder(tmp$Instructor,tmp$enrolled,mean)
+ggplot(tmp,aes(x=enrolled,y=Instructor,color=paste(season,year))) + geom_point() + labs(title="section size (mean per semester) undergrad only")
+
+tmp = secgraduate %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%summarise(enrolled=mean(enrolled))%>%arrange(-enrolled)
+tmp$Instructor=reorder(tmp$Instructor,tmp$enrolled,mean)
+ggplot(tmp,aes(x=enrolled,y=Instructor,color=paste(season,year))) + geom_point() + labs(title="section size (mean per semester) Grad only")
+
+tmp = dat %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%summarise(enrolled=mean(enrolled))%>%arrange(-enrolled)
+tmp$Instructor=reorder(tmp$Instructor,tmp$enrolled,mean)
+ggplot(tmp,aes(x=enrolled,y=Instructor,color=paste(season,year))) + geom_point() + labs(title="section size (mean per semester) UG+Grad")
+
+tmp = dat %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%summarise(totcred=sum(scred))%>%group_by(Instructor)%>%summarise(scred=mean(totcred))%>%arrange(-scred)
+tmp$Instructor=reorder(tmp$Instructor,tmp$scred,mean)
+print(dotplot(Instructor~scred,data=tmp,cex.lab=0.5,main="Mean student credit hrs UG+Grad across semesters"))
+
+tmp = secundergraduate %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%
+  summarise(totcred=sum(scred))%>%
+  group_by(Instructor)%>%
+  summarise(scred=mean(totcred))%>%
+  arrange(-scred)
+tmp$Instructor=reorder(tmp$Instructor,tmp$scred,mean)
+
+print(dotplot(Instructor~scred,data=tmp,cex.lab=0.5,main="Mean student credit hrs UG only across semesters"))
+
+
+tmp = secgraduate %>% filter(classification%in%c("T","R")) %>% group_by(season,year,Instructor)%>%
+  summarise(totcred=sum(scred))%>%
+  group_by(Instructor)%>%
+  summarise(scred=mean(totcred))%>%
+  arrange(-scred)
+tmp$Instructor=reorder(tmp$Instructor,tmp$scred,mean)
+
+print(dotplot(Instructor~scred,data=tmp,cex.lab=0.5,main="Mean student credit hrs grad only across semesters"))
+
+
+```
+
+##Distribution of individual instructor student credit hours per semester 
+Due to time constraints I didnt fix the issue with sorting semesters within years on the x-axis, so fall of each year comes before spring.
+
+```{r, echo=F,fig.height=15,fig.width=8}
+tmp =  dat%>%filter(classification%in%c("T","R"))%>%group_by(Instructor,season,year)%>%summarise(totcred=sum(scred))%>%mutate(date=paste0(year,"-",season))
+tmp$Instructor = factor(tmp$Instructor)
+tmp$Instructor=reorder(tmp$Instructor,-tmp$totcred,mean)
+p = ggplot(tmp,aes(x=date,y=totcred))
+p = p + geom_point() +facet_wrap(~Instructor,ncol=4) + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5))
+p
+```
+
+##How are enrollments changing through time?
+```{r echo=F,include=F}
+#eliminate courses other than BIOL
+dat=dat[dat$Subj=="BIOL",]
+```
+
+
+### 101-102, 111-112
+```{r, echo=F,fig.height=8,fig.width=4}
+tmp =  dat%>%filter(Crse%in%c("111","112","111L","112L","101","101L","102","102L"))%>%group_by(Crse,season,year)%>%summarise(totenroll=sum(enrolled))%>%mutate(date=paste0(year,"-",ifelse(season=="fall",paste0("2",season),paste0("1",season))))%>%arrange(date)
+tmp%>%ggplot(aes(x=year,y=totenroll,colour=season))+geom_point()+geom_line()+facet_wrap(~Crse)
+```
+
+
+### 201-202
+```{r, echo=F,fig.height=8,fig.width=4}
+tmp =  dat%>%filter(Crse%in%c("201","202"))%>%group_by(Crse,season,year)%>%summarise(totenroll=sum(enrolled))%>%mutate(date=paste0(year,"-",ifelse(season=="fall",paste0("2",season),paste0("1",season))))%>%arrange(date)
+tmp%>%ggplot(aes(x=year,y=totenroll,colour=season))+geom_point()+geom_line()+facet_wrap(~Crse)+xlab("Year")+ylab("total enrollment")
+```
+
+### 211
+```{r, echo=F,fig.height=8,fig.width=4}
+tmp =  dat%>%filter(Crse%in%c("211"))%>%group_by(Crse,season,year)%>%summarise(totenroll=sum(enrolled))%>%mutate(date=paste0(year,"-",ifelse(season=="fall",paste0("2",season),paste0("1",season))))%>%arrange(date)
+tmp%>%ggplot(aes(x=year,y=totenroll,colour=season))+geom_point()+geom_line()+facet_wrap(~Crse)+xlab("Year")+ylab("total 211 enrollment")
+```
+
+### Genetics enrollments
+```{r, echo=F,fig.height=8,fig.width=8}
+tmp =  dat%>%filter(Crse%in%"305",year>10)%>%group_by(year)%>%summarise(totenroll=sum(enrolled))%>%arrange(year)
+
+tmp%>%ggplot(aes(x=year,y=totenroll))+geom_point()+geom_smooth(span=1)+xlab("Year")+ylab("total 305 enrollment")
+```
+
+These seem to be dropping
+
+### Genetics enrollments roster only
+```{r, echo=F,fig.height=8,fig.width=8}
+tmp =  dat%>%filter(Crse%in%"305",year>10,classification%in%c("R","T"))%>%group_by(year)%>%summarise(totenroll=sum(enrolled))%>%arrange(year)
+
+tmp%>%ggplot(aes(x=year,y=totenroll))+geom_point()+geom_smooth(span=1)+xlab("Year")+ylab("total 305 enrollment (roster only)")
+```
+
+These seem to be dropping
+
+### Other 300 courses overall
+```{r, echo=F,fig.height=8,fig.width=8,message=F}
+tmp =  dat%>%filter(upper==T,!Crse%in%"305")%>%group_by(year)%>%summarise(totenroll=sum(enrolled))%>%arrange(year)
+tmp%>%ggplot(aes(x=year,y=totenroll))+geom_point()+geom_smooth()+xlab("Year")+ylab("total 300-level enrollment (no genetics)")
+```
+Looks like there is no real change in the number of students we teach _per calendar year_
+
+### Other 300 courses bio roster only
+```{r, echo=F,fig.height=8,fig.width=8,message=F}
+tmp =  dat%>%filter(upper==T,!Crse%in%"305",classification%in%c("R","T"))%>%group_by(year)%>%summarise(totenroll=sum(enrolled))%>%arrange(year)
+tmp%>%ggplot(aes(x=year,y=totenroll))+geom_point()+geom_smooth()+ylab("total 300-level enrollment (roster; no gen.)")
+```
+Looks like there is no real change in the number of students we teach _per calendar year_
+
+### other 300-levels by course
+```{r, echo=F,fig.height=8,fig.width=8}
+tmp =  dat%>%filter(upper==T,!Crse%in%"305")%>%group_by(Crse,season,year)%>%summarise(totenroll=sum(enrolled))%>%mutate(date=paste0(year,"-",ifelse(season=="fall",paste0("2",season),paste0("1",season))))%>%arrange(date)
+tmp%>%ggplot(aes(x=year,y=totenroll,colour=season))+geom_point()+geom_line()+facet_wrap(~Crse)
+```

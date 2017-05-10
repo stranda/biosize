@@ -1,0 +1,285 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10143	BIOL	101	01	M	4.000	Concepts and Applications in Biology I	MWF	08:00 am-08:50 am	40	6	Jennifer Ann Schepp (P)	08/23-12/14	RHSC 218	 
+10145	BIOL	101	02	M	4.000	Math and Life: Understanding Biology Through Statistics	MWF	10:00 am-10:50 am	20	4	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	Learning Community 26A
+10146	BIOL	101	03	M	4.000	Math and Life: Understanding Biology Through Statistics	MWF	10:00 am-10:50 am	20	10	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	Learning Community 26B
+10147	BIOL	101	04	M	4.000	Concepts and Applications in Biology I	MWF	11:00 am-11:50 am	80	6	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	 
+10148	BIOL	101	05	M	4.000	Concepts and Applications in Biology I	MWF	12:00 pm-12:50 pm	80	7	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	 
+10149	BIOL	101	06	M	4.000	Concepts and Applications in Biology I	MWF	02:00 pm-02:50 pm	80	6	Jennifer Ann Schepp (P)	08/23-12/14	RHSC 121	 
+10150	BIOL	101	07	M	4.000	Concepts and Applications in Biology I	TR	08:00 am-09:15 am	40	5	Jennifer Ann Schepp (P)	08/23-12/14	RHSC 121	 
+10151	BIOL	101	08	M	4.000	Concepts and Applications in Biology I	TR	10:50 am-12:05 pm	40	2	John S Peters (P)	08/23-12/14	LCTR B08	 
+14740	BIOL	101	09	M	4.000	Concepts and Applications in Biology I	MWF	11:00 am-11:50 am	40	24	Tina M Bell (P)	08/23-12/14	RHSC 239	 
+14284	BIOL	101	11	M	4.000	Math and Life: Understanding Biology Through Statistics	MWF	10:00 am-10:50 am	20	3	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	Learning Community 27B
+14287	BIOL	101	12	M	4.000	Math and Life: Understanding Biology Through Statistics	MWF	10:00 am-10:50 am	20	0	Miranda Lynette McManus (P)	08/23-12/14	RHSC 123	Learning Community 27A
+10144	BIOL	101L	01	M	0.000	Concepts and Application in Biology I Laboratory	M	10:30 am-01:30 pm	24	1	Brian G Scholtens (P), Nicole Marie Kollars	08/23-12/14	LCTR 339	 
+10153	BIOL	101L	02	M	0.000	Concepts and Application in Biology I Laboratory	M	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Nicole Marie Kollars	08/23-12/14	LCTR 339	 
+10165	BIOL	101L	03	M	0.000	Concepts and Application in Biology I Laboratory	M	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Nicole Marie Kollars	08/23-12/14	LCTR 339	 
+10166	BIOL	101L	04	M	0.000	Concepts and Application in Biology I Laboratory	M	07:30 pm-10:30 pm	24	5	Brian G Scholtens (P), David Patrick Coles	08/23-12/14	LCTR 339	 
+10154	BIOL	101L	05	M	0.000	Concepts and Application in Biology I Laboratory	T	07:30 am-10:30 am	24	1	Brian G Scholtens (P), Jennifer Lynn Newby	08/23-12/14	LCTR 339	 
+10155	BIOL	101L	06	M	0.000	Concepts and Application in Biology I Laboratory	T	10:30 am-01:30 pm	24	6	Brian G Scholtens (P), Amanda Joy Szwarc	08/23-12/14	LCTR 339	 
+10156	BIOL	101L	07	M	0.000	Concepts and Application in Biology I Laboratory	T	01:35 pm-04:30 pm	24	0	Brian G Scholtens (P), Michelle L Reed	08/23-12/14	LCTR 339	 
+10167	BIOL	101L	08	M	0.000	Concepts and Application in Biology I Laboratory	T	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Michelle L Reed	08/23-12/14	LCTR 339	 
+10168	BIOL	101L	09	M	0.000	Concepts and Application in Biology I Laboratory	T	07:30 pm-10:30 pm	24	1	Brian G Scholtens (P), Michelle L Reed	08/23-12/14	LCTR 339	 
+10158	BIOL	101L	11	M	0.000	Concepts and Application in Biology I Laboratory	W	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Levi Broaddus Curnutte	08/23-12/14	LCTR 339	 
+10157	BIOL	101L	12	M	0.000	Concepts and Application in Biology I Laboratory	W	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Hannah Louise Day	08/23-12/14	LCTR 339	 
+10169	BIOL	101L	13	M	0.000	Concepts and Application in Biology I Laboratory	W	04:30 pm-07:30 pm	24	1	Brian G Scholtens (P), Rebecca Lynn Derex	08/23-12/14	LCTR 339	 
+10161	BIOL	101L	15	M	0.000	Concepts and Application in Biology I Laboratory	R	07:30 am-10:30 am	24	1	Brian G Scholtens (P), Levi Broaddus Curnutte	08/23-12/14	LCTR 339	 
+10162	BIOL	101L	16	M	0.000	Concepts and Application in Biology I Laboratory	R	10:30 am-01:30 pm	24	1	Brian G Scholtens (P), Levi Broaddus Curnutte	08/23-12/14	LCTR 339	 
+10163	BIOL	101L	17	M	0.000	Concepts and Application in Biology I Laboratory	R	01:35 pm-04:30 pm	24	0	Brian G Scholtens (P), Hannah Louise Day	08/23-12/14	LCTR 339	 
+10159	BIOL	101L	18	M	0.000	Concepts and Application in Biology I Laboratory	R	07:30 pm-10:30 pm	24	1	Brian G Scholtens (P), David Patrick Coles	08/23-12/14	LCTR 339	 
+10160	BIOL	101L	19	M	0.000	Concepts and Application in Biology I Laboratory	W	07:30 pm-10:30 pm	24	1	Brian G Scholtens (P), Rebecca Lynn Derex	08/23-12/14	LCTR 339	 
+10164	BIOL	101L	21	M	0.000	Concepts and Application in Biology I Laboratory	F	01:30 pm-04:30 pm	24	2	Brian G Scholtens (P), David Patrick Coles	08/23-12/14	LCTR 339	 
+10171	BIOL	102	01	M	4.000	Concepts and Applications in Biology II	MWF	08:00 am-08:50 am	40	11	Benton Neil Taylor (P)	08/23-12/14	RHSC 239	 
+10172	BIOL	102	02	M	4.000	Concepts and Applications in Biology II	MWF	09:00 am-09:50 am	80	9	Heather Nicole Pritchard (P)	08/23-12/14	MYBK 100	 
+10173	BIOL	102	03	M	4.000	Concepts and Applications in Biology II	TR	08:00 am-09:15 am	40	3	Margaret Elizabeth Grant Burton (P)	08/23-12/14	RHSC 239	 
+10174	BIOL	102	04	M	4.000	Concepts and Applications in Biology II	TR	10:50 am-12:05 pm	40	1	Margaret Elizabeth Grant Burton (P)	08/23-12/14	RHSC 123	 
+10175	BIOL	102	05	M	4.000	Concepts and Applications in Biology II	TR	07:00 pm-08:15 pm	40	5	Dorian R McMillan (P)	08/23-12/14	RHSC 218	 
+10176	BIOL	102L	02	M	0.000	Concepts and Applications in Biology II Laboratory	M	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Callie Hendricks Crawford	08/23-12/14	LCTR 341	 
+10179	BIOL	102L	03	M	0.000	Concepts and Applications in Biology II Laboratory	M	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Callie Hendricks Crawford	08/23-12/14	LCTR 341	 
+10180	BIOL	102L	04	M	0.000	Concepts and Applications in Biology II Laboratory	M	07:30 pm-10:30 pm	24	0	Brian G Scholtens (P), Callie Hendricks Crawford	08/23-12/14	LCTR 341	 
+10177	BIOL	102L	07	M	0.000	Concepts and Applications in Biology II Laboratory	T	01:35 pm-04:30 pm	24	-1	Brian G Scholtens (P), Meredith Sonny Smylie	08/23-12/14	LCTR 341	 
+10181	BIOL	102L	08	M	0.000	Concepts and Applications in Biology II Laboratory	T	04:30 pm-07:30 pm	24	-1	Brian G Scholtens (P), Meredith Sonny Smylie	08/23-12/14	LCTR 341	 
+10182	BIOL	102L	09	M	0.000	Concepts and Applications in Biology II Laboratory	T	07:30 pm-10:30 pm	24	2	Brian G Scholtens (P), Meredith Sonny Smylie	08/23-12/14	LCTR 341	 
+10178	BIOL	102L	12	M	0.000	Concepts and Applications in Biology II Laboratory	W	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Adam Richard Lytton	08/23-12/14	LCTR 341	 
+10183	BIOL	102L	13	M	0.000	Concepts and Applications in Biology II Laboratory	W	04:30 pm-07:30 pm	24	0	Brian G Scholtens (P), Adam Richard Lytton	08/23-12/14	LCTR 341	 
+10184	BIOL	102L	14	M	0.000	Concepts and Applications in Biology II Laboratory	W	07:30 pm-10:30 pm	24	3	Brian G Scholtens (P), Adam Richard Lytton	08/23-12/14	LCTR 341	 
+12394	BIOL	102L	19	M	0.000	Concepts and Applications in Biology II Laboratory	R	07:30 pm-10:30 pm	24	24	Brian G Scholtens (P)	08/23-12/14	LCTR 341	 
+10186	BIOL	111	01	M	3.000	Introduction to Cell and Molecular Biology	TR	10:50 am-12:05 pm	80	1	Kathleen Elizabeth Janech (P)	08/23-12/14	RHSC 121	 
+10187	BIOL	111	02	M	3.000	Introduction to Cell and Molecular Biology	MWF	08:00 am-08:50 am	80	5	Heather Nicole Pritchard (P)	08/23-12/14	RHSC 121	 
+10188	BIOL	111	03	M	3.000	Introduction to Cell and Molecular Biology	TR	12:15 pm-01:30 pm	80	2	Heather Nicole Pritchard (P)	08/23-12/14	RHSC 123	 
+10189	BIOL	111	04	M	3.000	Introduction to Cell and Molecular Biology	MWF	09:00 am-09:50 am	80	4	Mark D Lazzaro (P)	08/23-12/14	RHSC 121	 
+10191	BIOL	111	06	M	3.000	Introduction to Cell and Molecular Biology	MW	07:00 pm-08:15 pm	80	1	Erin Richard (P)	08/23-12/14	RHSC 121	 
+13025	BIOL	111	14	M	3.000	Introduction to Cell and Molecular Biology	MWF	11:00 am-11:50 am	80	0	Deborah A Bidwell (P)	08/23-12/14	RHSC 121	 
+14137	BIOL	111	15	M	3.000	Biology and Psychology: Gateway to Neuroscience	MWF	01:00 pm-01:50 pm	20	1	Deborah A Bidwell (P)	08/23-12/14	RHSC 121	Learning Community 5A
+14138	BIOL	111	16	M	3.000	Chemistry and Biology for Pre- Med Students	TR	08:00 am-09:15 am	20	0	Kathleen Elizabeth Janech (P)	08/23-12/14	RHSC 123	Learning Community 7A1
+14264	BIOL	111	17	M	3.000	Biology and Psychology: Gateway to Neuroscience	MWF	01:00 pm-01:50 pm	20	2	Deborah A Bidwell (P)	08/23-12/14	RHSC 121	Learning Community 5B
+14329	BIOL	111	18	M	3.000	Chemistry and Biology for Pre- Med Students	TR	08:00 am-09:15 am	20	0	Kathleen Elizabeth Janech (P)	08/23-12/14	RHSC 123	Learning Community 7A2
+14330	BIOL	111	19	M	3.000	Chemistry and Biology for Pre- Med Students	TR	08:00 am-09:15 am	20	2	Kathleen Elizabeth Janech (P)	08/23-12/14	RHSC 123	Learning Community 7B1
+14331	BIOL	111	20	M	3.000	Chemistry and Biology for Pre- Med Students	TR	08:00 am-09:15 am	20	0	Kathleen Elizabeth Janech (P)	08/23-12/14	RHSC 123	Learning Community 7B2
+10193	BIOL	111L	01	M	1.000	Introduction to Cell and Molecular Biology Lab	M	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), Anna Patterson Tommerdahl	08/23-12/14	RHSC 320	 
+10194	BIOL	111L	02	M	1.000	Introduction to Cell and Molecular Biology Lab	T	07:30 am-10:30 am	24	1	Brian G Scholtens (P), Marin Elizabeth Hawk	08/23-12/14	RHSC 318	 
+10195	BIOL	111L	03	M	1.000	Introduction to Cell and Molecular Biology Lab	T	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), Marin Elizabeth Hawk	08/23-12/14	RHSC 320	 
+10196	BIOL	111L	04	M	1.000	Introduction to Cell and Molecular Biology Lab	T	01:35 pm-04:30 pm	24	1	Brian G Scholtens (P), Anna Patterson Tommerdahl	08/23-12/14	RHSC 318	 
+10197	BIOL	111L	05	M	1.000	Introduction to Cell and Molecular Biology Lab	T	01:35 pm-04:30 pm	24	1	Brian G Scholtens (P), Vanessa Sylvie Bezy	08/23-12/14	RHSC 320	 
+10198	BIOL	111L	06	M	1.000	Introduction to Cell and Molecular Biology Lab	W	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Matthew Owen McCalley	08/23-12/14	RHSC 320	 
+10199	BIOL	111L	07	M	1.000	Introduction to Cell and Molecular Biology Lab	W	01:30 pm-04:30 pm	24	2	Brian G Scholtens (P), Tessa Richie Bricker	08/23-12/14	RHSC 318	 
+10200	BIOL	111L	08	M	1.000	Introduction to Cell and Molecular Biology Lab	M	01:30 pm-04:30 pm	24	1	Brian G Scholtens (P), Vanessa Sylvie Bezy	08/23-12/14	RHSC 320	 
+10201	BIOL	111L	09	M	1.000	Introduction to Cell and Molecular Biology Lab	M	04:30 pm-07:30 pm	24	0	Brian G Scholtens (P), Vanessa Sylvie Bezy	08/23-12/14	RHSC 320	 
+10202	BIOL	111L	10	M	1.000	Introduction to Cell and Molecular Biology Lab	W	01:30 pm-04:30 pm	24	3	Brian G Scholtens (P), Whitney Francis Hook	08/23-12/14	RHSC 320	 
+10203	BIOL	111L	11	M	1.000	Introduction to Cell and Molecular Biology Lab	R	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), Matthew Owen McCalley	08/23-12/14	RHSC 320	 
+10204	BIOL	111L	12	M	1.000	Introduction to Cell and Molecular Biology Lab	R	01:35 pm-04:30 pm	24	3	Brian G Scholtens (P), Whitney Francis Hook	08/23-12/14	RHSC 318	 
+10205	BIOL	111L	13	M	1.000	Introduction to Cell and Molecular Biology Lab	F	10:30 am-01:30 pm	24	1	Brian G Scholtens (P), Sarah M Song	08/23-12/14	RHSC 318	 
+10206	BIOL	111L	14	M	1.000	Introduction to Cell and Molecular Biology Lab	F	01:30 pm-04:30 pm	24	-1	Brian G Scholtens (P), Sarah M Song	08/23-12/14	RHSC 320	 
+10207	BIOL	111L	15	M	1.000	Introduction to Cell and Molecular Biology Lab	R	01:35 pm-04:30 pm	24	1	Brian G Scholtens (P), Peter Richard Feltman	08/23-12/14	RHSC 320	 
+10208	BIOL	111L	16	M	1.000	Introduction to Cell and Molecular Biology Lab	F	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), Anna Patterson Tommerdahl	08/23-12/14	RHSC 320	 
+10209	BIOL	111L	17	M	1.000	Introduction to Cell and Molecular Biology Lab	M	07:30 pm-10:30 pm	24	1	Brian G Scholtens (P), Paul Jerome Cosmann	08/23-12/14	RHSC 318	 
+10210	BIOL	111L	18	M	1.000	Introduction to Cell and Molecular Biology Lab	T	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Rebecca Anne Mortensen	08/23-12/14	RHSC 318	 
+10211	BIOL	111L	19	M	1.000	Introduction to Cell and Molecular Biology Lab	T	07:30 pm-10:30 pm	24	2	Brian G Scholtens (P), Rebecca Anne Mortensen	08/23-12/14	RHSC 318	 
+10212	BIOL	111L	20	M	1.000	Introduction to Cell and Molecular Biology Lab	W	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Peter Richard Feltman	08/23-12/14	RHSC 318	 
+10213	BIOL	111L	21	M	1.000	Introduction to Cell and Molecular Biology Lab	F	01:30 pm-04:30 pm	24	4	Brian G Scholtens (P), Rebecca Anne Mortensen	08/23-12/14	RHSC 318	 
+10214	BIOL	111L	22	M	1.000	Introduction to Cell and Molecular Biology Lab	T	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Matthew Owen McCalley	08/23-12/14	RHSC 320	 
+10215	BIOL	111L	23	M	1.000	Introduction to Cell and Molecular Biology Lab	W	04:30 pm-07:30 pm	24	1	Brian G Scholtens (P), Paul Jerome Cosmann	08/23-12/14	RHSC 320	 
+14629	BIOL	111L	24	M	1.000	Introduction to Cell and Molecular Biology Lab	R	04:30 pm-07:30 pm	24	5	Brian G Scholtens (P), Whitney Francis Hook	08/23-12/14	RHSC 318	 
+14638	BIOL	111L	25	M	1.000	Introduction to Cell and Molecular Biology Lab	T	07:30 pm-10:30 pm	24	0	Brian G Scholtens (P), Marin Elizabeth Hawk	08/23-12/14	RHSC 320	 
+14779	BIOL	111L	26	M	1.000	Introduction to Cell and Molecular Biology Lab	R	04:30 pm-07:30 pm	24	2	Brian G Scholtens (P), Peter Richard Feltman	08/23-12/14	RHSC 320	 
+10216	BIOL	112	01	M	3.000	Evolution, Form, and Function of Organisms	MWF	10:00 am-10:50 am	80	29	Jean B Everett (P)	08/23-12/14	RHSC 121	 
+10217	BIOL	112	02	M	3.000	Evolution, Form, and Function of Organisms	MWF	11:00 am-11:50 am	120	5	Andrew J Clark (P)	08/23-12/14	NSCB 129	 
+10219	BIOL	112L	01	M	1.000	Evolution, Form, and Function of Organisms Lab	M	01:30 pm-04:30 pm	24	3	Brian G Scholtens (P), Ashley Lynne Shaw	08/23-12/14	LCTR 340	 
+10220	BIOL	112L	02	M	1.000	Evolution, Form, and Function of Organisms Lab	T	01:35 pm-04:30 pm	24	2	Brian G Scholtens (P), Ashley Lynne Shaw	08/23-12/14	LCTR 340	 
+10221	BIOL	112L	03	M	1.000	Evolution, Form, and Function of Organisms Lab	W	01:30 pm-04:30 pm	24	0	Brian G Scholtens (P), Jacqueline Michelle Leidig	08/23-12/14	LCTR 340	 
+10222	BIOL	112L	04	M	1.000	Evolution, Form, and Function of Organisms Lab	M	04:30 pm-07:30 pm	24	1	Brian G Scholtens (P), Lindsay Ann Glade	08/23-12/14	LCTR 340	 
+10223	BIOL	112L	05	M	1.000	Evolution, Form, and Function of Organisms Lab	M	07:30 pm-10:30 pm	24	13	Brian G Scholtens (P), Lindsay Ann Glade	08/23-12/14	LCTR 340	 
+10224	BIOL	112L	06	M	1.000	Evolution, Form, and Function of Organisms Lab	T	04:30 pm-07:30 pm	24	5	Brian G Scholtens (P), Ashley Lynne Shaw	08/23-12/14	LCTR 340	 
+10225	BIOL	112L	07	M	1.000	Evolution, Form, and Function of Organisms Lab	W	04:30 pm-07:30 pm	24	10	Brian G Scholtens (P), Jacqueline Michelle Leidig	08/23-12/14	LCTR 340	 
+14193	BIOL	112L	08	M	1.000	Evolution, Form, and Function of Organisms Lab	R	01:35 pm-04:30 pm	24	0	Brian G Scholtens (P), Lindsay Ann Glade	08/23-12/14	LCTR 340	 
+14194	BIOL	112L	09	M	1.000	Evolution, Form, and Function of Organisms Lab	T	07:30 pm-10:30 pm	0	0	Brian G Scholtens (P)	08/23-12/14	LCTR 340	 
+10226	BIOL	201	01	M	4.000	Human Physiology	MWF	10:00 am-10:50 am	120	11	Jason T Vance (P)	08/23-12/14	NSCB 129	 
+10227	BIOL	201L	01	M	0.000	Human Physiology Lab	M	11:00 am-02:00 pm	24	3	Norma Juliana Salcedo (P)	08/23-12/14	RHSC 223	 
+10228	BIOL	201L	02	M	0.000	Human Physiology Lab	M	02:00 pm-05:00 pm	24	2	Norma Juliana Salcedo (P)	08/23-12/14	RHSC 223	 
+10229	BIOL	201L	03	M	0.000	Human Physiology Lab	T	08:00 am-11:00 am	24	3	Jeffrey D Triblehorn (P)	08/23-12/14	RHSC 223	 
+10230	BIOL	201L	04	M	0.000	Human Physiology Lab	T	11:00 am-02:00 pm	24	1	Jeffrey D Triblehorn (P)	08/23-12/14	RHSC 223	 
+10231	BIOL	201L	05	M	0.000	Human Physiology Lab	T	02:00 pm-05:00 pm	24	2	Norma Juliana Salcedo (P)	08/23-12/14	RHSC 223	 
+10232	BIOL	202	01	M	4.000	Human Anatomy	TR	08:00 am-09:15 am	144	19	Peyre G Pringle (P)	08/23-12/14	NSCB 129	 
+10233	BIOL	202L	01	M	0.000	Human Anatomy Lab	M	11:00 am-02:00 pm	24	0	David Jules Jackowe (P)	08/23-12/14	RHSC 227	 
+10234	BIOL	202L	02	M	0.000	Human Anatomy Lab	M	02:00 pm-05:00 pm	24	5	David Jules Jackowe (P)	08/23-12/14	RHSC 227	 
+10235	BIOL	202L	03	M	0.000	Human Anatomy Lab	T	11:00 am-02:00 pm	24	4	Peyre G Pringle (P)	08/23-12/14	RHSC 227	 
+10236	BIOL	202L	04	M	0.000	Human Anatomy Lab	T	02:00 pm-05:00 pm	24	4	Peyre G Pringle (P)	08/23-12/14	RHSC 227	 
+10237	BIOL	202L	05	M	0.000	Human Anatomy Lab	W	11:00 am-02:00 pm	24	3	David Jules Jackowe (P)	08/23-12/14	RHSC 227	 
+14247	BIOL	202L	06	M	0.000	Human Anatomy Lab	W	02:00 pm-05:00 pm	24	3	David Jules Jackowe (P)	08/23-12/14	RHSC 227	 
+10238	BIOL	204	01	M	3.000	Man and the Environment	MWF	08:00 am-08:50 am	24	7	David R Wiseman (P)	08/23-12/14	RHSC 204	 
+10239	BIOL	211	01	M	4.000	Biodiversity, Ecology, and Conservation Biology	MWF	09:00 am-09:50 am	20	1	William Stephen Alevizon (P)	08/23-12/14	RHSC 218	 
+10240	BIOL	211	02	M	4.000	Biodiversity, Ecology, and Conservation Biology	MWF	09:00 am-09:50 am	20	0	William Stephen Alevizon (P)	08/23-12/14	RHSC 218	 
+10241	BIOL	211	03	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	0	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 121	 
+10242	BIOL	211	04	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	4	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 121	 
+10243	BIOL	211	05	M	4.000	Biodiversity, Ecology, and Conservation Biology	MWF	11:00 am-11:50 am	20	2	Yana M Wieckowski (P)	08/23-12/14	RHSC 218	 
+10244	BIOL	211	06	M	4.000	Biodiversity, Ecology, and Conservation Biology	MWF	11:00 am-11:50 am	20	8	Dorian R McMillan (P)	08/23-12/14	RHSC 228	 
+10245	BIOL	211	07	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	1	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 121	 
+10246	BIOL	211	08	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	08:00 am-09:15 am	20	4	John S Peters (P)	08/23-12/14	RHSC 301	 
+10247	BIOL	211	09	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	19	0	Allison Marie Welch (P)	08/23-12/14	NSCB 129	 
+10248	BIOL	211	10	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	1	Allison Marie Welch (P)	08/23-12/14	NSCB 129	 
+14084	BIOL	211	11	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	8	Robert David Podolsky (P)	08/23-12/14	NSCB 129	 
+14085	BIOL	211	12	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	09:25 am-10:40 am	20	1	Robert David Podolsky (P)	08/23-12/14	NSCB 129	 
+10251	BIOL	211	13	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	06:00 pm-07:15 pm	20	-2	Maria A Whitehead (P)	08/23-12/14	NSCB 138	 
+ 	 	 	 	 	 	 	TR	06:00 pm-07:15 pm	 	 	Maria A Whitehead (P)	08/23-12/14	NSCB 140	 
+10252	BIOL	211	14	M	4.000	Biodiversity, Ecology, and Conservation Biology	TR	06:00 pm-07:15 pm	20	1	Maria A Whitehead (P)	08/23-12/14	NSCB 138	 
+ 	 	 	 	 	 	 	TR	06:00 pm-07:15 pm	 	 	Maria A Whitehead (P)	08/23-12/14	NSCB 140	 
+10253	BIOL	211D	01	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	M	11:00 am-01:59 pm	20	1	William Stephen Alevizon (P)	08/23-12/14	RHSC 301	 
+10254	BIOL	211D	02	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	T	09:25 am-12:25 pm	20	0	William Stephen Alevizon (P)	08/23-12/14	RHSC 301	 
+10255	BIOL	211D	03	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	W	11:00 am-01:59 pm	20	0	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 301	 
+10256	BIOL	211D	04	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	W	08:00 am-10:59 am	20	4	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 301	 
+10257	BIOL	211D	05	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	R	09:25 am-12:25 pm	20	2	Yana M Wieckowski (P)	08/23-12/14	RHSC 301	 
+10258	BIOL	211D	06	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	M	08:00 am-10:59 am	20	8	Dorian R McMillan (P)	08/23-12/14	RHSC 301	 
+10259	BIOL	211D	07	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	M	02:00 pm-04:59 pm	20	1	Matthew Thomas Rutter (P)	08/23-12/14	RHSC 301	 
+10260	BIOL	211D	08	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	T	01:00 pm-04:00 pm	20	4	John S Peters (P)	08/23-12/14	RHSC 301	 
+10261	BIOL	211D	09	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	W	02:00 pm-04:59 pm	19	0	Allison Marie Welch (P)	08/23-12/14	RHSC 301	 
+10262	BIOL	211D	10	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	R	02:00 pm-05:00 pm	20	1	Allison Marie Welch (P)	08/23-12/14	RHSC 301	 
+14086	BIOL	211D	11	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	F	09:00 am-11:59 am	20	8	Robert David Podolsky (P)	08/23-12/14	RHSC 301	 
+14087	BIOL	211D	12	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	F	12:00 pm-02:59 pm	20	1	Robert David Podolsky (P)	08/23-12/14	RHSC 301	 
+10265	BIOL	211D	13	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	T	07:30 pm-10:30 pm	20	-2	Maria A Whitehead (P)	08/23-12/14	RHSC 301	 
+10266	BIOL	211D	14	M	0.000	Biodiversity, Ecology, and Conservation Biology Discussion	R	07:30 pm-10:30 pm	20	1	Maria A Whitehead (P)	08/23-12/14	RHSC 301	 
+10300	BIOL	300	01	M	4.000	Botany	MWF	09:00 am-09:50 am	24	16	David R Wiseman (P)	08/23-12/14	RHSC 204	 
+10301	BIOL	300L	01	M	0.000	Botany Lab	T	02:00 pm-05:00 pm	24	16	David R Wiseman (P)	08/23-12/14	RHSC 204	 
+10302	BIOL	301	01	M	4.000	Plant Taxonomy	MWF	01:00 pm-01:50 pm	20	11	Jean B Everett (P)	08/23-12/14	RHSC 204	 
+10303	BIOL	301L	01	M	0.000	Plant Taxonomy Lab	M	02:00 pm-05:00 pm	20	11	Jean B Everett (P)	08/23-12/14	RHSC 204	 
+10304	BIOL	303	01	M	4.000	Phycology	TR	08:00 am-09:15 am	20	11	David R Wiseman (P)	08/23-12/14	RHSC 204	 
+10305	BIOL	303L	01	M	0.000	Phycology Lab	R	01:40 pm-04:40 pm	20	11	David R Wiseman (P)	08/23-12/14	RHSC 204	 
+14094	BIOL	304	01	M	4.000	Plant Physiology	TR	08:00 am-09:15 am	15	2	Seth G Pritchard (P)	08/23-12/14	NSCB 140	 
+ 	 	 	 	 	 	 	TR	08:00 am-09:15 am	 	 	Seth G Pritchard (P)	08/23-12/14	NSCB 138	 
+14095	BIOL	304L	01	M	0.000	Plant Physiology Lab	W	12:30 pm-03:30 pm	15	3	Seth G Pritchard (P)	08/23-12/14	RHSC 202	 
+12376	BIOL	305	01	M	3.000	Genetics	MWF	09:00 am-09:50 am	120	11	Allan Edgar Strand (P)	08/23-12/14	NSCB 129	 
+12378	BIOL	305L	01	M	1.000	Genetics Lab	T	01:40 pm-04:40 pm	15	7	Robert T Dillon (P)	08/23-12/14	RHSC 200	 
+12379	BIOL	305L	02	M	1.000	Genetics Lab	W	01:40 pm-04:40 pm	15	8	Robert T Dillon (P)	08/23-12/14	RHSC 200	 
+12380	BIOL	305L	03	M	1.000	Genetics Lab	R	01:40 pm-04:40 pm	15	5	Erin Richard (P)	08/23-12/14	RHSC 200	 
+10308	BIOL	310	01	M	4.000	General Microbiology	TR	09:25 am-10:40 am	64	-10	Susan J Morrison (P)	08/23-12/14	RHSC 123	 
+10309	BIOL	310L	01	M	0.000	General Microbiology Lab	T	12:15 pm-03:15 pm	16	-3	Tracy Heather Coliano Hirsch (P), Susan J Morrison	08/23-12/14	RHSC 201	 
+10310	BIOL	310L	02	M	0.000	General Microbiology Lab	W	02:30 pm-05:30 pm	16	-1	Tracy Heather Coliano Hirsch (P), Susan J Morrison	08/23-12/14	RHSC 201	 
+10311	BIOL	310L	03	M	0.000	General Microbiology Lab	T	04:00 pm-07:00 pm	16	-2	Tracy Heather Coliano Hirsch (P), Susan J Morrison	08/23-12/14	RHSC 201	 
+10312	BIOL	310L	04	M	0.000	General Microbiology Lab	W	06:00 pm-09:00 pm	16	-4	Tracy Heather Coliano Hirsch (P), Susan J Morrison	08/23-12/14	RHSC 201	 
+10313	BIOL	312	01	M	3.000	Molecular Biology	MWF	09:00 am-09:50 am	0	-13	Christopher A Korey (P)	08/23-12/14	NSCB 140	 
+ 	 	 	 	 	 	 	MWF	09:00 am-09:50 am	 	 	Christopher A Korey (P)	08/23-12/14	NSCB 138	 
+14098	BIOL	312	02	M	3.000	Molecular Biology	TR	10:50 am-12:05 pm	120	51	Andrew M Shedlock (P)	08/23-12/14	NSCB 129	 
+10315	BIOL	312L	01	M	1.000	Molecular Biology Laboratory	T	09:00 am-12:00 pm	0	-12	Christopher A Korey (P)	08/23-12/14	RHSC 222	 
+10316	BIOL	312L	02	M	1.000	Molecular Biology Laboratory	M	11:00 am-02:00 pm	12	3	Stephanie Dellis (P)	08/23-12/14	RHSC 222	 
+10317	BIOL	312L	03	M	1.000	Molecular Biology Laboratory	T	01:40 pm-04:40 pm	12	1	Stephanie Dellis (P)	08/23-12/14	RHSC 222	 
+10318	BIOL	312L	04	M	1.000	Molecular Biology Laboratory	M	03:00 pm-06:00 pm	12	2	Stephanie Dellis (P)	08/23-12/14	RHSC 222	 
+10319	BIOL	312L	05	M	1.000	Molecular Biology Laboratory	W	02:00 pm-05:00 pm	12	4	Stephanie Dellis (P)	08/23-12/14	RHSC 222	 
+14320	BIOL	312L	06	M	1.000	Molecular Biology Laboratory	R	01:40 pm-04:40 pm	12	2	Anastasia Maria Zimmerman (P)	08/23-12/14	RHSC 222	 
+10321	BIOL	313	01	M	3.000	Cell Biology	MWF	10:00 am-10:50 am	30	-4	Richard J Southgate (P)	08/23-12/14	RHSC 239	 
+10322	BIOL	313L	01	M	1.000	Cell Biology Laboratory	M	02:00 pm-05:00 pm	10	-2	Richard J Southgate (P)	08/23-12/14	RHSC 302	 
+10323	BIOL	313L	02	M	1.000	Cell Biology Laboratory	T	01:40 pm-04:40 pm	10	0	Richard J Southgate (P)	08/23-12/14	RHSC 302	 
+10324	BIOL	313L	03	M	1.000	Cell Biology Laboratory	T	05:00 pm-08:00 pm	10	0	Richard J Southgate (P)	08/23-12/14	RHSC 302	 
+10326	BIOL	321	01	M	4.000	General and Comparative Physiology	MWF	09:00 am-09:50 am	40	4	Eric J McElroy (P)	08/23-12/14	RHSC 239	 
+10327	BIOL	321L	01	M	0.000	General and Comparative Physiology Lab	R	01:00 pm-04:00 pm	20	1	Elizabeth L Meyer-Bernstein (P)	08/23-12/14	RHSC 223	 
+14101	BIOL	321L	02	M	0.000	General and Comparative Physiology Lab	F	12:00 pm-03:00 pm	20	3	Elizabeth L Meyer-Bernstein (P)	08/23-12/14	RHSC 223	 
+10328	BIOL	322	01	M	4.000	Developmental Biology	TR	10:50 am-12:05 pm	16	-1	Agnes J Southgate (P)	08/23-12/14	RHSC 203	 
+10329	BIOL	322L	01	M	0.000	Developmental Biology Lab	W	02:00 pm-05:00 pm	16	-1	Agnes J Southgate (P)	08/23-12/14	RHSC 203	 
+10332	BIOL	323	01	M	4.000	Comparative Anatomy of Vertebrates	TR	09:25 am-10:40 am	20	1	Willem Jacob Hillenius (P)	08/23-12/14	RHSC 239	 
+10333	BIOL	323L	01	M	0.000	Comparative Anatomy of Vertebrates Lab	R	01:00 pm-05:00 pm	20	1	Norma Juliana Salcedo (P)	08/23-12/14	RHSC 227	 
+10335	BIOL	335	01	M	4.000	Biology Of Fishes	TR	09:25 am-10:40 am	30	1	Gorka A Sancho (P)	08/23-12/14	RHSC 218	 
+10336	BIOL	335L	01	G	0.000	Biology of Fishes Lab	R	01:35 pm-05:30 pm	15	2	Gorka A Sancho (P)	08/23-12/14	GMLM 101	 
+10337	BIOL	335L	02	G	0.000	Biology of Fishes Lab	T	01:35 pm-05:30 pm	15	-1	Gorka A Sancho (P)	08/23-12/14	GMLM 101	 
+10338	BIOL	336	01	M	4.000	Parasitology	TR	09:25 am-10:40 am	35	0	Isaure De Buron-Connors (P)	08/23-12/14	NSCB 140	 
+ 	 	 	 	 	 	 	TR	09:25 am-10:40 am	 	 	Isaure De Buron-Connors (P)	08/23-12/14	NSCB 138	 
+10339	BIOL	336L	01	M	0.000	Parasitology Lab	R	02:00 pm-05:00 pm	18	0	Isaure De Buron-Connors (P)	08/23-12/14	RHSC 203	 
+10340	BIOL	336L	02	M	0.000	Parasitology Lab	R	05:45 pm-08:45 pm	17	0	Isaure De Buron-Connors (P)	08/23-12/14	RHSC 203	 
+14115	BIOL	338	01	M	4.000	Entomology	TR	09:25 am-10:40 am	20	0	Brian G Scholtens (P)	08/23-12/14	RHSC 203	 
+14116	BIOL	338L	01	M	0.000	Entomology Lab	F	01:00 pm-05:00 pm	20	0	Brian G Scholtens (P)	08/23-12/14	RHSC 203	 
+10343	BIOL	341	01	M	4.000	General Ecology	TR	10:50 am-12:05 pm	30	4	Phillip Dustan (P)	08/23-12/14	RHSC 239	 
+10344	BIOL	341L	01	M	0.000	General Ecology Lab	T	01:40 pm-04:40 pm	15	3	Phillip Dustan (P)	08/23-12/14	RHSC 203	 
+10345	BIOL	341L	02	M	0.000	General Ecology Lab	R	02:00 pm-05:00 pm	15	1	Phillip Dustan (P)	08/23-12/14	RHSC 228	 
+10346	BIOL	342	01	G	4.000	Oceanography	MW	10:15 am-11:30 am	24	1	Giacomo R DiTullio (P)	08/23-12/14	GMLM 202	 
+10347	BIOL	342L	01	G	0.000	Oceanography Lab	M	01:00 pm-04:00 pm	12	0	Giacomo R DiTullio (P)	08/23-12/14	GMLA 113	 
+10348	BIOL	342L	02	G	0.000	Oceanography Lab	W	02:00 pm-05:00 pm	12	1	Giacomo R DiTullio (P)	08/23-12/14	GMLA 113	 
+10349	BIOL	343	01	M	4.000	Animal Behavior	TR	10:50 am-12:05 pm	30	-2	Melissa Hughes (P)	08/23-12/14	NSCB 140	 
+ 	 	 	 	 	 	 	TR	10:50 am-12:05 pm	 	 	Melissa Hughes (P)	08/23-12/14	NSCB 138	 
+10350	BIOL	343L	01	M	0.000	Animal Behavior Lab	T	02:00 pm-05:00 pm	15	-1	Melissa Hughes (P)	08/23-12/14	RHSC 228	 
+14199	BIOL	343L	02	M	0.000	Animal Behavior Lab	W	02:00 pm-05:00 pm	15	-1	Melissa Hughes (P)	08/23-12/14	RHSC 228	 
+10351	BIOL	350	01	M	3.000	Evolution	TR	12:15 pm-01:30 pm	40	2	Antony Scott Harold (P)	08/23-12/14	RHSC 218	 
+10352	BIOL	351	01	M	3.000	Principles of Neurobiology	MWF	10:00 am-10:50 am	33	5	Elizabeth L Meyer-Bernstein (P)	08/23-12/14	RHSC 218	 
+10353	BIOL	396	01	M	3.000	Biophysical Modeling of Excitable Cells	MWF	09:00 am-09:50 am	24	19	Sorinel Adrian Oprisan (P)	08/23-12/14	RHSC 315	 
+15322	BIOL	397	02	M	0.000	Sexual Selection in Frogs	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14435	BIOL	399	01	M	3.000	Coral Disease Detection	 	TBA	0	-1	Andrew M Shedlock (P)	08/23-12/14	TBA	 
+14895	BIOL	399	02	M	3.000	Exploring genomic tools for sexing non-sex chromosomal organisms: The American Alligator	 	TBA	0	-1	Willem Jacob Hillenius (P)	08/23-12/14	TBA	 
+14907	BIOL	399	03	M	1.000	Lizard Functional Morphology	 	TBA	0	-1	Eric J McElroy (P)	08/23-12/14	TBA	 
+15030	BIOL	399	04	M	3.000	Research in Biology	 	TBA	0	-1	Anastasia Maria Zimmerman (P)	08/23-12/14	TBA	 
+15031	BIOL	399	05	M	2.000	Swimming Performance in Sea Turtles	 	TBA	0	-1	Eric J McElroy (P)	08/23-12/14	TBA	 
+15069	BIOL	399	06	M	3.000	Biomedical Spectroscopy	 	TBA	0	-1	Linda Ramball Jones (P)	08/23-12/14	TBA	 
+15163	BIOL	399	07	M	2.000	Socially Influenced Neurogenesis in the Hippocampus of the California Mouse	 	TBA	0	-1	Michael Gerard Ruscio (P)	08/23-12/14	TBA	 
+15193	BIOL	399	09	M	3.000	Techniques in Dev Biology	 	TBA	0	-2	Christine A Byrum (P)	08/23-12/14	TBA	 
+15301	BIOL	399	11	M	3.000	Neuro Rsrch: Alcohol Addiction	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+15324	BIOL	399	12	M	3.000	Intro to Biology II	 	TBA	0	-1	Margaret Elizabeth Grant Burton (P)	08/23-12/14	TBA	 
+14732	BIOL	448	01	M	3.000	Bachelor's Essay in Neuroscience	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+14840	BIOL	448	02	M	3.000/6.000	Motor Neurons/Oxidative Stress	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+14854	BIOL	448	03	M	3.000	Astrocytes & Oxidative Stree	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+14910	BIOL	448	04	M	3.000	Vassopressin/Oxytocin Recep	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+14911	BIOL	448	05	M	3.000	Stress and Cocaine Withdrawal	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+15012	BIOL	448	06	M	3.000	Neurobiology of Alcoholism	 	TBA	0	-1	Howard C Becker (P)	08/23-12/14	TBA	 
+15023	BIOL	448	07	M	3.000	eFos Expression and Ethanol Dependence	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+15098	BIOL	448	08	M	3.000	Gene Transfer for Sleep Disorders	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+15228	BIOL	448	09	M	3.000	Bachelor's Essay in Neuroscience	 	TBA	0	-1	Jeffrey D Triblehorn (P)	08/23-12/14	TBA	 
+14489	BIOL	450	01	M	3.000	In Vivo Oxygenation Study	 	TBA	0	0	Linda Ramball Jones (P), Mark D Lazzaro	08/23-12/14	TBA	 
+14863	BIOL	450	02	M	3.000	Behav Prob:Starlet Sea Anemore	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	08/23-12/14	TBA	 
+14888	BIOL	450	03	M	2.000	Seed Germination: Arabidopsis	 	TBA	0	-1	Courtney J Murren (P)	08/23-12/14	TBA	 
+14900	BIOL	450	04	M	3.000	Circadian gene expression in N	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	08/23-12/14	TBA	 
+14962	BIOL	450	05	M	3.000	Caspase -1 Activation during Cyclophosphamide Induced Hemorrhagic Cystitis.	 	TBA	0	-1	Deborah A Bidwell (P)	08/23-12/14	TBA	 
+15194	BIOL	450	06	M	3.000	MUSC Cardiology Disease Res	 	TBA	0	-1	Robert T Dillon (P)	08/23-12/14	TBA	 
+14616	BIOL	451	01	M	3.000	Nueroethology/Chem Signaling	 	TBA	0	-1	Melissa Hughes (P)	08/23-12/14	TBA	 
+15022	BIOL	451	02	M	3.000	Continued effects of different dissolved CO levels on sea urchin sperm motility and speed.	 	TBA	0	-1	Robert David Podolsky (P)	08/23-12/14	TBA	 
+15151	BIOL	451	03	M	3.000	Age and Reproductive Maturity of Cobia Crachycentron Canadum	 	TBA	0	-1	Isaure De Buron-Connors (P)	08/23-12/14	TBA	 
+14200	BIOL	453	01	M	4.000	ST:Comparative Biomechanics	TR	09:25 am-10:40 am	15	10	Eric J McElroy (P)	08/23-12/14	RHSC 228	 
+14201	BIOL	453	02	M	3.000	ST:Intro to Bioinformatics	MTWRF	05:00 pm-06:00 pm	10	7	Gavin Naylor (P)	08/23-10/11	RHSC 301	 
+14202	BIOL	453L	01	M	0.000	ST:Compar Biomechanics Lab	R	10:50 am-01:50 pm	15	10	Eric J McElroy (P)	08/23-12/14	RHSC 300	 
+14770	BIOL	455	02	M	2.000	Seminar in Molecular Biology	F	02:00 pm-04:00 pm	0	-1	Christopher A Korey (P)	08/23-12/14	RHSC 222	 
+14434	BIOL	499	02	M	3.000	Bleaching of O. Arbuscula	 	TBA	0	-1	Phillip Dustan (P)	08/23-12/14	TBA	 
+14548	BIOL	499	03	M	3.000	Stress/Pesticide on Tadpoles	 	TBA	0	-1	Allison Marie Welch (P)	08/23-12/14	TBA	 
+14908	BIOL	499	05	M	3.000	Isoforms & Flight in Fruit Fly	 	TBA	0	-1	Agnes J Southgate (P)	08/23-12/14	TBA	 
+14995	BIOL	499	06	M	3.000	Photosensitizer Uptake in Cultured Cells	 	TBA	0	-1	Linda Ramball Jones (P)	08/23-12/14	TBA	 
+15055	BIOL	499	07	M	3.000	The local evoluetion of body color in a widespread herbivorous isopod	 	TBA	0	-1	Erik Sotka (P)	08/23-12/14	TBA	 
+15064	BIOL	499	08	M	3.000	The Effects of a Myxosporean parasite on the flesh quality of spotted seatrout.	 	TBA	0	-1	Eric J McElroy (P)	08/23-12/14	TBA	 
+15133	BIOL	499	09	M	3.000	Comp study of stimulus velocity encoding by the populations of wind-sensitive interneurons in insect	 	TBA	0	-1	Jeffrey D Triblehorn (P)	08/23-12/14	TBA	 
+15136	BIOL	499	10	M	3.000	House Finch Song Development Along an Urban to Rural Gradient.	 	TBA	0	-1	Paul Matthew Nolan (P)	08/23-12/14	TBA	 
+15150	BIOL	499	11	M	3.000	Life History of the American eel: Anguilla rostrata	 	TBA	0	-1	Antony Scott Harold (P)	08/23-12/14	TBA	 
+15169	BIOL	499	12	M	3.000	An invasive seaweed, Bracilaria Vericulophylla and native snail, Ilyanassa obsouta	 	TBA	0	-1	Erik Sotka (P)	08/23-12/14	TBA	 
+14258	BIOL	499	16	M	3.000	Native Plants/Urban Environ	 	TBA	0	-1	Jean B Everett (P)	08/23-12/14	TBA	 
+14260	BIOL	499	17	M	3.000	Micro-RNA & Heart Development	 	TBA	0	-1	Christopher A Korey (P)	08/23-12/14	TBA	 
+15198	BIOL	499	18	M	3.000	Evaluating the Effects from Cruise Ship Pollution	 	TBA	0	-1	Maria A Whitehead (P)	08/23-12/14	TBA	 
+14120	BIOL	502	01	G	4.000	Introduction to Genomics	MF	11:30 am-01:00 pm	10	9	Christine A Byrum (P)	08/23-12/14	GMLM 202	 
+14203	BIOL	502	02	M	3.000	ST:Intro to Bioinformatics	 	TBA	10	10	TBA	08/23-12/14	TBA	 
+14932	BIOL	502	03	M	1.000-4.000	ST: Marine Organ Health	 	TBA	0	-1	Karen Gray Burnett (P)	08/23-12/14	TBA	 
+14121	BIOL	502L	01	G	0.000	Introduction to Genomics Lab	F	01:01 pm-04:00 pm	10	9	Christine A Byrum (P)	08/23-12/14	GMLA 113	 
+10361	BIOL	600	01	G	4.000	Physiology and Cell Biology of Marine Organisms	TR	09:25 am-10:40 am	14	0	Louis E Burnett (P)	08/23-12/14	GMLM 202	 
+10362	BIOL	600L	01	G	0.000	Physiology and Cell Biology of Marine Organisms Laboratory	T	01:00 pm-04:00 pm	7	1	Louis E Burnett (P)	08/23-12/14	GMLA 113	 
+10363	BIOL	600L	02	G	0.000	Physiology and Cell Biology of Marine Organisms Laboratory	R	01:00 pm-04:00 pm	7	-1	Louis E Burnett (P)	08/23-12/14	GMLA 113	 
+10364	BIOL	601	01	G	4.000	Ecology Of Marine Organisms	MW	08:30 am-10:00 am	16	7	Craig J Plante (P)	08/23-12/14	GMLM 202	 
+10365	BIOL	601L	01	G	0.000	Ecology of Marine Organisms Laboratory	M	02:00 pm-05:00 pm	12	5	Craig J Plante (P)	08/23-12/14	GMLM 101	 
+12424	BIOL	601L	02	G	0.000	Ecology of Marine Organisms Laboratory	W	02:00 pm-05:00 pm	8	6	Craig J Plante (P)	08/23-12/14	GMLM 101	 
+14782	BIOL	618	01	G	4.000	Marine Molecular Ecology	W	08:30 am-11:30 am	12	1	Erik Sotka (P)	08/23-12/14	GMLM 101	 
+14783	BIOL	618L	01	G	0.000	Marine Molecular Ecology Lab	W	02:00 pm-05:00 pm	12	1	Erik Sotka (P)	08/23-12/14	GMLM 202	 
+10367	BIOL	620	01	G	1.000	Graduate Core Seminar	R	05:30 pm-07:00 pm	16	3	Craig J Plante (P)	08/23-12/14	GMLM 101	 
+10368	BIOL	627	01	G	4.000	Marine Tetrapod Biology	T	01:35 pm-04:30 pm	6	4	David William Owens (P)	08/23-12/14	GMLM 202	 
+10369	BIOL	627L	01	G	0.000	Marine Tetrapod Biology	R	01:35 pm-04:30 pm	6	4	David William Owens (P)	08/23-12/14	GMLM 202	 
+10372	BIOL	632	01	G	4.000	Ichthyology	T	08:00 am-11:00 am	12	6	Antony Scott Harold (P)	08/23-12/14	GMLM 101	 
+10373	BIOL	632L	01	G	0.000	Ichthyology	R	08:00 am-11:00 am	12	6	Antony Scott Harold (P)	08/23-12/14	GMLM 101	 
+10376	BIOL	646	01	G	3.000	Aquatic Toxicology	M	05:30 pm-08:30 pm	15	13	Margaret Mae Peden-Adams (P)	08/23-12/14	GMLM 202	 
+10377	BIOL	650	01	G	1.000	Seminar in Marine Biology	T	05:00 pm-06:30 pm	15	9	Thomas W Greig (P)	08/23-12/14	GMLM 202	 
+14593	BIOL	700	01	M	1.000-4.000	MST: Evol of Body Size	 	TBA	0	-1	Erik Sotka (P)	08/23-12/14	TBA	 
+14702	BIOL	700	02	M	1.000-4.000	MST: Effects of Hypoxia	 	TBA	0	-1	Louis E Burnett (P)	08/23-12/14	TBA	 
+14749	BIOL	700	03	M	1.000-4.000	MST: Molecular Quantification	 	TBA	0	-1	Dianne I Greenfield (P)	08/23-12/14	TBA	 
+14751	BIOL	700	04	M	1.000-4.000	MST: Phytoplankton, Viruses, &	 	TBA	0	-1	Giacomo R DiTullio (P)	08/23-12/14	TBA	 
+14752	BIOL	700	05	M	1.000-4.000	MST: Invitro Study of	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14757	BIOL	700	06	M	1.000-4.000	MST: Marine Bacterial Antag	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14758	BIOL	700	07	M	1.000-4.000	MST: Stress Responses	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14759	BIOL	700	08	M	1.000-4.000	MST: Molec Physiology of	 	TBA	0	-1	Karen Gray Burnett (P)	08/23-12/14	TBA	 
+14765	BIOL	700	09	M	1.000-4.000	MST: Role of Nanog in Maint	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14766	BIOL	700	10	M	1.000-4.000	MST: Donax Burrowing	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14811	BIOL	700	11	M	1.000-4.000	MST: Histiology of Spotted Sea	 	TBA	0	-1	Isaure De Buron-Connors (P)	08/23-12/14	TBA	 
+14978	BIOL	700	12	M	1.000-4.000	MST: Effects of Hypoxia on	 	TBA	0	-1	Louis E Burnett (P)	08/23-12/14	TBA	 
+15009	BIOL	700	13	M	1.000-4.000	MST: Chem Interactions Btwn	 	TBA	0	-1	Gregory John Doucette (P)	08/23-12/14	TBA	 
+14741	BIOL	900	01	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14742	BIOL	900	02	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Giacomo R DiTullio (P)	08/23-12/14	TBA	 
+14743	BIOL	900	03	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14744	BIOL	900	04	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14745	BIOL	900	05	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P)	08/23-12/14	TBA	 
+14832	BIOL	900	06	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Robert David Podolsky (P)	08/23-12/14	TBA	 
+14930	BIOL	900	07	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Laura Marie Kracker (P)	08/23-12/14	TBA	 
+15008	BIOL	900	08	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Gregory John Doucette (P)	08/23-12/14	TBA	 
+15010	BIOL	900	09	M	1.000-9.000	Continuous Research Enrollment	 	TBA	0	-1	Craig J Plante (P), Derk C. Bergquist	08/23-12/14	TBA	 
