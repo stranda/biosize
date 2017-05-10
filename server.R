@@ -18,7 +18,7 @@ shinyServer(function(input, output) {
       group_by(Crse,year,season)%>%
       summarize(enrolled=sum(enrolled,na.rm=T))%>%
       ggplot(aes(x=year,y=enrolled,color=season)) +
-      geom_line() + facet_wrap(~Crse,scales=ifelse(input$fixed,"fixed","free"))
+      geom_line()+geom_point() + facet_wrap(~Crse,scales=ifelse(input$fixed,"fixed","free"))
   })
     
   output$totalPlot <-renderPlot({
