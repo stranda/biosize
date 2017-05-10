@@ -26,7 +26,7 @@ if (!file.exists(rdafile))
   dat <- merge(dat,instructors,all.x=T)
   write.csv(file="newteach.csv",row.names=F,unique(dat[,c("Instructor","classification")]))
 
-  classes.to.exclude = c("101L","102L","111L","112L","399","448","450","451","499","397",as.character(693:900))
+  classes.to.exclude = c() #c("101L","102L","111L","112L","399","448","450","451","499","397",as.character(693:900))
 
   grad.classes <- as.character(500:699)
   grad.classes <- c(grad.classes,paste(grad.classes,"L",sep=""))
