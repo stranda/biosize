@@ -35,6 +35,8 @@ if (!file.exists(rdafile))
 
   dat$Cred <- as.numeric(as.character(dat$Cred))
   dat <- dat[!is.na(dat$Cred),]
+  dat$Subj = gsub(" ","",as.character(dat$Subj))
+  dat$Crse = gsub(" ","",as.character(dat$Crse))
   dat$scred <- dat$Cred*dat$enrolled
   dat$semester = gsub(".txt","",dat$semester)
   dat$season = gsub("[0-9].*","",dat$semester)

@@ -1,4 +1,3 @@
-
 library(shiny)
 library(ggplot2)
 library(dplyr)
@@ -18,12 +17,17 @@ shinyServer(function(input, output) {
     datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
       group_by(Crse,year,season)%>%
       summarize(enrolled=sum(enrolled,na.rm=T))%>%
-        ggplot(aes(x=year,y=enrolled,color=season)) +
-          geom_line() + facet_wrap(~Crse)
+      ggplot(aes(x=year,y=enrolled,color=season)) +
+      geom_line() + facet_wrap(~Crse,scales=ifelse(input$fixed,"fixed","free"))
   })
     
   output$totalPlot <-renderPlot({
-      
+    course = as.character(input$course)
+    datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
+      group_by(year,season)%>%
+      summarize(enrolled=sum(enrolled,na.rm=T))%>%
+      ggplot(aes(x=year,y=enrolled,color=season)) +
+      geom_point()+geom_smooth(se=F) + ggtitle("Sum of all selected below")
   })
   
   output$CourseInstructorTable <- renderDataTable(
@@ -34,15 +38,4 @@ shinyServer(function(input, output) {
         distinct()
     }
   ) 
-  output$distPlot <- renderPlot({
-    
-    # generate bins based on input$bins from ui.R
-    x    <- faithful[, 2] 
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
-    
-  })
-  
 })

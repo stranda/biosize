@@ -22,12 +22,14 @@ shinyUI(fluidPage(
                       sort(unique(as.character(dat$Crse[dat$Subj=="BIOL"]))),
                       selected="300",multiple=T),
        checkboxInput("roster","Include only roster faculty",
+                     value=F),
+       checkboxInput("fixed","Constrain Y-axes to be the same for each course",
                      value=F)
     ),
     
     # Show a plot of the generated distribution
     mainPanel(
-       plotOutput("coursePlot"),
+       plotOutput("totalPlot"),plotOutput("coursePlot"),
        dataTableOutput("CourseInstructorTable")
     )
   )
