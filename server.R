@@ -27,7 +27,7 @@ shinyServer(function(input, output) {
       group_by(year,season)%>%
       summarize(enrolled=sum(enrolled,na.rm=T))%>%
       ggplot(aes(x=year,y=enrolled,color=season)) +
-      geom_point()+geom_smooth(se=F) + ggtitle("Sum of all selected below")
+      geom_point()+geom_smooth(se=F,color="black") + ggtitle("Sum of all selected below")
   })
   
   output$CourseInstructorTable <- renderDataTable(

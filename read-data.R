@@ -19,11 +19,13 @@ if (!file.exists(rdafile))
   dat$Rem <- as.numeric(dat$Rem)
   dat$Cap <- as.numeric(dat$Cap)
   dat$enrolled <- dat$Cap - dat$Rem
-  
-  dat <- with(dat,aggregate(cbind(enrolled),
-                          by=list(Subj=Subj,Crse=Crse,Days=Days,Time=Time,Instructor=Instructor,Cred=Cred,semester=semester),
-                          sum))
-  dat <- merge(dat,instructors,all.x=T)
+  dat <- dat %>% select(enrolled,Subj,Crse,Days,Time,Instructor,Cred,semester) %>% distinct() %>%
+    group_by(Subj,Crse,Days,Time,Instructor,Cred,semester)%>%
+    summarise(enrolled=sum(enrolled,na.rm=T))
+#  dat <- with(dat,aggregate(cbind(enrolled),
+#                          by=list(Subj=Subj,Crse=Crse,Days=Days,Time=Time,Instructor=Instructor,Cred=Cred,semester=semester),
+#                          sum))
+dat <- merge(dat,instructors,all.x=T) %>% distinct()
   write.csv(file="newteach.csv",row.names=F,unique(dat[,c("Instructor","classification")]))
 
   classes.to.exclude = c() #c("101L","102L","111L","112L","399","448","450","451","499","397",as.character(693:900))
