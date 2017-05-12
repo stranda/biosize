@@ -19,7 +19,7 @@ if (!file.exists(rdafile))
   dat$Rem <- as.numeric(dat$Rem)
   dat$Cap <- as.numeric(dat$Cap)
   dat$enrolled <- dat$Cap - dat$Rem
-  dat <- dat %>% select(enrolled,Subj,Crse,Days,Time,Instructor,Cred,semester) %>% distinct() %>%
+  dat <- dat  %>%
     group_by(Subj,Crse,Days,Time,Instructor,Cred,semester)%>%
     summarise(enrolled=sum(enrolled,na.rm=T))
 #  dat <- with(dat,aggregate(cbind(enrolled),
