@@ -23,10 +23,12 @@ shinyServer(function(input, output) {
     
   output$totalPlot <-renderPlot({
     course = as.character(input$course)
-    datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
-      group_by(year,season)%>%
-      summarize(enrolled=sum(enrolled,na.rm=T))%>%
-      ggplot(aes(x=year,y=enrolled,color=season)) +
+    pdat <- datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
+      select(Crse,Instructor,year,semester,season,enrolled)%>%
+      distinct() %>% group_by(Crse,year,semester,season) %>%
+      summarize(enrolled=sum(enrolled,na.rm=T))
+#    write.csv(file="ecology.csv",row.names=F,pdat)
+    ggplot(pdat,aes(x=year,y=enrolled,color=season)) +
       geom_point()+geom_line()+geom_smooth(se=F,color="black") + ggtitle("Sum of all selected below")
   })
   
