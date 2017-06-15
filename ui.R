@@ -21,8 +21,13 @@ shinyUI(fluidPage(
        selectizeInput("course","Choose course(s)",
                       sort(unique(as.character(dat$Crse[dat$Subj=="BIOL"]))),
                       selected="300",multiple=T),
-       checkboxInput("roster","Include only roster faculty",
-                     value=F),
+#       checkboxInput("roster","Include only roster faculty",
+#                     value=F),
+       radioButtons("cls","Faculty classification",
+                    c("All faculty"="all",
+                      "Roster faculty" = "roster",
+                      "Non-Roster faculty" = "nonroster")
+                    ),
        checkboxInput("fixed","Constrain Y-axes to be the same for each course",
                      value=F)
     ),

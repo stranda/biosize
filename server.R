@@ -6,10 +6,10 @@ shinyServer(function(input, output) {
 
   datin <- reactive({
     source("read-data.R")
-    if (input$roster) 
-      dat[dat$classification=="R",] 
-    else 
-      dat
+    switch(input$cls,
+            all=dat,
+            roster=dat[dat$classification=="R",],
+            nonroster=dat[dat$classification!="R",])
   })
   
   output$coursePlot <- renderPlot({
