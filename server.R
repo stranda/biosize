@@ -24,8 +24,8 @@ shinyServer(function(input, output) {
   output$totalPlot <-renderPlot({
     course = as.character(input$course)
     pdat <- datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
-      select(Crse,Instructor,year,semester,season,enrolled)%>%
-      distinct() %>% group_by(Crse,year,semester,season) %>%
+      select(Crse,year,season,enrolled)%>%
+      group_by(year,season) %>%
       summarize(enrolled=sum(enrolled,na.rm=T))
 #    write.csv(file="ecology.csv",row.names=F,pdat)
     ggplot(pdat,aes(x=year,y=enrolled,color=season)) +
