@@ -1,7 +1,7 @@
 #
 #
 #
-
+library(dplyr)
 rdafile="classdata.rda"
 
 if (!file.exists(rdafile))
