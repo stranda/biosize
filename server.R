@@ -2,7 +2,7 @@ library(shiny)
 library(ggplot2)
 library(dplyr)
 # Define server logic required to draw a histogram
-shinyServer(function(input, output) {
+shinyServer(function(input, output, session) {
 
   datin <- reactive({
     source("read-data.R")
@@ -40,4 +40,29 @@ shinyServer(function(input, output) {
         distinct()
     }
   ) 
+  
+  
+  
+  observe({
+    if (input$threehundred==TRUE)
+    {
+      crses=(datin()%>%filter(Subj=="BIOL")%>%select(Crse))[,1]
+  #   print(crses)
+
+      crses=crses[-grep("305",crses)]
+      crses=crses[-grep("^2",crses)]
+      crses=crses[-grep("^1",crses)]     
+      crses=crses[-grep("^6",crses)]
+      crses=crses[-grep("^7",crses)]
+      crses=crses[-grep("^9",crses)]
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      if (input$labs) { crses=crses[-grep("L",crses)]}
+       updateSelectizeInput(session,'course',selected =crses,server=F)
+    }
+    else 
+    {
+      updateSelectizeInput(session,'course',selected = "111",server=F)
+    }
+  })
+  
 })

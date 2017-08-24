@@ -20,9 +20,11 @@ shinyUI(fluidPage(
     sidebarPanel(
        selectizeInput("course","Choose course(s)",
                       sort(unique(as.character(dat$Crse[dat$Subj=="BIOL"]))),
-                      selected="300",multiple=T),
+                      selected="111",multiple=T),
 #       checkboxInput("roster","Include only roster faculty",
 #                     value=F),
+       checkboxInput("threehundred","Choose all 300 level courses",value=F),
+      checkboxInput("labs","Ignore labs",value=T),
        radioButtons("cls","Faculty classification",
                     c("All faculty"="all",
                       "Roster faculty" = "roster",
