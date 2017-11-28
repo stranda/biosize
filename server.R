@@ -4,8 +4,10 @@ library(dplyr)
 # Define server logic required to draw a histogram
 shinyServer(function(input, output, session) {
 
-  datin <- reactive({
+    datin <- reactive({
+        print("sourcing read-data")
     source("read-data.R")
+print("finished read-data")
     switch(input$cls,
             all=dat,
             roster=dat[dat$classification=="R",],
@@ -13,7 +15,8 @@ shinyServer(function(input, output, session) {
   })
   
   output$coursePlot <- renderPlot({
-    course = as.character(input$course)
+print("in courseplot")
+      course = as.character(input$course)
     datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
       group_by(Crse,year,season)%>%
       summarize(enrolled=sum(enrolled,na.rm=T))%>%
@@ -21,7 +24,8 @@ shinyServer(function(input, output, session) {
       geom_line()+geom_point() + facet_wrap(~Crse,scales=ifelse(input$fixed,"fixed","free"))
   })
     
-  output$totalPlot <-renderPlot({
+    output$totalPlot <-renderPlot({
+        print("in totalplot")
     course = as.character(input$course)
     pdat <- datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
       select(Crse,year,season,enrolled)%>%
