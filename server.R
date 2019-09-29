@@ -5,9 +5,9 @@ library(dplyr)
 shinyServer(function(input, output, session) {
 
     datin <- reactive({
-        print("sourcing read-data")
+    print("sourcing read-data")
     source("read-data.R")
-print("finished read-data")
+    print("finished read-data")
     switch(input$cls,
             all=dat,
             roster=dat[dat$classification=="R",],
@@ -15,9 +15,9 @@ print("finished read-data")
   })
   
   output$coursePlot <- renderPlot({
-print("in courseplot")
+  print("in courseplot")
       course = as.character(input$course)
-    datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
+      datin()%>%filter(Subj=="BIOL",Crse%in%course)%>%
       group_by(Crse,year,season)%>%
       summarize(enrolled=sum(enrolled,na.rm=T))%>%
       ggplot(aes(x=year,y=enrolled,color=season)) +
@@ -48,11 +48,25 @@ print("in courseplot")
   
   
   observe({
-    if (input$threehundred==TRUE)
+    if ((input$threehundred==TRUE) &(input$grad==TRUE))
     {
       crses=(datin()%>%filter(Subj=="BIOL")%>%select(Crse))[,1]
   #   print(crses)
 
+      crses=crses[-grep("305",crses)]
+      crses=crses[-grep("^2",crses)]
+      crses=crses[-grep("^1",crses)]     
+#      crses=crses[-grep("^6",crses)]
+#      crses=crses[-grep("^7",crses)]
+#      crses=crses[-grep("^9",crses)]
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      if (input$labs) { crses=crses[-grep("L",crses)]}
+       updateSelectizeInput(session,'course',selected =crses,server=F)
+    }
+    else if ((input$threehundred==TRUE) &(input$grad!=TRUE))
+    {
+      crses=(datin()%>%filter(Subj=="BIOL")%>%select(Crse))[,1]
+      #   print(crses)
       crses=crses[-grep("305",crses)]
       crses=crses[-grep("^2",crses)]
       crses=crses[-grep("^1",crses)]     
@@ -61,7 +75,25 @@ print("in courseplot")
       crses=crses[-grep("^9",crses)]
       crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
       if (input$labs) { crses=crses[-grep("L",crses)]}
-       updateSelectizeInput(session,'course',selected =crses,server=F)
+      updateSelectizeInput(session,'course',selected =crses,server=F)
+    }
+    else if ((input$threehundred!=TRUE) &(input$grad==TRUE))
+    {
+      crses=(datin()%>%filter(Subj=="BIOL")%>%select(Crse))[,1]
+      #   print(crses)
+      
+      crses=crses[-grep("305",crses)]
+      crses=crses[-grep("^2",crses)]
+      crses=crses[-grep("^1",crses)]     
+      crses=crses[-grep("^3",crses)]     
+      crses=crses[-grep("^4",crses)]     
+
+      #      crses=crses[-grep("^6",crses)]
+      #      crses=crses[-grep("^7",crses)]
+      #      crses=crses[-grep("^9",crses)]
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      if (input$labs) { crses=crses[-grep("L",crses)]}
+      updateSelectizeInput(session,'course',selected =crses,server=F)
     }
     else 
     {

@@ -24,6 +24,7 @@ shinyUI(fluidPage(
 #       checkboxInput("roster","Include only roster faculty",
 #                     value=F),
        checkboxInput("threehundred","Choose all 300 level courses",value=F),
+      checkboxInput("grad","Include all grad courses",value=F),
       checkboxInput("labs","Ignore labs",value=T),
        radioButtons("cls","Faculty classification",
                     c("All faculty"="all",
