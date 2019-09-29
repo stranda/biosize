@@ -1,0 +1,263 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10076	BIOL	101	04	M	4.000	Concepts/Apps in Biolo	MWF	12:00 pm-12:50 pm	80	0	Bridget Joan Piculell (P)	08/21-12/12	RITA 101	 
+10077	BIOL	101	05	M	4.000	Concepts/Apps in Biology I	TR	01:40 pm-02:55 pm	74	4	Farahdiba Jafri (P)	08/21-12/12	RITA 154	 
+10078	BIOL	101	06	M	4.000	Concepts/Apps in Biology I	TR	03:05 pm-04:20 pm	80	1	Farahdiba Jafri (P)	08/21-12/12	SSMB 129	 
+14179	BIOL	101	07	M	4.000	Concepts/Apps in Biology I	MWF	02:00 pm-02:50 pm	24	2	Courtney Elizabeth Gerstenmaier Felton (P)	08/21-12/12	RITA 154	 
+10080	BIOL	101L	05	M	0.000	Concepts/Apps in Biology I Lab	M	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), John S Peters , Jessica Ramirez	08/21-12/12	LCTR 339	 
+10088	BIOL	101L	07	M	0.000	Concepts/Apps in Biology I Lab	M	04:35 pm-07:35 pm	24	0	Brian G Scholtens (P), John S Peters , Jessica Ramirez	08/21-12/12	LCTR 339	 
+10081	BIOL	101L	11	M	0.000	Concepts/Apps in Biology I Lab	T	07:30 am-10:30 am	24	3	Brian G Scholtens (P), Maggie Jean McCabe , John S Peters	08/21-12/12	LCTR 339	 
+10082	BIOL	101L	13	M	0.000	Concepts/Apps in Biology I Lab	T	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Maggie Jean McCabe , John S Peters	08/21-12/12	LCTR 339	 
+10083	BIOL	101L	17	M	0.000	Concepts/Apps in Biology I Lab	T	04:35 pm-07:35 pm	24	2	Brian G Scholtens (P), John S Peters , Jessica Ramirez	08/21-12/12	LCTR 339	 
+14180	BIOL	101L	19	M	0.000	Concepts/Apps in Biology I Lab	T	07:35 pm-10:35 pm	24	3	Brian G Scholtens (P), Maggie Jean McCabe , John S Peters	08/21-12/12	LCTR 339	 
+10084	BIOL	101L	25	M	0.000	Concepts/Apps in Biology I Lab	W	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), David Alexander Klett , John S Peters	08/21-12/12	LCTR 339	 
+10090	BIOL	101L	27	M	0.000	Concepts/Apps in Biology I Lab	W	04:35 pm-07:35 pm	24	1	Brian G Scholtens (P), David Alexander Klett , John S Peters	08/21-12/12	LCTR 339	 
+11389	BIOL	101L	31	M	0.000	Concepts/Apps in Biology I Lab	R	07:30 am-10:30 am	24	4	Brian G Scholtens (P), Jessica Lynn Karan , John S Peters	08/21-12/12	LCTR 339	 
+10086	BIOL	101L	33	M	0.000	Concepts/Apps in Biology I Lab	R	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), Jessica Lynn Karan , John S Peters	08/21-12/12	LCTR 339	 
+10087	BIOL	101L	35	M	0.000	Concepts/Apps in Biology I Lab	R	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), David Alexander Klett , John S Peters	08/21-12/12	LCTR 339	 
+10091	BIOL	102	01	M	4.000	Concepts/Apps in Biology II	TR	12:15 pm-01:30 pm	120	8	Miranda Lynette McManus (P)	08/21-12/12	RITA 101	 
+10092	BIOL	102	02	M	4.000	Concepts/Apps in Biology II	MWF	03:00 pm-03:50 pm	48	1	Jessica Alice McCoy (P)	08/21-12/12	RITA 154	 
+13876	BIOL	102L	01	M	0.000	Concepts/Apps in Biol II Lab	M	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), John S Peters , Sarah Patrice Wolfe	08/21-12/12	LCTR 341	 
+10094	BIOL	102L	05	M	0.000	Concepts/Apps in Biol II Lab	M	01:35 pm-04:35 pm	24	4	Brian G Scholtens (P), John S Peters , Nicholas Scott Strait	08/21-12/12	LCTR 341	 
+10096	BIOL	102L	07	M	0.000	Concepts/Apps in Biol II Lab	M	04:35 pm-07:35 pm	24	1	Brian G Scholtens (P), John S Peters , Nicholas Scott Strait	08/21-12/12	LCTR 341	 
+10098	BIOL	102L	17	M	0.000	Concepts/Apps in Biol II Lab	T	04:35 pm-07:35 pm	24	0	Brian G Scholtens (P), John S Peters , Sarah Patrice Wolfe	08/21-12/12	LCTR 341	 
+11941	BIOL	102L	23	M	0.000	Concepts/Apps in Biol II Lab	W	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), Anthony Thomas Galavotti , John S Peters	08/21-12/12	LCTR 341	 
+10095	BIOL	102L	25	M	0.000	Concepts/Apps in Biol II Lab	W	01:35 pm-04:35 pm	24	1	Brian G Scholtens (P), Jessica Marie Daly , John S Peters	08/21-12/12	LCTR 341	 
+10099	BIOL	102L	27	M	0.000	Concepts/Apps in Biol II Lab	W	04:35 pm-07:35 pm	24	1	Brian G Scholtens (P), Jessica Marie Daly , John S Peters	08/21-12/12	LCTR 341	 
+10100	BIOL	111	01	M	3.000	Intro Cell Molec Biology	MWF	10:00 am-10:50 am	120	17	Deborah A Bidwell (P)	08/21-12/12	RITA 101	 
+10101	BIOL	111	02	M	3.000	Intro Cell Molec Biology	TR	10:50 am-12:05 pm	16	3	Kathleen Elizabeth Janech (P)	08/21-12/12	RITA 101	Learning Community 3A
+10102	BIOL	111	03	M	3.000	Intro Cell Molec Biology	TR	01:40 pm-02:55 pm	120	14	Heather E Fullerton (P), Seth G Pritchard	08/21-12/12	RITA 101	 
+13631	BIOL	111	04	M	3.000	LC 7A: Gateway to Neuroscience	MWF	02:00 pm-02:50 pm	18	1	Christopher A Korey (P)	08/21-12/12	RITA 152	Learning Community 7A
+13556	BIOL	111	05	M	3.000	Intro Cell Molec Biology	TR	10:50 am-12:05 pm	13	1	Kathleen Elizabeth Janech (P)	08/21-12/12	RITA 101	Learning Community 3B
+13634	BIOL	111	06	M	3.000	Intro Cell Molec Biology	MWF	02:00 pm-02:50 pm	20	0	Christopher A Korey (P)	08/21-12/12	RITA 152	Learning Community 7B
+13762	BIOL	111	07	M	3.000	Intro Cell Molec Biology	MWF	03:00 pm-03:50 pm	15	0	Christopher A Korey (P)	08/21-12/12	RITA 152	Learning Community 15B
+13656	BIOL	111	08	M	3.000	Intro Cell Molec Biology	MWF	03:00 pm-03:50 pm	0	-13	Christopher A Korey (P)	08/21-12/12	RITA 152	Learning Community 14 and SPECTRA Course
+13658	BIOL	111	09	M	3.000	Intro Cell Molec Biology	MWF	03:00 pm-03:50 pm	15	0	Christopher A Korey (P)	08/21-12/12	RITA 152	Learning Community 15A
+13809	BIOL	111	10	M	3.000	Intro Cell Molec Biology	TR	10:50 am-12:05 pm	80	8	Kathleen Elizabeth Janech (P)	08/21-12/12	RITA 101	 
+11403	BIOL	111	11	M	3.000	Intro Cell Molec Biology	TR	12:15 pm-01:30 pm	40	5	Renaud Geslain (P)	08/21-12/12	RITA 103	 
+14097	BIOL	111	12	M	3.000	Intro Cell Molec Biology	MWF	12:00 pm-12:50 pm	75	18	Christopher John Freeman (P)	08/21-12/12	RITA 154	 
+11568	BIOL	111	13	M	3.000	Intro Cell Molec Biology	TR	12:15 pm-01:30 pm	74	5	Kathleen Elizabeth Janech (P)	08/21-12/12	RITA 154	 
+11541	BIOL	111	16	M	3.000	Intro Cell Molec Biology	MWF	02:00 pm-02:50 pm	40	8	Mark D Lazzaro (P)	08/21-12/12	RITA 103	 
+10104	BIOL	111L	03	M	1.000	Intro to Cell and Mol Biol Lab	M	10:30 am-01:30 pm	24	0	Brian G Scholtens (P), John S Peters , Jamileh Grace Soueidan	08/21-12/12	LCTR 342	 
+10111	BIOL	111L	06	M	1.000	Intro to Cell and Mol Biol Lab	M	01:35 pm-04:35 pm	24	5	Brian G Scholtens (P), Brooke Caroline Blosser , John S Peters	08/21-12/12	LCTR 342	 
+10112	BIOL	111L	08	M	1.000	Intro to Cell and Mol Biol Lab	M	04:35 pm-07:35 pm	24	2	Brian G Scholtens (P), Brooke Caroline Blosser , John S Peters	08/21-12/12	LCTR 342	 
+10118	BIOL	111L	09	M	1.000	Intro to Cell and Mol Biol Lab	M	07:35 pm-10:35 pm	24	8	Brian G Scholtens (P), Jeffrey Good , John S Peters	08/21-12/12	LCTR 342	 
+10105	BIOL	111L	11	M	1.000	Intro to Cell and Mol Biol Lab	T	07:30 am-10:30 am	24	2	Brian G Scholtens (P), Katherine Marie Hoffman , John S Peters	08/21-12/12	LCTR 342	 
+10106	BIOL	111L	13	M	1.000	Intro to Cell and Mol Biol Lab	T	10:30 am-01:30 pm	24	2	Brian G Scholtens (P), John S Peters , Jamileh Grace Soueidan	08/21-12/12	LCTR 342	 
+11600	BIOL	111L	14	M	1.000	Intro to Cell and Mol Biol Lab	T	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), John S Peters , Matthew Young	08/21-12/12	LCTR 344	 
+10107	BIOL	111L	15	M	1.000	Intro to Cell and Mol Biol Lab	T	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), John S Peters , Matthew Young	08/21-12/12	LCTR 342	 
+10108	BIOL	111L	16	M	1.000	Intro to Cell and Mol Biol Lab	T	01:35 pm-04:35 pm	24	1	Brian G Scholtens (P), Evan Carlisle Ashe , John S Peters	08/21-12/12	LCTR 344	 
+10119	BIOL	111L	17	M	1.000	Intro to Cell and Mol Biol Lab	T	04:35 pm-07:35 pm	24	3	Brian G Scholtens (P), John S Peters , Juliana Ventresca	08/21-12/12	LCTR 342	 
+10122	BIOL	111L	18	M	1.000	Intro to Cell and Mol Biol Lab	T	04:35 pm-07:35 pm	24	4	Brian G Scholtens (P), Evan Carlisle Ashe , John S Peters	08/21-12/12	LCTR 344	 
+10120	BIOL	111L	19	M	1.000	Intro to Cell and Mol Biol Lab	T	07:35 pm-10:35 pm	24	3	Brian G Scholtens (P), Jeffrey Good , John S Peters	08/21-12/12	LCTR 342	 
+12032	BIOL	111L	21	M	1.000	Intro to Cell and Mol Biol Lab	W	07:30 am-10:30 am	24	1	Brian G Scholtens (P), Courtney Lynn Bayles , John S Peters	08/21-12/12	LCTR 342	 
+10109	BIOL	111L	23	M	1.000	Intro to Cell and Mol Biol Lab	W	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), John S Peters , Jamileh Grace Soueidan	08/21-12/12	LCTR 342	 
+10110	BIOL	111L	25	M	1.000	Intro to Cell and Mol Biol Lab	W	01:35 pm-04:35 pm	24	3	Brian G Scholtens (P), John S Peters , Annaleise Beverly Radchenko	08/21-12/12	LCTR 342	 
+14181	BIOL	111L	26	M	1.000	Intro to Cell and Mol Biol Lab	W	01:35 pm-04:35 pm	24	6	Brian G Scholtens (P), Delaney Marie Drake , John S Peters	08/21-12/12	LCTR 344	 
+10121	BIOL	111L	27	M	1.000	Intro to Cell and Mol Biol Lab	W	04:35 pm-07:35 pm	24	7	Brian G Scholtens (P), John S Peters , Annaleise Beverly Radchenko	08/21-12/12	LCTR 342	 
+10123	BIOL	111L	28	M	1.000	Intro to Cell and Mol Biol Lab	W	04:35 pm-07:35 pm	24	4	Brian G Scholtens (P), Delaney Marie Drake , John S Peters	08/21-12/12	LCTR 344	 
+11608	BIOL	111L	29	M	1.000	Intro to Cell and Mol Biol Lab	W	07:35 pm-10:35 pm	24	3	Brian G Scholtens (P), Jeffrey Good , John S Peters	08/21-12/12	LCTR 342	 
+12031	BIOL	111L	31	M	1.000	Intro to Cell and Mol Biol Lab	R	07:30 am-10:30 am	24	5	Brian G Scholtens (P), Katherine Marie Hoffman , John S Peters	08/21-12/12	LCTR 342	 
+12036	BIOL	111L	32	M	1.000	Intro to Cell and Mol Biol Lab	R	07:30 am-10:30 am	24	2	Brian G Scholtens (P), Courtney Lynn Bayles , John S Peters	08/21-12/12	LCTR 344	 
+10113	BIOL	111L	33	M	1.000	Intro to Cell and Mol Biol Lab	R	10:30 am-01:30 pm	24	3	Brian G Scholtens (P), John S Peters , Juliana Ventresca	08/21-12/12	LCTR 342	 
+10114	BIOL	111L	35	M	1.000	Intro to Cell and Mol Biol Lab	R	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), Brooke Caroline Blosser , John S Peters	08/21-12/12	LCTR 342	 
+10116	BIOL	111L	36	M	1.000	Intro to Cell and Mol Biol Lab	R	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), John S Peters , Juliana Ventresca	08/21-12/12	LCTR 344	 
+12013	BIOL	111L	37	M	1.000	Intro to Cell and Mol Biol Lab	R	04:35 pm-07:35 pm	24	1	Brian G Scholtens (P), Katherine Marie Hoffman , John S Peters	08/21-12/12	LCTR 342	 
+13991	BIOL	111L	43	M	1.000	Intro to Cell and Mol Biol Lab	F	10:30 am-01:30 pm	24	1	Brian G Scholtens (P), Delaney Marie Drake , John S Peters	08/21-12/12	LCTR 342	 
+13992	BIOL	111L	45	M	1.000	Intro to Cell and Mol Biol Lab	F	01:30 pm-04:30 pm	24	2	Brian G Scholtens (P), John S Peters , Matthew Young	08/21-12/12	LCTR 342	 
+10124	BIOL	112	01	M	3.000	Evol, Form & Func Of Organisms	MWF	10:00 am-10:50 am	74	28	Jean B Everett (P)	08/21-12/12	RITA 154	 
+10125	BIOL	112	02	M	3.000	Evol, Form & Func Of Organisms	TR	10:50 am-12:05 pm	75	2	Miranda Lynette McManus (P)	08/21-12/12	RITA 154	 
+14099	BIOL	112	03	M	3.000	Evol, Form & Func Of Organisms	MWF	10:00 am-10:50 am	40	-2	Lauren Hernandez-Rubio Senn (P)	08/21-12/12	RITA 152	 
+10126	BIOL	112L	05	M	1.000	Evol, Form, Func Organisms Lab	M	01:35 pm-04:35 pm	24	2	Brian G Scholtens (P), Jenna Rose Klingsick , John S Peters	08/21-12/12	LCTR 340	 
+10128	BIOL	112L	07	M	1.000	Evol, Form, Func Organisms Lab	M	04:35 pm-07:35 pm	24	6	Brian G Scholtens (P), Jenna Rose Klingsick , John S Peters	08/21-12/12	LCTR 340	 
+10129	BIOL	112L	11	M	1.000	Evol, Form, Func Organisms Lab	T	07:30 am-10:30 am	24	12	Brian G Scholtens (P), Anthony Thomas Galavotti , John S Peters	08/21-12/12	LCTR 340	 
+11066	BIOL	112L	15	M	1.000	Evol, Form, Func Organisms Lab	T	01:35 pm-04:35 pm	24	3	Brian G Scholtens (P), John S Peters , Kyra Reisenfeld	08/21-12/12	LCTR 340	 
+10130	BIOL	112L	17	M	1.000	Evol, Form, Func Organisms Lab	T	04:35 pm-07:35 pm	24	1	Brian G Scholtens (P), John S Peters , Kyra Reisenfeld	08/21-12/12	LCTR 340	 
+10127	BIOL	112L	25	M	1.000	Evol, Form, Func Organisms Lab	W	01:35 pm-04:35 pm	24	0	Brian G Scholtens (P), Juliane Gabriela Caughron , John S Peters	08/21-12/12	LCTR 340	 
+10131	BIOL	112L	27	M	1.000	Evol, Form, Func Organisms Lab	W	04:35 pm-07:35 pm	24	2	Brian G Scholtens (P), Jenna Rose Klingsick , John S Peters	08/21-12/12	LCTR 340	 
+12124	BIOL	112L	35	M	1.000	Evol, Form, Func Organisms Lab	R	01:35 pm-04:35 pm	24	4	Brian G Scholtens (P), Juliane Gabriela Caughron , John S Peters	08/21-12/12	LCTR 340	 
+10132	BIOL	204	01	M	3.000	Man and the Environment	MWF	01:00 pm-01:50 pm	40	1	Courtney Elizabeth Gerstenmaier Felton (P)	08/21-12/12	RITA 154	 
+10133	BIOL	211	01	M	4.000	Biodiversity,Ecology,Conserv B	TR	08:00 am-09:15 am	20	3	Daniel J McGlinn (P)	08/21-12/12	RITA 102	 
+10134	BIOL	211	02	M	4.000	Biodiversity,Ecology,Conserv B	TR	08:00 am-09:15 am	20	3	Daniel J McGlinn (P)	08/21-12/12	RITA 102	 
+10135	BIOL	211	03	M	4.000	Biodiversity,Ecology,Conserv B	TR	09:25 am-10:40 am	20	1	Matthew Thomas Rutter (P)	08/21-12/12	RITA 102	 
+10136	BIOL	211	04	M	4.000	Biodiversity,Ecology,Conserv B	TR	09:25 am-10:40 am	20	0	Matthew Thomas Rutter (P)	08/21-12/12	RITA 102	 
+10137	BIOL	211	05	M	4.000	Biodiversity,Ecology,Conserv B	TR	10:50 am-12:05 pm	20	6	John S Peters (P)	08/21-12/12	RITA 102	 
+14122	BIOL	211	06	M	4.000	Biodiversity,Ecology,Conserv B	MWF	11:00 am-11:50 am	20	7	Christopher John Freeman (P)	08/21-12/12	RITA 102	 
+10138	BIOL	211	07	M	4.000	Biodiversity,Ecology,Conserv B	TR	09:25 am-10:40 am	20	1	Allison Marie Welch (P)	08/21-12/12	RITA 273	Sustainability-Related
+10139	BIOL	211	08	M	4.000	Biodiversity,Ecology,Conserv B	MWF	09:00 am-09:50 am	20	2	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 154	 
+10140	BIOL	211	09	M	4.000	Biodiversity,Ecology,Conserv B	MWF	09:00 am-09:50 am	20	0	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 154	 
+10141	BIOL	211	10	M	4.000	Biodiversity,Ecology,Conserv B	TR	12:15 pm-01:30 pm	20	1	Robert David Podolsky (P)	08/21-12/12	RITA 152	 
+11036	BIOL	211	11	M	4.000	Biodiversity,Ecology,Conserv B	TR	12:15 pm-01:30 pm	20	4	Robert David Podolsky (P)	08/21-12/12	RITA 152	 
+14032	BIOL	211	12	M	4.000	Biodiversity,Ecology,Conserv B	MWF	09:00 am-09:50 am	22	10	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 154	 
+10142	BIOL	211D	01	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	09:30 am-12:30 pm	20	3	Daniel J McGlinn (P)	08/21-12/12	RITA 271	 
+10143	BIOL	211D	02	M	0.000	Biodiv, Ecol, Cons Biol Discus	R	09:30 am-12:30 pm	20	4	Daniel J McGlinn (P)	08/21-12/12	RITA 271	 
+10144	BIOL	211D	03	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	12:45 pm-03:45 pm	20	1	Matthew Thomas Rutter (P)	08/21-12/12	RITA 273	 
+10145	BIOL	211D	04	M	0.000	Biodiv, Ecol, Cons Biol Discus	R	12:45 pm-03:45 pm	20	0	Matthew Thomas Rutter (P)	08/21-12/12	RITA 273	 
+10146	BIOL	211D	05	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	12:45 pm-03:45 pm	20	6	John S Peters (P)	08/21-12/12	RITA 271	 
+14123	BIOL	211D	06	M	0.000	Biodiv, Ecol, Cons Biol Discus	F	02:15 pm-05:15 pm	20	7	Christopher John Freeman (P)	08/21-12/12	RITA 271	 
+10147	BIOL	211D	07	M	0.000	Biodiv, Ecol, Cons Biol Discus	R	12:45 pm-03:45 pm	20	1	Allison Marie Welch (P)	08/21-12/12	RITA 271	 
+10148	BIOL	211D	08	M	0.000	Biodiv, Ecol, Cons Biol Discus	M	01:30 pm-04:30 pm	20	2	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 271	 
+11039	BIOL	211D	09	M	0.000	Biodiv, Ecol, Cons Biol Discus	W	01:30 pm-04:30 pm	20	0	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 271	 
+10150	BIOL	211D	10	M	0.000	Biodiv, Ecol, Cons Biol Discus	T	01:35 pm-04:35 pm	20	1	Robert David Podolsky (P)	08/21-12/12	RITA 281	 
+11038	BIOL	211D	11	M	0.000	Biodiv, Ecol, Cons Biol Discus	R	01:35 pm-04:35 pm	20	4	Robert David Podolsky (P)	08/21-12/12	RITA 281	 
+14033	BIOL	211D	12	M	0.000	Biodiv, Ecol, Cons Biol Discus	F	01:30 pm-04:30 pm	22	10	Onja Harinala Franckline Eva Razafindratsima Rakotondrainibe (P)	08/21-12/12	RITA 281	 
+12470	BIOL	221	01	M	4.000	Human Anatomy and Phys. I	TR	09:25 am-10:40 am	143	9	Jason T Vance (P)	08/21-12/12	RITA 101	 
+12471	BIOL	221	02	M	4.000	Human Anatomy and Phys. I	MWF	09:00 am-09:50 am	145	12	Jason T Vance (P)	08/21-12/12	RITA 101	 
+12472	BIOL	221L	01	M	0.000	Human Anatomy and Phys. I Lab	M	10:50 am-01:50 pm	24	2	Teresa Elizabeth Popp (P), Jason T Vance	08/21-12/12	RITA 277	 
+12473	BIOL	221L	02	M	0.000	Human Anatomy and Phys. I Lab	M	02:00 pm-05:00 pm	24	2	Willem Jacob Hillenius (P), Jason T Vance	08/21-12/12	RITA 277	 
+12474	BIOL	221L	03	M	0.000	Human Anatomy and Phys. I Lab	M	05:05 pm-08:05 pm	24	0	William A Roumillat (P), Jason T Vance	08/21-12/12	RITA 277	 
+12475	BIOL	221L	04	M	0.000	Human Anatomy and Phys. I Lab	T	10:50 am-01:50 pm	24	0	Tracy Heather Coliano Hirsch (P), Jason T Vance	08/21-12/12	RITA 277	 
+12476	BIOL	221L	05	M	0.000	Human Anatomy and Phys. I Lab	T	02:00 pm-05:00 pm	24	2	William A Roumillat (P), Jason T Vance	08/21-12/12	RITA 277	 
+12477	BIOL	221L	06	M	0.000	Human Anatomy and Phys. I Lab	T	05:05 pm-08:05 pm	24	0	Randall Tyler Grespin (P), Jason T Vance	08/21-12/12	RITA 277	 
+12478	BIOL	221L	08	M	0.000	Human Anatomy and Phys. I Lab	W	10:50 am-01:50 pm	24	1	Teresa Elizabeth Popp (P), Jason T Vance	08/21-12/12	RITA 277	 
+12479	BIOL	221L	09	M	0.000	Human Anatomy and Phys. I Lab	W	02:00 pm-05:00 pm	24	1	Teresa Elizabeth Popp (P), Jason T Vance	08/21-12/12	RITA 277	 
+12480	BIOL	221L	10	M	0.000	Human Anatomy and Phys. I Lab	W	05:05 pm-08:05 pm	24	4	Randall Tyler Grespin (P), Jason T Vance	08/21-12/12	RITA 277	 
+12481	BIOL	221L	11	M	0.000	Human Anatomy and Phys. I Lab	R	10:50 am-01:50 pm	24	4	Willem Jacob Hillenius (P), Jason T Vance	08/21-12/12	RITA 277	 
+12482	BIOL	221L	12	M	0.000	Human Anatomy and Phys. I Lab	R	02:00 pm-05:00 pm	24	2	Willem Jacob Hillenius (P), Jason T Vance	08/21-12/12	RITA 277	 
+12619	BIOL	221L	13	M	0.000	Human Anatomy and Phys. I Lab	R	05:05 pm-08:05 pm	24	3	Randall Tyler Grespin (P), Jason T Vance	08/21-12/12	RITA 277	 
+13457	BIOL	222	01	M	4.000	Human Anatomy and Phys. II	TR	08:00 am-09:15 am	72	9	Mausumi Bandyopadhyay (P)	08/21-12/12	RITA 154	 
+13458	BIOL	222L	01	M	0.000	Human Anatomy and Phys. II Lab	T	10:00 am-01:00 pm	24	0	Mausumi Bandyopadhyay (P)	08/21-12/12	RITA 275	 
+13459	BIOL	222L	02	M	0.000	Human Anatomy and Phys. II Lab	T	01:00 pm-04:00 pm	24	1	Mausumi Bandyopadhyay (P)	08/21-12/12	RITA 275	 
+13850	BIOL	222L	03	M	0.000	Human Anatomy and Phys. II Lab	R	10:00 am-01:00 pm	24	8	Mausumi Bandyopadhyay (P)	08/21-12/12	RITA 275	 
+13433	BIOL	250	01	O	3.000	Special Topics in Biology	 	TBA	0	-1	Erik Sotka (P)	08/21-12/12	OFFC 80122	Special Topics
+13437	BIOL	250	02	O	3.000	Special Topics in Biology	 	TBA	0	-1	Erik Sotka (P)	08/21-12/12	OFFC 80122	Special Topics
+13434	BIOL	250L	01	O	1.000	Special Topics in Biology Lab	 	TBA	0	-1	Erik Sotka (P)	08/21-12/12	OFFC 80122	 
+10164	BIOL	300	01	M	4.000	Botany	MWF	11:00 am-11:50 am	20	4	Jean B Everett (P)	08/21-12/12	RITA 152	 
+10165	BIOL	300L	01	M	0.000	Botany Lab	M	01:00 pm-05:00 pm	20	4	Jean B Everett (P)	08/21-12/12	RITA 281	 
+10845	BIOL	305	01	M	3.000	Genetics	MWF	11:00 am-11:50 am	80	9	Bridget Joan Piculell (P)	08/21-12/12	RITA 101	 
+13461	BIOL	305	02	M	3.000	Genetics	MWF	09:00 am-09:50 am	40	20	Christopher A Korey (P)	08/21-12/12	RITA 103	 
+10846	BIOL	305L	01	M	1.000	Genetics Lab	M	02:00 pm-05:00 pm	14	1	Agnes J Southgate (P)	08/21-12/12	RITA 169	 
+10847	BIOL	305L	02	M	1.000	Genetics Lab	T	03:00 pm-06:00 pm	13	0	Agnes J Southgate (P)	08/21-12/12	RITA 169	 
+12153	BIOL	305L	03	M	1.000	Genetics Lab	F	02:00 pm-05:00 pm	14	4	Richard J Southgate (P)	08/21-12/12	RITA 169	 
+13462	BIOL	305L	04	M	1.000	Genetics Lab	T	11:00 am-02:00 pm	14	4	Agnes J Southgate (P)	08/21-12/12	RITA 169	 
+13974	BIOL	305L	05	M	1.000	Genetics Lab	W	11:55 am-02:55 pm	14	5	Jessica Alice McCoy (P)	08/21-12/12	RITA 169	 
+10166	BIOL	310	01	M	4.000	General Microbiology	TR	09:25 am-10:40 am	70	6	Matthew E Rhodes (P), Tracy Heather Coliano Hirsch , Edwina Suzanne Mathis , Susan J Morrison	08/21-12/12	RITA 154	 
+10167	BIOL	310L	02	M	0.000	General Microbiology Lab	T	12:10 pm-03:10 pm	14	1	Matthew E Rhodes (P)	08/21-12/12	RITA 167	 
+10168	BIOL	310L	04	M	0.000	General Microbiology Lab	T	03:25 pm-06:25 pm	14	0	Tracy Heather Coliano Hirsch (P)	08/21-12/12	RITA 167	 
+11299	BIOL	310L	05	M	0.000	General Microbiology Lab	R	12:10 pm-03:10 pm	14	2	Tracy Heather Coliano Hirsch (P)	08/21-12/12	RITA 167	 
+11790	BIOL	310L	06	M	0.000	General Microbiology Lab	W	03:15 pm-06:15 pm	14	1	Susan J Morrison (P)	08/21-12/12	RITA 167	 
+13847	BIOL	310L	07	M	0.000	General Microbiology Lab	W	12:10 pm-03:10 pm	14	2	Tracy Heather Coliano Hirsch (P)	08/21-12/12	RITA 167	 
+11042	BIOL	312	01	M	3.000	Molecular Biology	TR	08:00 am-09:15 am	80	1	Renaud Geslain (P)	08/21-12/12	RITA 101	 
+10169	BIOL	312L	01	M	1.000	Molecular Biology Laboratory	M	12:15 pm-03:15 pm	14	1	Anastasia Maria Zimmerman (P)	08/21-12/12	RITA 145	 
+10170	BIOL	312L	02	M	1.000	Molecular Biology Laboratory	T	12:15 pm-03:15 pm	14	1	Anastasia Maria Zimmerman (P)	08/21-12/12	RITA 145	 
+10171	BIOL	312L	03	M	1.000	Molecular Biology Laboratory	W	12:15 pm-03:15 pm	14	1	Anastasia Maria Zimmerman (P)	08/21-12/12	RITA 145	 
+12152	BIOL	312L	04	M	1.000	Molecular Biology Laboratory	R	12:15 pm-03:15 pm	14	-1	Christine A Byrum (P)	08/21-12/12	RITA 145	 
+13975	BIOL	312L	05	M	1.000	Molecular Biology Laboratory	W	08:30 am-11:30 am	14	6	Jessica Alice McCoy (P)	08/21-12/12	RITA 145	 
+10172	BIOL	313	01	M	3.000	Cell Biology	MWF	10:00 am-10:50 am	38	1	Richard J Southgate (P)	08/21-12/12	RITA 103	 
+10173	BIOL	313L	01	M	1.000	Cell Biology Laboratory	W	02:00 pm-05:00 pm	16	1	Richard J Southgate (P)	08/21-12/12	RITA 143	 
+10174	BIOL	313L	03	M	1.000	Cell Biology Laboratory	R	02:00 pm-05:00 pm	16	0	Richard J Southgate (P)	08/21-12/12	RITA 143	 
+10175	BIOL	321	01	M	4.000	Gen and Comp Physiology	MWF	09:00 am-09:50 am	32	6	Elizabeth L Meyer-Bernstein (P)	08/21-12/12	RITA 152	 
+10176	BIOL	321L	01	M	0.000	Gen and Comp Physiology Lab	W	01:30 pm-04:30 pm	16	2	Jeffrey D Triblehorn (P)	08/21-12/12	RITA 279	 
+13464	BIOL	321L	02	M	0.000	Gen and Comp Physiology Lab	R	01:35 pm-04:35 pm	16	4	Jeffrey D Triblehorn (P)	08/21-12/12	RITA 279	 
+11392	BIOL	335	01	G	4.000	Biology Of Fishes	MR	12:45 pm-02:00 pm	30	1	Gorka A Sancho (P)	08/21-12/12	GMLM 101	 
+11393	BIOL	335L	01	G	0.000	Biology of Fishes Lab	M	02:05 pm-05:05 pm	15	0	Gorka A Sancho (P)	08/21-12/12	GMLM 101	 
+11973	BIOL	335L	02	G	0.000	Biology of Fishes Lab	R	02:05 pm-05:05 pm	15	1	Gorka A Sancho (P)	08/21-12/12	GMLM 101	 
+12132	BIOL	336	01	M	4.000	Parasitology	TR	10:50 am-12:05 pm	32	8	Isaure de Buron (P)	08/21-12/12	RITA 152	 
+12133	BIOL	336L	01	M	0.000	Parasitology Lab	R	12:30 pm-03:30 pm	16	3	Isaure de Buron (P)	08/21-12/12	RITA 153	 
+12134	BIOL	336L	02	M	0.000	Parasitology Lab	R	03:45 pm-06:45 pm	16	5	Isaure de Buron (P)	08/21-12/12	RITA 153	 
+13465	BIOL	338	01	M	4.000	Entomology	TR	10:50 am-12:05 pm	16	0	Brian G Scholtens (P)	08/21-12/12	RITA 103	 
+13466	BIOL	338L	01	M	0.000	Entomology Lab	F	01:00 pm-05:00 pm	16	1	Brian G Scholtens (P)	08/21-12/12	RITA 241	 
+13467	BIOL	340	01	M	3.000	Zoogeography	TR	01:40 pm-02:55 pm	40	9	Antony Scott Harold (P)	08/21-12/12	RITA 103	 
+10177	BIOL	341	01	M	4.000	General Ecology	TR	09:25 am-10:40 am	28	2	Phillip Dustan (P)	08/21-12/12	RITA 152	 
+10178	BIOL	341L	01	M	0.000	General Ecology Lab	T	01:00 pm-05:00 pm	14	1	Phillip Dustan (P)	08/21-12/12	RITA 241	 
+10179	BIOL	341L	02	M	0.000	General Ecology Lab	W	01:30 pm-05:30 pm	14	1	Phillip Dustan (P)	08/21-12/12	RITA 241	 
+11918	BIOL	342	01	G	4.000	Oceanography	TW	04:15 pm-07:00 pm	12	2	Giacomo R DiTullio (P)	10/10-12/12	GMLM 202	 
+11919	BIOL	342L	01	G	0.000	Oceanography Lab	TW	01:00 pm-04:00 pm	12	2	Giacomo R DiTullio (P)	10/10-12/12	GMLA 113	 
+10180	BIOL	343	01	M	3.000	Animal Behavior	MWF	11:00 am-11:50 am	32	3	Melissa Hughes (P)	08/21-12/12	RITA 154	 
+10181	BIOL	343L	01	M	1.000	Animal Behavior Lab	M	01:40 pm-04:40 pm	15	2	Melissa Hughes (P)	08/21-12/12	RITA 261	 
+10183	BIOL	351	01	M	3.000	Principles of Neurobiology	TR	09:25 am-10:40 am	21	4	Jeffrey D Triblehorn (P)	08/21-12/12	RITA 103	EQ
+14563	BIOL	381	01	M	2.000	Biology Internship	 	TBA	0	-1	Willem Jacob Hillenius (P)	08/21-12/12	TBA	 
+11406	BIOL	396	01	M	3.000	Biophysical Model of Exc Cells	TR	12:15 pm-01:30 pm	12	5	Sorinel Adrian Oprisan (P)	08/21-12/12	RITA 363	EQ
+14210	BIOL	397	01	M	0.000	Kudoa Inornata Myxospore Density in Seatrout	 	TBA	0	-1	Isaure de Buron (P)	08/21-12/12	TBA	 
+14266	BIOL	397	02	M	0.000	Characterization of Transfer RNAs during Tumor Progression	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14397	BIOL	397	03	M	0.000	Studying Connections of Scleraxis with Collagen, Inflammation and Toll-like Receptors	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14567	BIOL	397	04	M	0.000	Pathogenic Ciliate Infection of White Shrimp	 	TBA	0	-1	Isaure de Buron (P)	10/10-12/12	TBA	 
+13842	BIOL	399	01	M	3.000	An Investigation into Cardiac Development in mice	 	TBA	0	-1	Matthew E Rhodes (P)	08/21-12/12	TBA	 
+14135	BIOL	399	02	M	3.000	Validation of Cre Dependent shRNA Virus in Animal Models	 	TBA	0	-1	Christopher A Korey (P)	08/21-12/12	TBA	 
+14325	BIOL	399	03	M	3.000	Human Anatomy	 	TBA	0	-1	Mausumi Bandyopadhyay (P)	08/21-12/12	TBA	 
+14377	BIOL	399	04	M	2.000	Tutorial	 	TBA	0	0	TBA	08/21-12/12	TBA	 
+14390	BIOL	399	05	M	2.000	Biomechanics of Eel Skins	 	TBA	0	-1	Andrew J Clark (P)	08/21-12/12	TBA	 
+14401	BIOL	399	06	M	1.000	Protein Factors involved in alternative splicing	 	TBA	0	-1	Agnes J Southgate (P)	08/21-12/12	TBA	 
+14429	BIOL	399	07	M	3.000	Honeybee Muscle blind	 	TBA	0	-1	Agnes J Southgate (P)	08/21-12/12	TBA	 
+14523	BIOL	399	08	M	3.000	Investigations of Nuclear Transport	 	TBA	0	-1	Christine A Byrum (P)	08/21-12/12	TBA	 
+14524	BIOL	399	09	M	3.000	Tutorial	 	TBA	0	-1	Christine A Byrum (P)	08/21-12/12	TBA	 
+14553	BIOL	399	11	M	1.000	Tutorial in Biology	 	TBA	0	-1	Eric J McElroy (P)	08/21-12/12	TBA	 
+14559	BIOL	399	12	M	1.000	Splicing Factors in honeybees	 	TBA	0	-1	Agnes J Southgate (P)	08/21-12/12	TBA	 
+14581	BIOL	399	13	M	1.000	Human Anatomy & Physiology Lab Tutorial	 	TBA	1	0	Mausumi Bandyopadhyay (P)	08/21-12/12	TBA	 
+14582	BIOL	399	14	M	1.000	Biology of Fishes Lab Tutorial	 	TBA	1	0	Gorka A Sancho (P)	08/21-12/12	TBA	 
+13435	BIOL	406	01	O	3.000	Conservation Biology	 	TBA	0	-9	Erik Sotka (P)	08/21-12/12	OFFC 80122	 
+11723	BIOL	423	01	M	4.000	Genomics	MF	09:30 am-10:45 am	6	3	Christine A Byrum (P)	08/21-12/12	RITA 273	 
+11724	BIOL	423L	02	M	0.000	Genomics Lab	F	12:30 pm-03:30 pm	6	3	Christine A Byrum (P)	08/21-12/12	RITA 145	 
+14400	BIOL	448	01	M	3.000	Exploration of the Neuron astrocyte Interaction linked to heroin addiction and relapse	 	TBA	0	-1	Sorinel Adrian Oprisan (P)	08/21-12/12	TBA	 
+14526	BIOL	448	02	M	3.000	Comparison of Flicker Fusion frequency in three cockroach species	 	TBA	0	-1	Jeffrey D Triblehorn (P)	08/21-12/12	TBA	 
+14528	BIOL	448	03	M	3.000	Resting-State Functional Connectivity in Patients with Amnestic Wild Cognitive Impairment	 	TBA	0	-1	Sorinel Adrian Oprisan (P)	08/21-12/12	TBA	 
+14546	BIOL	448	04	M	3.000	The Impact of Stress on Sensitivity to Alcohol Cues	 	TBA	0	-1	Sorinel Adrian Oprisan (P)	08/21-12/12	TBA	 
+14265	BIOL	450	01	M	3.000	Review of the Current Literature on the Biology of Transfer RNAs	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14269	BIOL	450	02	M	1.000	Analysis of Aerobic Respiration Genes of Iron Oxidizers of the Mariana are	 	TBA	0	-1	Heather E Fullerton (P)	08/21-12/12	TBA	 
+14374	BIOL	450	03	M	2.000	+RNA Profiles of Halo archaen as a function of salinity	 	TBA	0	-1	Matthew E Rhodes (P)	08/21-12/12	TBA	 
+14396	BIOL	450	04	M	1.000	The Effect of Melatonin on the Circadian clock in the sea anemone	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	08/21-12/12	TBA	 
+14436	BIOL	450	05	M	2.000	Physiological & Morphological Trait variation of Arabidopsis Knockout mutants in response	 	TBA	0	-1	Courtney J Murren (P)	08/21-12/12	TBA	 
+14466	BIOL	450	06	M	3.000	Circadian Rhythms in the Sea Anemone	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	08/21-12/12	TBA	 
+14498	BIOL	450	07	M	4.000	3-0 reconstruction of the Cochlea of Voles	 	TBA	0	-1	Willem Jacob Hillenius (P)	08/21-12/12	TBA	 
+14274	BIOL	451	01	M	3.000	Biogeography of Benthic Microalgae	 	TBA	0	-1	Craig J Plante (P)	08/21-12/12	TBA	 
+14395	BIOL	451	02	M	4.000	Diet of Bonnethead Sharks	 	TBA	0	-1	Gorka A Sancho (P)	08/21-12/12	TBA	 
+14541	BIOL	451	03	M	2.000	Identification of parasites in Donax variabilis	 	TBA	0	-1	Isaure de Buron (P)	08/21-12/12	TBA	 
+13430	BIOL	453	01	O	3.000	Special Topics	 	TBA	0	-9	Erik Sotka (P)	08/21-12/12	OFFC 80122	Special Topics
+13432	BIOL	453L	01	O	1.000	Special Topics Laboratory	 	TBA	0	-9	Erik Sotka (P)	08/21-12/12	OFFC 80122	Special Topics
+13776	BIOL	499	01	M	3.000	Comparative biomechanics of moray eel skins	 	TBA	0	-1	Andrew J Clark (P)	08/21-12/12	TBA	 
+13777	BIOL	499	02	M	3.000	Cardiac Development in Mice	 	TBA	0	-1	Agnes J Southgate (P)	08/21-12/12	TBA	 
+14208	BIOL	499	03	M	3.000	The Effect of Stress and Alcohol on Synaptic Plasticity	 	TBA	0	-1	Matthew Thomas Rutter (P)	08/21-12/12	TBA	 
+14257	BIOL	499	04	M	3.000	Mouse Models of Alcohol Dependency	 	TBA	0	-1	Christopher A Korey (P)	08/21-12/12	TBA	 
+14260	BIOL	499	05	M	3.000	Microbiology of Hydrothermal Vents	 	TBA	0	-1	Heather E Fullerton (P)	08/21-12/12	TBA	 
+14261	BIOL	499	06	M	3.000	Glutamate Levels in the Nucleus Accumbens of Mice	 	TBA	0	-1	Jeffrey D Triblehorn (P)	08/21-12/12	TBA	 
+14263	BIOL	499	07	M	3.000	Assessing The Biological Relevance of Transfer RNA During EMT	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14264	BIOL	499	08	M	3.000	Implementing a Streamlined Microarray/Mass SpectrometryApproach to monitor Modification in Transfer	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14326	BIOL	499	09	M	3.000	BMP regulates AV endocardial cushion cell lineage determination in cooperation with Notch signaling	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14327	BIOL	499	10	M	3.000	Role of Proteoglycans in cardiovascular development and disease	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14381	BIOL	499	11	M	3.000	Dichelyne Bullocki: A complex of Species	 	TBA	0	-1	Isaure de Buron (P)	08/21-12/12	TBA	 
+14402	BIOL	499	12	M	3.000	Bachelor's Essay	TBA	0	0	TBA	08/21-12/12	TBA	 
+14410	BIOL	499	13	M	2.000	Parasites of Cryptic species of sharks	 	TBA	0	-1	Isaure de Buron (P)	08/21-12/12	TBA	 
+14435	BIOL	499	14	M	3.000	Biogeographic analysis of bacteria in the Sargasso Sea using high-throughput sequencing methods	 	TBA	0	-1	Craig J Plante (P)	08/21-12/12	TBA	 
+14437	BIOL	499	15	M	3.000	Biodiversity of Fishes Associated with Gracilaria vermiculophylla	 	TBA	0	-1	Antony Scott Harold (P)	08/21-12/12	TBA	 
+14438	BIOL	499	16	M	3.000	Role of Proteoglycans in cardiovascular development and disease	 	TBA	0	-1	Willem Jacob Hillenius (P)	08/21-12/12	TBA	 
+14439	BIOL	499	17	M	3.000	Investigations in Nuclear Transport	 	TBA	0	-1	Christine A Byrum (P)	08/21-12/12	TBA	 
+14465	BIOL	499	18	M	3.000	Role of Completment System in Neuronal Injury	 	TBA	0	-1	Elizabeth L Meyer-Bernstein (P)	08/21-12/12	TBA	 
+14490	BIOL	499	19	M	3.000	Effects of two antidepressants on Southern Toad tadpoles	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14510	BIOL	499	20	M	3.000	CBD Oil Treatment in the Canine Species	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14515	BIOL	499	21	M	3.000	The Presence of Vehicle Microparticles in MArsh dwelling invertebrates	 	TBA	0	-1	Phillip Dustan (P)	08/21-12/12	TBA	 
+14516	BIOL	499	22	M	3.000	Role of CCDC 117 Expression in Cell Cycle Regulation of Placental Triphoblast Cells	 	TBA	0	-1	Renaud Geslain (P)	08/21-12/12	TBA	 
+14527	BIOL	499	23	M	3.000	The Role of Brain insulin in functional recovery after stroke in mouse model hyperinsulinemia	 	TBA	0	-1	Jason T Vance (P)	08/21-12/12	TBA	 
+14545	BIOL	499	24	M	3.000	Epidemiology of Viruses in Horses	 	TBA	0	-1	Jeffrey D Triblehorn (P)	08/21-12/12	TBA	 
+12001	BIOL	523	01	M	4.000	Genomics	MF	09:30 am-10:45 am	6	4	Christine A Byrum (P)	08/21-12/12	RITA 273	 
+12002	BIOL	523L	02	M	0.000	Genomics Lab	F	12:30 pm-03:30 pm	6	4	Christine A Byrum (P)	08/21-12/12	RITA 145	 
+13420	BIOL	601	01	G	4.000	Ecology Of Marine Organisms	MW	08:30 am-10:30 am	16	1	Craig J Plante (P)	08/21-12/12	GMLM 202	 
+13421	BIOL	601L	01	G	0.000	Ecology of Marine Org Lab	T	02:00 pm-05:00 pm	8	1	Craig J Plante (P)	08/21-12/12	GMLM 101	 
+13422	BIOL	601L	02	G	0.000	Ecology of Marine Org Lab	W	02:00 pm-05:00 pm	8	0	Craig J Plante (P)	08/21-12/12	GMLM 101	 
+13423	BIOL	611	01	G	4.000	Biometry	TR	11:45 am-01:00 pm	16	0	Allan Edgar Strand (P)	08/21-12/12	GMLM 202	 
+13424	BIOL	611L	01	G	0.000	Biometry	T	08:30 am-11:30 am	8	0	Allan Edgar Strand (P)	08/21-12/12	GMLM 101	 
+13425	BIOL	611L	02	G	0.000	Biometry	R	08:30 am-11:30 am	8	0	Allan Edgar Strand (P)	08/21-12/12	GMLM 101	 
+12025	BIOL	620	01	G	1.000	Grad Core Seminar	R	05:30 pm-07:30 pm	18	2	Craig J Plante (P)	08/21-12/12	GMLM 101	 
+12468	BIOL	627	01	G	4.000	Marine Tetrapod Biology	M	01:05 pm-04:05 pm	10	4	Andrew M Shedlock (P)	08/21-12/12	GMLM 202	 
+12493	BIOL	627L	01	G	0.000	Marine Tetrapod Biology	W	01:05 pm-04:05 pm	10	4	Andrew M Shedlock (P)	08/21-12/12	GMLM 202	 
+11739	BIOL	646	01	G	3.000	Aquatic Toxicology	TW	06:30 pm-08:00 pm	14	9	Marie Elizabeth DeLorenzo (P)	08/21-12/12	GMLM 101	 
+12033	BIOL	650	01	G	1.000	Seminar In Mar Biol	M	05:30 pm-07:00 pm	15	5	Thomas W Greig (P)	08/21-12/12	GMLM 202	 
+14128	BIOL	690	01	M	1.000	Review of Marine Protected Areas in Temperate and Tropical Regions	 	TBA	0	-1	George Reece Sedberry (P)	08/21-12/12	TBA	 
+14129	BIOL	690	02	M	1.000	Interactive Effects of Oil Sheens, Ultraviolet Light, Temperature, Salinity on Sheepshead Minnow	 	TBA	0	-1	Marie Elizabeth DeLorenzo (P)	08/21-12/12	TBA	 
+14131	BIOL	690	03	M	1.000	Sampling Techniques in Fisheries Science	 	TBA	0	-1	Eric W Montie (P)	08/21-12/12	TBA	 
+14156	BIOL	690	04	M	3.000	Applied Quantitative Methods	 	TBA	0	-1	Daniel J McGlinn (P)	08/21-12/12	TBA	 
+14157	BIOL	690	05	M	4.000	Parasitology	 	TBA	0	-1	Isaure de Buron (P)	08/21-12/12	TBA	 
+14244	BIOL	690	06	M	1.000	Evaluation of the Interactive Effects on Survival of Early Life Stages of the Sheepshead Minnow	 	TBA	0	-1	Marie Elizabeth DeLorenzo (P)	08/21-12/12	TBA	 
+13993	BIOL	700	01	M	2.000	Tire Wear Particles in the Charleston Harbor	 	TBA	0	-1	John E. Weinstein (P)	08/21-12/12	TBA	 
+14015	BIOL	700	02	M	1.000	Intra- and Supra-Epidermal Settlement Cues for the Tassle Barnacle	 	TBA	0	-1	John D Zardus (P)	08/21-12/12	TBA	 
+14130	BIOL	700	03	M	2.000	Improving Diet Resolution for Reef-Associated Large Predators in the US Southeast Atlantic	 	TBA	0	-1	Tracey Irene Smart (P)	08/21-12/12	TBA	 
+14132	BIOL	700	04	M	2.000	Examining the Reproductive Biology and Ecological Impacts of the Green Porcelain Crab	 	TBA	0	-1	Dara H. Wilber (P)	08/21-12/12	TBA	 
+14138	BIOL	700	05	M	2.000	Effect of Summer Temperatures on Aerobic Scopt of Juvenile Red Drum	 	TBA	0	-1	Eric J McElroy (P)	08/21-12/12	TBA	 
+14152	BIOL	700	06	M	2.000	Detection of Multiple Paternity in Diamondback Terrapin Egg Clutches from Charleston, SC	 	TBA	0	-1	Allan Edgar Strand (P)	08/21-12/12	TBA	 
+14165	BIOL	700	07	M	1.000	Age, Growth, and Reproductive Life History of the Goblid Fish in Charleston Harbor Estuary	 	TBA	0	-1	Antony Scott Harold (P)	08/21-12/12	TBA	 
+14166	BIOL	700	08	M	3.000	Physiological Stress Response and Post-Release Survival of Backflip Sharks	 	TBA	0	-1	Gorka A Sancho (P)	08/21-12/12	TBA	 
+14194	BIOL	700	09	M	4.000	Assessing the Relationship Between Deep-See Megafaunal Communities and Geomorphology in W. Florida	 	TBA	0	-1	Leslie R Sautter (P)	08/21-12/12	TBA	 
+14207	BIOL	700	10	M	2.000	Determing Water Quality Threats to Acropora Palmata Reproduction	 	TBA	0	-1	Cheryl Woodley (P)	08/21-12/12	TBA	 
+14220	BIOL	700	11	M	2.000	Age, Growth, and Reproduction Biology of Two Data-Deficient Parrotfish Species	 	TBA	0	-1	Virginia Rhea Shervette (P)	08/21-12/12	TBA	 
+14243	BIOL	700	12	M	2.000	Evaluating the Efficacy of Marine Protected Areas for Snapper-Grouper Species	 	TBA	0	-1	Tracey Irene Smart (P)	08/21-12/12	TBA	 
+14331	BIOL	700	13	M	1.000	Characterization of the Coral Metabolome Under Different pH and Temperature Regimes	 	TBA	0	-1	Tracy Beth Schock Johnston (P)	08/21-12/12	TBA	 
+14149	BIOL	900	01	M	1.000	Continuous Research Enrollment	 	TBA	0	-1	Michael G Janech (P)	08/21-12/12	TBA
+

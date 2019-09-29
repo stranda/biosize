@@ -1,0 +1,53 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+11999	EVSS	549	01	M	4.000	Geographic Information Systems	M	05:30 pm-08:30 pm	9	3	Enma L Paz (P)	08/21-12/12	SSMB 255	 
+12000	EVSS	549L	01	M	0.000	Geographic Information Systems	W	05:30 pm-08:30 pm	9	3	Enma L Paz (P)	08/21-12/12	SSMB 255	 
+10238	EVSS	601	01	M	3.000	Econ Theory For Policy Analysi	TR	03:05 pm-04:20 pm	21	0	James Wesley Burnett (P)	08/21-12/12	MYBK 111	 
+10239	EVSS	602	01	M	3.000	Public Policy	M	05:30 pm-08:15 pm	12	0	Matthew C Nowlin (P)	08/21-12/12	MYBK 206	 
+13661	EVSS	610	01	M	3.000	Environmental Biology	MW	03:25 pm-04:40 pm	11	1	Matthew Thomas Rutter (P)	08/21-12/12	MYBK 320	 
+12706	EVSS	611	01	M	3.000	Graduate Core Seminar	W	05:30 pm-08:15 pm	20	9	Pamela Susan Lovelace (P)	08/21-12/12	SSMB 200	 
+13439	EVSS	624	01	G	4.000	Biometry	TR	11:45 am-01:00 pm	9	6	Allan Edgar Strand (P)	08/21-12/12	GMLM 202	 
+13440	EVSS	624L	01	G	0.000	Biometry	T	08:30 am-11:30 am	6	4	Allan Edgar Strand (P)	08/21-12/12	GMLM 101	 
+13441	EVSS	624L	02	G	0.000	Biometry	R	08:30 am-11:30 am	3	2	Allan Edgar Strand (P)	08/21-12/12	GMLM 101	 
+12308	EVSS	627	01	G	4.000	Marine Tetrapod Biology	M	01:05 pm-04:05 pm	10	7	Andrew M Shedlock (P)	08/21-12/12	GMLM 202	 
+12309	EVSS	627L	01	G	0.000	Marine Tetrapod Biology Lab	W	01:05 pm-04:05 pm	10	7	Andrew M Shedlock (P)	08/21-12/12	GMLM 202	 
+12771	EVSS	633	01	M	3.000	Hist/Theory Amer Urban Plannin	 	TBA	0	0	Kevin P Keenan (P)	08/21-12/12	TBA	 
+13443	EVSS	645	01	M	3.000	Coastal Issues & Processes	T	02:00 pm-05:00 pm	15	6	Michael S Harris (P)	08/21-12/12	SSMB 255	 
+14190	EVSS	690	01	M	3.000	Creation of a Master Planning Document for the Battery to Beach Project	 	TBA	0	-1	Norman S Levine (P)	08/21-12/12	TBA	 
+13970	EVSS	691	01	M	3.000	The Role of Ambient Temperature and Peak Influenza Activity in Pandemic Outbreaks	 	TBA	0	-1	Brian H Bossak (P)	08/21-12/12	TBA	 
+14136	EVSS	691	02	M	3.000	Stormwater and Tidal Hydraulics in an Urban Watershed: Land Use Change Impacts	 	TBA	0	-1	Timothy J Callahan (P)	08/21-12/12	TBA	 
+14206	EVSS	691	03	M	6.000	Assessment of Willingness to Pay for Coral-Safe Sunscreen	 	TBA	0	-1	James Wesley Burnett (P)	08/21-12/12	TBA	 
+14242	EVSS	691	04	M	3.000	Coastal Residents' Perspectives on Environmental Health Risk Factors	 	TBA	0	-1	Matthew C Nowlin (P)	08/21-12/12	TBA	 
+14241	EVSS	693	01	M	2.000	US Coastal Residents' Perception of Risks	 	TBA	0	-1	Matthew C Nowlin (P)	08/21-12/12	TBA	 
+14334	EVSS	693	02	M	3.000	Integrating Environmental Sustainability into Non-Profit Strategic Planning	 	TBA	0	-1	Barry L Stiefel (P)	08/21-12/12	TBA	 
+14357	EVSS	693	03	M	1.000	Intro to GIS and Remote Sensing	 	TBA	0	-1	Khalid A Ali (P)	08/21-12/12	TBA	 
+13660	EVSS	695	01	M	3.000	ST: Ecopreneurship	TR	04:00 pm-05:15 pm	5	0	David J Hansen (P)	08/21-12/12	ECTR 101	 
+12610	EVSS	695	02	M	3.000	ST: Cultures, Economies, and Environmental Governance	R	05:30 pm-08:30 pm	12	7	Annette M Watson (P)	08/21-12/12	SSMB 200	 
+14069	EVSS	695	03	M	3.000	ST: Introduction to Geospatial Sciences	TR	05:30 pm-06:45 pm	9	4	Norman S Levine (P)	08/21-12/12	SSMB 255	 
+14005	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Eric J McElroy (P)	08/21-12/12	TBA	 
+14124	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Melissa Hughes (P)	08/21-12/12	TBA	 
+14164	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/21-12/12	TBA	 
+14170	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	08/21-12/12	TBA	 
+14191	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Gavin Naylor (P)	08/21-12/12	TBA	 
+14192	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	08/21-12/12	TBA	 
+14219	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	08/21-12/12	TBA	 
+14312	EVSS	900	08	M	1.000	Continuous Enrollment	 	TBA	0	-1	Khalid A Ali (P)	08/21-12/12	TBA	 
+14313	EVSS	900	09	M	1.000	Continuous Enrollment	 	TBA	0	-1	Matthew C Nowlin (P)	08/21-12/12	TBA	 
+14342	EVSS	900	10	M	1.000	Continuous Enrollment	 	TBA	0	-1	Bernhard L Lindner (P)	08/21-12/12	TBA	 
+14371	EVSS	900	11	M	1.000	Continuous Enrollment	 	TBA	0	-1	Craig J Plante (P)	08/21-12/12	TBA	 
+14573	EVSS	900	12	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	10/10-12/12	TBA	 
+Environmental Studies - Underg
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+11044	ENVT	200	01	M	3.000	Intro Enviro. & Sust. Studies	TR	08:00 am-09:15 am	32	2	Seth G Pritchard (P), Nicholas D Rubin	08/21-12/12	RITA 103	Sustainability-Focused
+11298	ENVT	200	02	M	3.000	Intro Enviro. & Sust. Studies	TR	09:25 am-10:40 am	32	-1	Nicholas Dino Principe (P), Jennifer Michelle Saunders	08/21-12/12	SSMB 203	Sustainability-Focused
+12263	ENVT	200	03	M	3.000	Intro Enviro. & Sust. Studies	TR	12:15 pm-01:30 pm	32	1	Barbara Austin Beckingham (P), Caroline B Foster	08/21-12/12	MYBK 322	Sustainability-Focused
+11727	ENVT	352	01	M	3.000	ST: Race, Gender, and Environment	T	04:00 pm-06:45 pm	10	2	Kristi Jo Brian (P)	08/21-12/12	RSS 252	Sustainability-Focused and Special Topics
+13719	ENVT	352	02	O	3.000	ST: Environmental Sustainability and Policy: An International Comparison	 	TBA	0	-5	Carolyn Marie Sotka (P)	08/21-12/12	OFFC 80122	Sustainability-Focused
+12552	ENVT	352	03	M	3.000	ST: Sustainable Food Systems	TR	09:25 am-10:40 am	18	1	Ashley Lynn Lavender (P)	08/21-12/12	BELL 400	Special Topics
+14370	ENVT	355	01	M	3.000	Zero Waste Internship	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14540	ENVT	355	02	M	3.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14531	ENVT	355	03	M	1.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14537	ENVT	355	04	M	3.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14532	ENVT	355	05	M	1.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14539	ENVT	355	06	M	3.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+14536	ENVT	355	07	M	2.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	08/21-12/12	TBA	 
+

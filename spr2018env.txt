@@ -1,0 +1,63 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+23536	EVSS	506	01	H	3.000	Conservation Biology	MWF	11:30 am-12:20 pm	5	4	Christopher John Freeman (P)	01/08-05/02	HWWE 305	 
+22253	EVSS	549	01	M	4.000	Geographic Information Systems	M	05:15 pm-08:15 pm	6	1	Enma L Paz (P)	01/08-05/02	SSMB 255	 
+22254	EVSS	549L	01	M	0.000	Geographic Information Systems	W	05:15 pm-08:15 pm	6	1	Enma L Paz (P)	01/08-05/02	SSMB 255	 
+23490	EVSS	557	01	M	3.000	Satellite Meteorology	MW	04:00 pm-05:15 pm	10	8	Bernhard L Lindner (P)	01/08-05/02	LONG 219	 
+23541	EVSS	602	01	M	3.000	Public Policy	R	05:30 pm-08:15 pm	10	7	LaTasha C DeHaan (P)	01/08-05/02	ECTR 115	Online & Face-to-Face Class
+ 	 	 	 	 	 	 	 	ONL	 	 	LaTasha C DeHaan (P)	01/08-05/02	ONLINE	Online & Face-to-Face Class
+23538	EVSS	611	01	M	3.000	Graduate Core Seminar	T	05:30 pm-08:30 pm	10	1	Pamela Susan Lovelace (P)	01/08-05/02	SSMB 200	 
+23533	EVSS	622	01	G	4.000	Ecology of Marine Organisms	MW	08:30 am-10:30 am	6	5	Craig J Plante (P)	01/08-05/02	GMLM 101	 
+23535	EVSS	622L	02	G	0.000	Ecology of Marine Organisms	T	02:00 pm-05:00 pm	3	2	Craig J Plante (P)	01/08-05/02	GMLM 101	 
+21573	EVSS	624	01	G	4.000	Biometry	TR	09:00 am-10:15 am	9	3	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+21574	EVSS	624L	01	G	0.000	Biometry	T	10:30 am-01:30 pm	3	0	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+21575	EVSS	624L	02	G	0.000	Biometry	R	10:30 am-01:30 pm	6	3	Allan Edgar Strand (P)	01/08-05/02	GMLM 101	 
+22152	EVSS	632	01	M	3.000	Soc Sci Methods in Env Studies	W	05:30 pm-08:30 pm	16	4	Annette M Watson (P)	01/08-05/02	ECTR 111	 
+23540	EVSS	639	01	M	3.000	Wetlands and Watersheds	TR	12:15 pm-01:30 pm	10	4	Timothy J Callahan (P)	01/08-05/02	SSMB 255	 
+22244	EVSS	640	01	M	3.000	Earth System Science	TR	03:05 pm-04:20 pm	12	8	Barbara Austin Beckingham (P)	01/08-05/02	SSMB 200	 
+20445	EVSS	659	01	M	3.000	Environmental Statistics	TR	05:30 pm-06:45 pm	15	10	Martin L Jones (P)	01/08-05/02	MYBK 110	 
+24137	EVSS	690	01	M	6.000	Environmental Education and Ecotourism in Coastal South Carolina	 	TBA	0	-1	Melissa Hughes (P)	01/08-05/02	TBA	 
+24308	EVSS	690	02	M	3.000	Opportunities and Barriers: Wind Power in Kentucky	 	TBA	0	-1	James Wesley Burnett (P)	01/08-05/02	TBA	 
+24438	EVSS	690	03	M	3.000	Aquatic Ecosystem Restoration Opportunities to Improve the Coastal Resilience of Charleston	 	TBA	0	-1	Kevin P Keenan (P)	01/08-05/02	TBA	 
+23927	EVSS	691	01	M	3.000	Sustainability and Effectiveness of a Community-Based Marine Protected Area	 	TBA	0	-1	Paul Alan Sandifer (P)	01/08-05/02	TBA	 
+23933	EVSS	691	02	M	3.000	The Influence of Culture on Environmental Education in a Rural School in Paraguay	 	TBA	0	-1	William R Veal (P)	01/08-05/02	TBA	 
+24183	EVSS	691	03	M	3.000	Factors that Determine the Spatial Distribution of an Introduced Species in SC	 	TBA	0	-1	Eric J McElroy (P)	01/08-05/02	TBA	 
+24261	EVSS	691	04	M	3.000	Volcanic and Environmental Interactions in the Late Amazonian Period, Mars	 	TBA	0	-1	David John Chadwick (P)	01/08-05/02	TBA	 
+24264	EVSS	691	05	M	3.000	Bio-optical Inversion Modeling of Nearshore Waters in the USVI	 	TBA	0	-1	Khalid A Ali (P)	01/08-05/02	TBA	 
+24293	EVSS	691	06	M	3.000	Community-based Marine Protected Areas - Evaluation and Comparison	 	TBA	0	-1	Matthew C Nowlin (P)	01/08-05/02	TBA	 
+24433	EVSS	691	07	M	6.000	Vector-Borne Diseases in a Changing World	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24435	EVSS	691	08	M	3.000	Climate Change Denial and Renewable Energy	 	TBA	0	-1	Matthew C Nowlin (P)	01/08-05/02	TBA	 
+24436	EVSS	691	09	M	3.000	Monitoring and Modeling Coastal Marsh Migration Using Low-Altitude Remote Sensing	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24475	EVSS	691	10	M	6.000	Willingness to Pay for Wedding Flowers	 	TBA	0	-1	David J Hansen (P)	01/08-05/02	TBA	 
+24309	EVSS	693	01	M	4.000	Best Sustainability Practices in Relation to CPC Offices and Greenspaces	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+23532	EVSS	695	01	H	3.000	Special Topics In Eviron Studi	TR	08:30 am-09:45 am	5	2	Daniel J McGlinn (P)	01/08-05/02	HWWE 305	 
+23725	EVSS	695	02	M	4.000	ST: Comparative Genomics	TR	02:00 pm-03:15 pm	5	4	Andrew M Shedlock (P)	01/08-05/02	SSMB 100	 
+23730	EVSS	695	03	M	3.000	ST: Communicating Science	W	02:00 pm-05:00 pm	14	1	Carolyn Marie Sotka (P)	01/08-05/02	RSS 102	 
+23537	EVSS	726	01	G	3.000	Fisheries Science	TR	05:15 pm-06:45 pm	5	4	Marcel J Reichert (P)	01/08-05/02	GMLA 113	 
+24083	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Lori Hoffman Schwacke (P)	01/08-05/02	TBA	 
+24084	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24185	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24203	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Denise M. Sanger (P)	01/08-05/02	TBA	 
+24250	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Bernhard L Lindner (P)	01/08-05/02	TBA	 
+24342	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Paul Alan Sandifer (P)	01/08-05/02	TBA	 
+24439	EVSS	900	07	M	1.000	Continuous Enrollment	 	TBA	0	-1	Pamela Susan Lovelace (P)	01/08-05/02	TBA	 
+24440	EVSS	900	08	M	1.000	Continuous Enrollment	 	TBA	0	-1	Craig J Plante (P)	01/08-05/02	TBA	 
+24565	EVSS	900	09	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	02/28-05/02	TBA	 
+24567	EVSS	900	10	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	02/28-05/02	TBA	 
+Environmental Studies - Underg
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+21365	ENVT	200	01	M	3.000	Intro Enviro. & Sust. Studies	TR	12:15 pm-01:30 pm	30	1	Barbara Austin Beckingham (P), Jennifer Michelle Saunders	01/08-05/02	RSS 103	Sustainability-Focused
+20892	ENVT	200	02	M	3.000	Intro Enviro. & Sust. Studies	TR	09:25 am-10:40 am	30	2	Caroline B Foster (P), Nicholas Dino Principe	01/08-05/02	LCTR B09	Sustainability-Focused
+22425	ENVT	200	03	M	3.000	Intro Enviro. & Sust. Studies	MW	02:00 pm-03:15 pm	30	1	Allison Marie Welch (P), Jennifer Michelle Saunders	01/08-05/02	RSS 104	Sustainability-Focused
+24354	ENVT	350	01	M	3.000	Surveys of Wastewater Treatment Plants and Operators in South Carolina	 	TBA	0	-1	Barbara Austin Beckingham (P)	01/08-05/02	TBA	 
+24517	ENVT	350	02	M	2.000	Behavioral Effects Antidepressants on tadpoles	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+22021	ENVT	352	01	M	3.000	ST: Water Protectors in Anthropological Perspective	R	04:00 pm-06:45 pm	15	4	Kristi Jo Brian (P)	01/08-05/02	LCTR B09	Sustainability-Focused and Special Topics
+23662	ENVT	352	02	M	3.000	ST: Religion, Sustainability and Water	TR	01:40 pm-02:55 pm	20	3	Todd Jared LeVasseur (P)	01/08-05/02	ECTR 219	Sustainability-Focused and Special Topics
+24350	ENVT	355	01	M	3.000	MUSC Sustainability Intern	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24353	ENVT	355	02	M	3.000	Sustainable Agriculture Internship	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24397	ENVT	355	03	M	3.000	Urban Garden Internship	 	TBA	0	0	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24529	ENVT	355	04	M	3.000	Florence Crittendon Partner Intern	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24518	ENVT	355	05	M	3.000	Office of Sustainabiliy Media Intern	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24546	ENVT	355	06	M	2.000	Sustainability DIY Intern	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24530	ENVT	355	07	M	1.000	Stone Soup Collective Internship	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24569	ENVT	355	08	M	1.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+22519	ENVT	395	02	M	1.000	Environmental Studies Seminar	M	11:00 am-11:50 am	15	2	Timothy J Callahan (P)	01/08-05/02	SSMB 200

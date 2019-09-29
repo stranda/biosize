@@ -1,0 +1,57 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+22266	EVSS	506	01	M	3.000	Conservation Biology	TR	08:00 am-09:15 am	5	3	Erik Sotka (P)	01/08-05/02	RITA 102	 
+23426	EVSS	538	01	M	4.000	Introductory to Hydrogeology	MWF	11:00 am-11:50 am	5	3	Timothy J Callahan (P), Emma Collins	01/08-05/02	SSMB 253	 
+23427	EVSS	538L	01	M	0.000	Introductory Hydrogeolgy Lab	T	02:00 pm-05:00 pm	5	3	Timothy J Callahan (P)	01/08-05/02	SSMB 255	 
+23430	EVSS	542	01	M	4.000	Fundamentals of Remote Sensing	TR	12:15 pm-01:30 pm	10	7	David John Chadwick (P)	01/08-05/02	SSMB 255	 
+23432	EVSS	542L	01	M	0.000	Fund. Remote Sensing Lab	R	01:45 pm-04:45 pm	10	7	David John Chadwick (P)	01/08-05/02	SSMB 255	 
+21833	EVSS	549	01	M	4.000	Geographic Information Systems	M	05:15 pm-08:15 pm	7	0	Enma L Paz (P)	01/08-05/02	SSMB 255	 
+21834	EVSS	549L	01	M	0.000	Geographic Information Systems	W	05:15 pm-08:15 pm	7	0	Enma L Paz (P)	01/08-05/02	SSMB 255	 
+23428	EVSS	569	01	M	4.000	Advanced GIS: Enviro & Haz Mod	T	05:15 pm-08:15 pm	8	1	Norman S Levine (P)	01/08-05/02	SSMB 255	 
+23429	EVSS	569L	01	M	0.000	Adv. GIS: Enviro & Haz Mod Lab	R	05:15 pm-08:15 pm	8	1	Norman S Levine (P)	01/08-05/02	SSMB 255	 
+22268	EVSS	611	01	M	3.000	Graduate Core Seminar	R	05:30 pm-08:15 pm	15	11	Pamela Susan Lovelace (P)	01/08-05/02	SSMB 200	 
+21782	EVSS	632	01	M	3.000	Soc Sci Methods in Env Studies	W	05:30 pm-08:15 pm	15	1	Annette M Watson (P)	01/08-05/02	MYBK 105	 
+21830	EVSS	640	01	M	3.000	Earth System Science	TR	03:05 pm-04:20 pm	5	3	Barbara Austin Beckingham (P)	01/08-05/02	SSMB 200	 
+23633	EVSS	651	01	M	3.000	Research & Mgmt Enviro Org.	MW	03:25 pm-04:40 pm	14	6	Matthew C Nowlin (P)	01/08-05/02	MYBK 222	 
+20398	EVSS	659	01	M	3.000	Environmental Statistics	TR	03:05 pm-04:20 pm	15	1	Martin L Jones (P)	01/08-05/02	MYBK 113	 
+24067	EVSS	690	01	M	3.000	Creation of a Master Planning Document for the Battery to Beach Project	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24187	EVSS	690	02	M	3.000	Development of a Decision Management Tool for Monitoring Nitrification at Mt. Pleasant Waterworks	 	TBA	0	-1	Heather E Fullerton (P)	01/08-05/02	TBA	 
+24223	EVSS	690	03	M	3.000	Reducing the Environmental Impact of the Charleston Parks Conservancy	 	TBA	0	-1	Barry L Stiefel (P)	01/08-05/02	TBA	 
+24290	EVSS	690	04	M	6.000	Evaluation of Students' Knowledge Retention and Attitude Towards the Coastal Ecosystem	 	TBA	0	-1	Matthew C Nowlin (P)	01/08-05/02	TBA	 
+24372	EVSS	690	05	M	3.000	Integrated Pest Managment of Fire Ants in South Carolina School Gardens	 	TBA	0	-1	Seth G Pritchard (P)	01/08-05/02	TBA	 
+24024	EVSS	691	01	M	3.000	The Role of Ambient Temperature and Peak Influenza Activity in Pandemic Outbreaks	 	TBA	0	-1	Brian H Bossak (P)	01/08-05/02	TBA	 
+24025	EVSS	691	02	M	3.000	Coastal Residents' Perspectives on Environmental Health Risk Factors	 	TBA	0	-1	Matthew C Nowlin (P)	01/08-05/02	TBA	 
+24026	EVSS	691	03	M	6.000	Disconnects Between Amenity Migrant Landowners' Knowledge and Perceptions of Wetlands	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24289	EVSS	691	04	M	3.000	Microplastic Occurence in Coastal SC Fishes	 	TBA	0	-1	Gorka A Sancho (P)	01/08-05/02	TBA	 
+24291	EVSS	691	05	M	6.000	Understanding the Coastal Resilience and Natural Disaster Preparedness Through GIS Flood Modeling	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24293	EVSS	691	06	M	3.000	Stormwater and Tidal Hydraulics in an Urban Watershed: Land Use Change Impacts	 	TBA	0	-1	Timothy J Callahan (P)	01/08-05/02	TBA	 
+24334	EVSS	691	07	M	3.000	Volcanic and Environmental Interactions in the Late Amazonian Period, Mars	 	TBA	0	-1	David John Chadwick (P)	01/08-05/02	TBA	 
+24661	EVSS	691	08	M	3.000	Environmental Justice Academy: the Effect of Follow-Up on Project	 	TBA	0	0	TBA	01/08-05/02	TBA	 
+24185	EVSS	693	01	M	3.000	Python and SQL Applications for ArcGIS	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24288	EVSS	693	02	M	3.000	Environmental Impacts on Animal Locomotion	 	TBA	0	-1	Eric J McElroy (P)	01/08-05/02	TBA	 
+24393	EVSS	693	03	M	3.000	Independent Study	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24540	EVSS	693	04	M	1.000	Investigation of Drone-Based Precision Multispectral Mapping Techniques	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24546	EVSS	693	05	M	3.000	Interpersonal Network Analysis	 	TBA	0	-1	Tracy L Burkett (P)	01/08-05/02	TBA	 
+23801	EVSS	695	01	M	3.000	ST:Statistical Programming in R	TR	09:25 am-10:40 am	5	1	Daniel J McGlinn (P)	01/08-05/02	RITA 271	 
+22429	EVSS	695	02	M	3.000	ST: Political Economy of Natural Resources	R	05:30 pm-08:15 pm	15	8	Michael J Keating (P)	01/08-05/02	MYBK 222	 
+23799	EVSS	695	03	M	4.000	ST: Applied Mariculture	MW	12:35 pm-01:50 pm	8	1	Caitlyn Coker Mayer (P)	01/08-05/02	SSMB 255	 
+ 	 	 	 	 	 	 	W	02:00 pm-05:00 pm	 	 	Caitlyn Coker Mayer (P)	01/08-05/02	SSMB 255	 
+22267	EVSS	726	01	G	3.000	Fisheries Science	TR	05:15 pm-06:45 pm	5	2	Marcel J Reichert (P), Joseph C Ballenger	01/08-05/02	GMLM 202	 
+24349	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Norman S Levine (P)	01/08-05/02	TBA	 
+24373	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	Khalid A Ali (P)	01/08-05/02	TBA	 
+24374	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Matthew C Nowlin (P)	01/08-05/02	TBA	 
+24537	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	01/08-05/02	TBA	 
+24588	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Bernhard L Lindner (P)	01/08-05/02	TBA	 
+24609	EVSS	900	06	M	1.000	Continuous Enrollment	 	TBA	0	-1	Gavin Naylor (P)	01/08-05/02	TBA	 
+Environmental Studies - Underg
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+21252	ENVT	200	01	M	3.000	Intro Enviro. & Sust. Studies	MW	02:00 pm-03:15 pm	28	0	Allison Marie Welch (P), Jennifer Michelle Saunders	01/08-05/02	MYBK 111	Sustainability-Focused
+20822	ENVT	200	02	M	3.000	Intro Enviro. & Sust. Studies	TR	08:00 am-09:15 am	28	10	Nicholas Dino Principe (P), Nicholas D Rubin	01/08-05/02	BELL 403	Sustainability-Focused
+21926	ENVT	200	03	M	3.000	Intro Enviro. & Sust. Studies	TR	12:15 pm-01:30 pm	27	0	Barbara Austin Beckingham (P), Jennifer Michelle Saunders	01/08-05/02	LCTR B09	Sustainability-Focused
+21707	ENVT	352	01	M	3.000	ST: Biomimicry Thinking	MWF	11:00 am-11:50 am	10	0	Deborah A Bidwell (P)	01/08-05/02	RITA 103	Special Topics
+22376	ENVT	352	02	M	3.000	ST: Psychology of Social Change	MWF	10:00 am-10:50 am	10	1	Jennifer Lyn Wright (P)	01/08-05/02	ECTR 113	Sustainability-Focused and Special Topics
+23803	ENVT	352	03	O	3.000	ST: The Sociology of Sustainability and Consumption	 	ONL	5	0	Deborah M Auriffeille (P)	02/28-05/02	ONLINE	Special Topics
+23828	ENVT	352	04	M	1.000	ST: Sustainability Literacy Seminar	W	03:00 pm-03:50 pm	15	13	Barry L Stiefel (P)	01/08-05/02	MYBK 108	Special Topics
+24194	ENVT	355	01	M	3.000	Sustainability Outreach Internship	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24568	ENVT	355	02	M	3.000	Citizens Climate Lobby Internship	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+24454	ENVT	355	03	M	3.000	Environmental Stud Field Int	 	TBA	0	-1	Allison Marie Welch (P)	01/08-05/02	TBA	 
+21974	ENVT	395	02	M	1.000	Environmental Studies Seminar	T	12:15 pm-01:05 pm	15	8	Kristi Jo Brian (P)	01/08-05/02	BELL 310

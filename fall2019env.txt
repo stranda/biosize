@@ -1,0 +1,56 @@
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+13430	EVSS	518	01	M	3.000	History and Theory of American Urban Planning	T	05:30 pm-08:15 pm	8	7	Douglas M Rivet (P)	08/20-12/11	RSS 106	 
+13419	EVSS	535	01	M	3.000	Land Use Law	M	05:30 pm-08:15 pm	12	8	George S Barhight (P)	08/20-12/11	RSS 102	 
+13434	EVSS	541	01	M	4.000	Pollution in the Environment	M	02:00 pm-05:00 pm	12	2	Vijay M Vulava (P)	08/20-12/11	SSMB 253	 
+13435	EVSS	541L	01	M	0.000	Pollution in Environment Lab	W	02:00 pm-05:00 pm	12	2	Vijay M Vulava (P)	08/20-12/11	SSMB 241	 
+13323	EVSS	544	01	M	4.000	Plant Ecology	MW	02:00 pm-03:15 pm	8	4	Courtney J Murren (P)	08/20-12/11	RITA 152	 
+13326	EVSS	544L	01	M	0.000	Plant Ecology Lab	W	10:55 am-01:55 pm	8	4	Courtney J Murren (P)	08/20-12/11	RITA 281	 
+11751	EVSS	549	01	M	4.000	Geographic Information Systems	M	05:30 pm-08:30 pm	6	1	Enma L Paz (P)	08/20-12/11	SSMB 255	 
+11752	EVSS	549L	01	M	0.000	Geographic Information Systems Lab	W	05:30 pm-08:30 pm	6	1	Enma L Paz (P)	08/20-12/11	SSMB 255	 
+13940	EVSS	595	01	M	3.000	ST: Ecosystem Services and Human Health	T	05:30 pm-08:15 pm	10	0	Zachary H Hart (P)	08/20-12/11	SSMB 200	 
+13957	EVSS	595	02	M	4.000	ST: Geospatial Science	TR	05:15 pm-08:15 pm	8	2	Norman S Levine (P)	08/20-12/11	SSMB 255	 
+10218	EVSS	601	01	M	3.000	Economic Theory for Policy Analysis	TR	03:05 pm-04:20 pm	15	2	James Wesley Burnett (P)	08/20-12/11	JSC 337	 
+10219	EVSS	602	01	M	3.000	Public Policy	M	05:30 pm-08:15 pm	20	3	Matthew C Nowlin (P)	08/20-12/11	RSS 106	 
+12423	EVSS	610	01	M	3.000	Environmental Biology	MW	03:25 pm-04:40 pm	12	3	Courtney J Murren (P)	08/20-12/11	RITA 152	 
+12021	EVSS	611	01	M	3.000	Introduction to Environmental and Sustainability Studies	W	05:30 pm-08:15 pm	11	1	Pamela Susan Lovelace (P)	08/20-12/11	SSMB 200	 
+12249	EVSS	624	01	G	4.000	Biometry	MT	08:45 am-10:00 am	6	4	Allan Edgar Strand (P)	08/20-12/11	GMLM 101	 
+12250	EVSS	624L	01	G	0.000	Biometry	M	10:15 am-01:15 pm	2	1	Allan Edgar Strand (P)	08/20-12/11	GMLM 101	 
+12251	EVSS	624L	02	G	0.000	Biometry	T	10:15 am-01:15 pm	4	3	Allan Edgar Strand (P)	08/20-12/11	GMLM 101	 
+11911	EVSS	627	01	G	4.000	Marine Tetrapod Biology	M	02:05 pm-05:05 pm	4	3	Andrew M Shedlock (P)	08/20-12/11	GMLM 202	 
+11912	EVSS	627L	01	G	0.000	Marine Tetrapod Biology Lab	W	02:05 pm-05:05 pm	4	3	Andrew M Shedlock (P)	08/20-12/11	GMLM 202	 
+13911	EVSS	690	01	M	3.000	Development of a Decision Management Tool for Monitoring Nitrification at Mt. Pleasant Waterworks	 	TBA	0	-1	Heather E Fullerton (P)	08/20-12/11	TBA	 
+14163	EVSS	690	02	M	6.000	SC Local Food System Roadmap: An Inventory and Resource Guide to the Local Value Chain	 	TBA	0	-1	Norman S Levine (P)	08/20-12/11	TBA	 
+14015	EVSS	691	01	M	3.000	Development of a Submarine Canyon Geomorphological Classification Scheme	 	TBA	0	-1	Leslie R Sautter (P)	08/20-12/11	TBA	 
+14166	EVSS	691	02	M	3.000	Evaluating the Effects of Drainage Infrastructure on Tidal Dynamics	 	TBA	0	-1	Timothy J Callahan (P)	08/20-12/11	TBA	 
+14179	EVSS	691	03	M	3.000	An Analysis of Community Resilience to Flood/Hurricane Hazards in Charleston, SC	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+14238	EVSS	691	04	M	3.000	Using 3D Imaging to Evaluate Physical Processes on Living Shorelines	 	TBA	0	-1	Michael S Harris (P)	08/20-12/11	TBA	 
+14258	EVSS	691	05	M	3.000	Environmental Factors and Their Intersections as Drivers of Blue Crab Abundance in Charleston Harbor	 	TBA	0	-1	Allan Edgar Strand (P)	08/20-12/11	TBA	 
+14274	EVSS	691	06	M	3.000	Coordinated Collaborative Parnerships in Western Water: A Comparative Case Study	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+14275	EVSS	691	07	M	3.000	Analysis of Sea Level Rise Planning by Coastal Communities in the Southeastern US	 	TBA	0	-1	Matthew C Nowlin (P)	08/20-12/11	TBA	 
+14276	EVSS	691	08	M	3.000	Microplastic Occurence in Coastal SC Fishes	 	TBA	0	-1	Gorka A Sancho (P)	08/20-12/11	TBA	 
+14338	EVSS	691	09	M	3.000	Linking Land Use, Climate, and Coastal Ecosystems: a Watershed Perspective for a Changing SC Coast	 	TBA	0	-1	Andrew W. Tweel (P)	08/20-12/11	TBA	 
+14375	EVSS	691	10	M	6.000	The Use of an L-THIA Based Modified Curve Number Runoff Model for Flood Hazard Mapping in Charleston	 	TBA	0	-1	Norman S Levine (P)	08/20-12/11	TBA	 
+14425	EVSS	691	11	M	3.000	Improving Wood Traceability & Certificate Verification in Lowe's Supply Chain Using Blockchain Tech	 	TBA	0	-1	Kent N Gourdin (P)	08/20-12/11	TBA	 
+14491	EVSS	691	12	M	3.000	Genetic Variability of MHC Class I and II Genes in Alaskan Chinook Salmon	 	TBA	0	-1	Andrew M Shedlock (P)	08/20-12/11	TBA	 
+14513	EVSS	691	13	M	3.000	Environmental Justice Academy	 	TBA	0	-1	Jennifer Lyn Wright (P)	08/20-12/11	TBA	 
+14286	EVSS	693	01	M	1.000	Methods to Design Mobile Apps for Sustainability Analysis	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+14289	EVSS	693	02	M	3.000	Oceanographic Cruise: Theory and Practice	 	TBA	0	-1	Theodore R Them (P), Timothy J Callahan	08/20-12/11	TBA	 
+14424	EVSS	693	03	M	3.000	Environmental Education	 	TBA	0	-1	Tracey L Hunter-Doniger (P)	08/20-12/11	TBA	 
+14436	EVSS	693	04	M	1.000	Energy Audit for the Charleston Parks Conservancy	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+14464	EVSS	693	05	M	1.000	An Insight Into Water Quality of Charleston Region	 	TBA	0	-1	Vijay M Vulava (P)	08/20-12/11	TBA	 
+14492	EVSS	693	06	M	3.000	A Model for Utilization of Low-Salinity Habitats by Bottlenose Dolphins	 	TBA	0	-1	Norman S Levine (P)	08/20-12/11	TBA	 
+14544	EVSS	693	07	M	1.000	Grant Writing for the Social Sciences	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+13429	EVSS	695	02	M	3.000	ST: Managing Resilient Landscapes	W	05:30 pm-08:15 pm	10	3	Annette M Watson (P)	08/20-12/11	SSMB 100	 
+13297	EVSS	746	01	G	3.000	Aquatic Toxicology	TR	06:30 pm-08:00 pm	3	1	Marie Elizabeth DeLorenzo (P)	08/20-12/11	GMLM 101	 
+14178	EVSS	900	01	M	1.000	Continuous Enrollment	 	TBA	0	-1	Bernhard L Lindner (P)	08/20-12/11	TBA	 
+14256	EVSS	900	02	M	1.000	Continuous Enrollment	 	TBA	0	-1	David John Chadwick (P)	08/20-12/11	TBA	 
+14260	EVSS	900	03	M	1.000	Continuous Enrollment	 	TBA	0	-1	Annette M Watson (P)	08/20-12/11	TBA	 
+14402	EVSS	900	04	M	1.000	Continuous Enrollment	 	TBA	0	-1	Melissa Hughes (P)	08/20-12/11	TBA	 
+14435	EVSS	900	05	M	1.000	Continuous Enrollment	 	TBA	0	-1	Gavin Naylor (P)	08/20-12/11	TBA	 
+Environmental Studies - Underg
+CRN	Subj	Crse	Sec	Cmp	Cred	Title	Days	Time	Cap	Rem	Instructor	Date (MM/DD)	Location	Attribute
+10955	ENVT	200	01	M	3.000	Introduction to Environmental and Sustainability Studies	MW	02:00 pm-03:15 pm	33	0	Chelsea K Woodruff (P), Allison Marie Welch	08/20-12/11	RSS 252	Sustainability-Focused
+11180	ENVT	200	02	M	3.000	Introduction to Environmental and Sustainability Studies	TR	08:00 am-09:15 am	33	1	Nicholas D Rubin (P), Nicholas Dino Principe	08/20-12/11	SSMB 138	Sustainability-Focused
+11889	ENVT	200	03	M	3.000	Introduction to Environmental and Sustainability Studies	TR	10:50 am-12:05 pm	33	1	Caroline B Foster (P), Barbara Austin Beckingham	08/20-12/11	SSMB 203	Sustainability-Focused
+14355	ENVT	355	01	M	3.000	Internship in Environmental and Sustainability Studies	 	TBA	0	-1	Allison Marie Welch (P)	08/20-12/11	TBA	 
+13938	ENVT	452	01	M	3.000	ST: Ecosystem Services and Human Health	T	05:30 pm-08:15 pm	10	2	Zachary H Hart (P)	08/20-12/11	SSMB 200
