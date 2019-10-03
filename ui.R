@@ -37,8 +37,16 @@ shinyUI(fluidPage(
     
     # Show a plot of the generated distribution
     mainPanel(
-       plotOutput("totalPlot"),plotOutput("coursePlot"),
-       dataTableOutput("CourseInstructorTable")
+        tabsetPanel(type="tabs",
+                    tabPanel("Course enrollments through time",
+                             plotOutput("totalPlot"),plotOutput("coursePlot"),
+                             dataTableOutput("CourseInstructorTable")
+                             ),
+                    tabPanel("Section size distributions",
+                             plotOutput("sectionDist"),
+                             plotOutput("sectionsizeTime")
+                             )
+                    )
     )
   )
 ))
