@@ -86,7 +86,7 @@ shinyServer(function(input, output, session) {
 #      crses=crses[-grep("^6",crses)]
 #      crses=crses[-grep("^7",crses)]
 #      crses=crses[-grep("^9",crses)]
-      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452","448")])
       if (input$labs) { crses=crses[-grep("L|D",crses)]}
        updateSelectizeInput(session,'course',selected =crses,server=F)
     }
@@ -101,7 +101,7 @@ shinyServer(function(input, output, session) {
       crses=crses[-grep("^6",crses)]
       crses=crses[-grep("^7",crses)]
       crses=crses[-grep("^9",crses)]
-      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452","448")])
       if (input$labs) { crses=crses[-grep("L|D",crses)]}
       updateSelectizeInput(session,'course',selected =crses,server=F)
     }
@@ -120,7 +120,7 @@ shinyServer(function(input, output, session) {
       #      crses=crses[-grep("^6",crses)]
       #      crses=crses[-grep("^7",crses)]
       #      crses=crses[-grep("^9",crses)]
-      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452")])
+      crses=sort(crses[!crses%in%c("397","399","499","452","450","453","451","452","448")])
       if (input$labs) { crses=crses[-grep("L|D",crses)]}
       updateSelectizeInput(session,'course',selected =crses,server=F)
     }
